@@ -1,0 +1,824 @@
+{
+  "ガブリアス": {
+    "is_champion": true
+  },
+  "アシレーヌ": {
+    "is_champion": true
+  },
+  "リザードン": {
+    "is_champion": true
+  },
+  "アーマーガア": {
+    "is_champion": true
+  },
+  "ブリジュラス": {
+    "is_champion": true
+  },
+  "ゲンガー": {
+    "is_champion": true
+  },
+  "カバルドン": {
+    "is_champion": true
+  },
+  "ハッサム": {
+    "is_champion": true
+  },
+  "ギルガルド": {
+    "is_champion": true
+  },
+  "マスカーニャ": {
+    "is_champion": true
+  },
+  "カイリュー(メガ)": {
+    "is_champion": true
+  },
+  "バンギラス(メガ)": {
+    "is_champion": true
+  },
+  "ガブリアス(メガ)": {
+    "is_champion": true
+  },
+  "フラエッテ(メガ)": {
+    "is_champion": true
+  },
+  "イルカマン": {
+    "is_champion": true
+  },
+  "ギャラドス(メガ)": {
+    "is_champion": true
+  },
+  "リザードン(メガX)": {
+    "is_champion": true
+  },
+  "リザードン(メガY)": {
+    "is_champion": true
+  },
+  "マフォクシー(メガ)": {
+    "is_champion": true
+  },
+  "カメックス(メガ)": {
+    "is_champion": true
+  },
+  "オーダイル(メガ)": {
+    "is_champion": true
+  },
+  "ボスゴドラ(メガ)": {
+    "is_champion": true
+  },
+  "ゲッコウガ(メガ)": {
+    "is_champion": true
+  },
+  "エンブオー(メガ)": {
+    "is_champion": true
+  },
+  "フシギバナ(メガ)": {
+    "is_champion": true
+  },
+  "メガニウム(メガ)": {
+    "is_champion": true
+  },
+  "ルカリオ(メガ)": {
+    "is_champion": true
+  },
+  "キラフロル(メガ)": {
+    "is_champion": true
+  },
+  "スターミー(メガ)": {
+    "is_champion": true
+  },
+  "シャンデラ(メガ)": {
+    "is_champion": true
+  },
+  "サーナイト(メガ)": {
+    "is_champion": true
+  },
+  "エルレイド(メガ)": {
+    "is_champion": true
+  },
+  "プテラ(メガ)": {
+    "is_champion": true
+  },
+  "デンリュウ(メガ)": {
+    "is_champion": true
+  },
+  "ハガネール(メガ)": {
+    "is_champion": true
+  },
+  "ドリュウズ(メガ)": {
+    "is_champion": true
+  },
+  "フーディン(メガ)": {
+    "is_champion": true
+  },
+  "ゲンガー(メガ)": {
+    "is_champion": true
+  },
+  "カイロス(メガ)": {
+    "is_champion": true
+  },
+  "カイリュー": {
+    "is_champion": true
+  },
+  "ハッサム(メガ)": {
+    "is_champion": true
+  },
+  "ヘラクロス(メガ)": {
+    "is_champion": true
+  },
+  "ヘルガー(メガ)": {
+    "is_champion": true
+  },
+  "バンギラス": {
+    "is_champion": true
+  },
+  "サザンドラ": {
+    "is_champion": true
+  },
+  "ルチャブル(メガ)": {
+    "is_champion": true
+  },
+  "ヌメルゴン": {
+    "is_champion": true
+  },
+  "ヌメルゴン(ヒスイ)": {
+    "is_champion": true
+  },
+  "ジャラランガ": {
+    "is_champion": true
+  },
+  "ドラパルト": {
+    "is_champion": true
+  },
+  "ユキノオー(メガ)": {
+    "is_champion": true
+  },
+  "ウツボット(メガ)": {
+    "is_champion": true
+  },
+  "ヤドラン(メガ)": {
+    "is_champion": true
+  },
+  "ガルーラ(メガ)": {
+    "is_champion": true
+  },
+  "チルタリス(メガ)": {
+    "is_champion": true
+  },
+  "スコヴィラン(メガ)": {
+    "is_champion": true
+  },
+  "ジジーロン(メガ)": {
+    "is_champion": true
+  },
+  "ピクシー(メガ)": {
+    "is_champion": true
+  },
+  "ゴルーグ(メガ)": {
+    "is_champion": true
+  },
+  "オニゴーリ(メガ)": {
+    "is_champion": true
+  },
+  "ミミロップ(メガ)": {
+    "is_champion": true
+  },
+  "ユキメノコ(メガ)": {
+    "is_champion": true
+  },
+  "ピジョット(メガ)": {
+    "is_champion": true
+  },
+  "ケケンカニ(メガ)": {
+    "is_champion": true
+  },
+  "ライボルト(メガ)": {
+    "is_champion": true
+  },
+  "ニャオニクス(メガ)": {
+    "is_champion": true
+  },
+  "エアームド(メガ)": {
+    "is_champion": true
+  },
+  "アブソル(メガ)": {
+    "is_champion": true
+  },
+  "サメハダー(メガ)": {
+    "is_champion": true
+  },
+  "バクーダ(メガ)": {
+    "is_champion": true
+  },
+  "ウインディ": {
+    "is_champion": true
+  },
+  "ウインディ(ヒスイ)": {
+    "is_champion": true
+  },
+  "ジュペッタ(メガ)": {
+    "is_champion": true
+  },
+  "チリーン(メガ)": {
+    "is_champion": true
+  },
+  "フラージェス": {
+    "is_champion": true
+  },
+  "ウルガモス": {
+    "is_champion": true
+  },
+  "ドドゲザン": {
+    "is_champion": true
+  },
+  "タブンネ(メガ)": {
+    "is_champion": true
+  },
+  "ギャラドス": {
+    "is_champion": true
+  },
+  "カビゴン": {
+    "is_champion": true
+  },
+  "ミロカロス": {
+    "is_champion": true
+  },
+  "カミツオロチ": {
+    "is_champion": true
+  },
+  "ドサイドン": {
+    "is_champion": true
+  },
+  "バイバニラ": {
+    "is_champion": true
+  },
+  "オンバーン": {
+    "is_champion": true
+  },
+  "バクフーン": {
+    "is_champion": true
+  },
+  "バクフーン(ヒスイ)": {
+    "is_champion": true
+  },
+  "ゴウカザル": {
+    "is_champion": true
+  },
+  "マフォクシー": {
+    "is_champion": true
+  },
+  "カメックス": {
+    "is_champion": true
+  },
+  "オーダイル": {
+    "is_champion": true
+  },
+  "ボスゴドラ": {
+    "is_champion": true
+  },
+  "エンペルト": {
+    "is_champion": true
+  },
+  "マンムー": {
+    "is_champion": true
+  },
+  "ブリガロン": {
+    "is_champion": true
+  },
+  "ゲッコウガ": {
+    "is_champion": true
+  },
+  "ジュナイパー": {
+    "is_champion": true
+  },
+  "ジュナイパー(ヒスイ)": {
+    "is_champion": true
+  },
+  "ガオガエン": {
+    "is_champion": true
+  },
+  "イダイトウ": {
+    "is_champion": true
+  },
+  "ラウドボーン": {
+    "is_champion": true
+  },
+  "ウェーニバル": {
+    "is_champion": true
+  },
+  "ジャローダ": {
+    "is_champion": true
+  },
+  "エンブオー": {
+    "is_champion": true
+  },
+  "ダイケンキ": {
+    "is_champion": true
+  },
+  "ダイケンキ(ヒスイ)": {
+    "is_champion": true
+  },
+  "フシギバナ": {
+    "is_champion": true
+  },
+  "シャワーズ": {
+    "is_champion": true
+  },
+  "ブースター": {
+    "is_champion": true
+  },
+  "サンダース": {
+    "is_champion": true
+  },
+  "メガニウム": {
+    "is_champion": true
+  },
+  "エーフィ": {
+    "is_champion": true
+  },
+  "ブラッキー": {
+    "is_champion": true
+  },
+  "ドダイトス": {
+    "is_champion": true
+  },
+  "ルカリオ": {
+    "is_champion": true
+  },
+  "リーフィア": {
+    "is_champion": true
+  },
+  "グレイシア": {
+    "is_champion": true
+  },
+  "ニンフィア": {
+    "is_champion": true
+  },
+  "アヤシシ": {
+    "is_champion": true
+  },
+  "グレンアルマ": {
+    "is_champion": true
+  },
+  "ソウブレイズ": {
+    "is_champion": true
+  },
+  "キラフロル": {
+    "is_champion": true
+  },
+  "レントラー": {
+    "is_champion": true
+  },
+  "ガチゴラス": {
+    "is_champion": true
+  },
+  "アマルルガ": {
+    "is_champion": true
+  },
+  "スターミー": {
+    "is_champion": true
+  },
+  "シャンデラ": {
+    "is_champion": true
+  },
+  "リキキリン": {
+    "is_champion": true
+  },
+  "ワルビアル": {
+    "is_champion": true
+  },
+  "サーナイト": {
+    "is_champion": true
+  },
+  "エルレイド": {
+    "is_champion": true
+  },
+  "プテラ": {
+    "is_champion": true
+  },
+  "ロズレイド": {
+    "is_champion": true
+  },
+  "クレベース": {
+    "is_champion": true
+  },
+  "クレベース(ヒスイ)": {
+    "is_champion": true
+  },
+  "デンリュウ": {
+    "is_champion": true
+  },
+  "ハガネール": {
+    "is_champion": true
+  },
+  "チャーレム(メガ)": {
+    "is_champion": true
+  },
+  "マニューラ": {
+    "is_champion": true
+  },
+  "グライオン": {
+    "is_champion": true
+  },
+  "ゾロアーク": {
+    "is_champion": true
+  },
+  "ゾロアーク(ヒスイ)": {
+    "is_champion": true
+  },
+  "アマージョ": {
+    "is_champion": true
+  },
+  "サダイジャ": {
+    "is_champion": true
+  },
+  "ブリムオン": {
+    "is_champion": true
+  },
+  "オオニューラ": {
+    "is_champion": true
+  },
+  "ドリュウズ": {
+    "is_champion": true
+  },
+  "ポットデス": {
+    "is_champion": true
+  },
+  "ヤバソチャ": {
+    "is_champion": true
+  },
+  "キュウコン": {
+    "is_champion": true
+  },
+  "キュウコン(アローラ)": {
+    "is_champion": true
+  },
+  "カイリキー": {
+    "is_champion": true
+  },
+  "ローブシン": {
+    "is_champion": true
+  },
+  "ツンベアー": {
+    "is_champion": true
+  },
+  "フーディン": {
+    "is_champion": true
+  },
+  "カイロス": {
+    "is_champion": true
+  },
+  "ニョロトノ": {
+    "is_champion": true
+  },
+  "ヘラクロス": {
+    "is_champion": true
+  },
+  "ヘルガー": {
+    "is_champion": true
+  },
+  "ブロスター": {
+    "is_champion": true
+  },
+  "ルチャブル": {
+    "is_champion": true
+  },
+  "バンバドロ": {
+    "is_champion": true
+  },
+  "バサギリ": {
+    "is_champion": true
+  },
+  "キョジオーン": {
+    "is_champion": true
+  },
+  "ファイアロー": {
+    "is_champion": true
+  },
+  "ヤナッキー": {
+    "is_champion": true
+  },
+  "バオッキー": {
+    "is_champion": true
+  },
+  "ヒヤッキー": {
+    "is_champion": true
+  },
+  "スピアー(メガ)": {
+    "is_champion": true
+  },
+  "ラムパルド": {
+    "is_champion": true
+  },
+  "トリデプス": {
+    "is_champion": true
+  },
+  "ゴロンダ": {
+    "is_champion": true
+  },
+  "ドヒドイデ": {
+    "is_champion": true
+  },
+  "マホイップ": {
+    "is_champion": true
+  },
+  "ハラバリー": {
+    "is_champion": true
+  },
+  "ユキノオー": {
+    "is_champion": true
+  },
+  "パンプジン": {
+    "is_champion": true
+  },
+  "ウツボット": {
+    "is_champion": true
+  },
+  "ヤドラン": {
+    "is_champion": true
+  },
+  "ヤドラン(ガラル)": {
+    "is_champion": true
+  },
+  "ガルーラ": {
+    "is_champion": true
+  },
+  "ケンタロス": {
+    "is_champion": true
+  },
+  "ケンタロス(パルデア)": {
+    "is_champion": true
+  },
+  "ヤドキング": {
+    "is_champion": true
+  },
+  "ヤドキング(ガラル)": {
+    "is_champion": true
+  },
+  "チルタリス": {
+    "is_champion": true
+  },
+  "ドクロッグ": {
+    "is_champion": true
+  },
+  "ランクルス": {
+    "is_champion": true
+  },
+  "ナゲツケサル": {
+    "is_champion": true
+  },
+  "ルガルガン": {
+    "is_champion": true
+  },
+  "スコヴィラン": {
+    "is_champion": true
+  },
+  "ライチュウ": {
+    "is_champion": true
+  },
+  "ライチュウ(アローラ)": {
+    "is_champion": true
+  },
+  "ミカルゲ": {
+    "is_champion": true
+  },
+  "ドデカバシ": {
+    "is_champion": true
+  },
+  "ジジーロン": {
+    "is_champion": true
+  },
+  "アップリュー": {
+    "is_champion": true
+  },
+  "タルップル": {
+    "is_champion": true
+  },
+  "ピクシー": {
+    "is_champion": true
+  },
+  "デスカーン": {
+    "is_champion": true
+  },
+  "ゴルーグ": {
+    "is_champion": true
+  },
+  "デスバーン": {
+    "is_champion": true
+  },
+  "エレザード": {
+    "is_champion": true
+  },
+  "クエスパトラ": {
+    "is_champion": true
+  },
+  "ヤミラミ(メガ)": {
+    "is_champion": true
+  },
+  "オニゴーリ": {
+    "is_champion": true
+  },
+  "ミミロップ": {
+    "is_champion": true
+  },
+  "ユキメノコ": {
+    "is_champion": true
+  },
+  "エルフーン": {
+    "is_champion": true
+  },
+  "ペロリーム": {
+    "is_champion": true
+  },
+  "エンニュート": {
+    "is_champion": true
+  },
+  "ミミズズ": {
+    "is_champion": true
+  },
+  "ピジョット": {
+    "is_champion": true
+  },
+  "ケケンカニ": {
+    "is_champion": true
+  },
+  "ミミッキュ": {
+    "is_champion": true
+  },
+  "ライボルト": {
+    "is_champion": true
+  },
+  "ダストダス": {
+    "is_champion": true
+  },
+  "オーロット": {
+    "is_champion": true
+  },
+  "トリミアン": {
+    "is_champion": true
+  },
+  "マッギョ": {
+    "is_champion": true
+  },
+  "マッギョ(ガラル)": {
+    "is_champion": true
+  },
+  "コータス": {
+    "is_champion": true
+  },
+  "クレッフィ": {
+    "is_champion": true
+  },
+  "イッカネズミ": {
+    "is_champion": true
+  },
+  "ニャオニクス": {
+    "is_champion": true
+  },
+  "フォレトス": {
+    "is_champion": true
+  },
+  "エアームド": {
+    "is_champion": true
+  },
+  "フレフワン": {
+    "is_champion": true
+  },
+  "サメハダー": {
+    "is_champion": true
+  },
+  "バクーダ": {
+    "is_champion": true
+  },
+  "ジュペッタ": {
+    "is_champion": true
+  },
+  "チリーン": {
+    "is_champion": true
+  },
+  "オニシズクモ": {
+    "is_champion": true
+  },
+  "アーボック": {
+    "is_champion": true
+  },
+  "レパルダス": {
+    "is_champion": true
+  },
+  "タブンネ": {
+    "is_champion": true
+  },
+  "ペリッパー": {
+    "is_champion": true
+  },
+  "ロトム": {
+    "is_champion": true
+  },
+  "モルペコ": {
+    "is_champion": true
+  },
+  "デデンネ": {
+    "is_champion": true
+  },
+  "エモンガ": {
+    "is_champion": true
+  },
+  "ホルード": {
+    "is_champion": true
+  },
+  "マリルリ": {
+    "is_champion": true
+  },
+  "ポワルン": {
+    "is_champion": true
+  },
+  "ミルホッグ": {
+    "is_champion": true
+  },
+  "ビビヨン": {
+    "is_champion": true
+  },
+  "チャーレム": {
+    "is_champion": true
+  },
+  "アリアドス": {
+    "is_champion": true
+  },
+  "スピアー": {
+    "is_champion": true
+  },
+  "ヤミラミ": {
+    "is_champion": true
+  },
+  "ピカチュウ": {
+    "is_champion": true
+  },
+  "メタモン": {
+    "is_champion": true
+  },
+  "ロトム(カット)": {
+    "is_champion": true
+  },
+  "ロトム(スピン)": {
+    "is_champion": true
+  },
+  "ロトム(フロスト)": {
+    "is_champion": true
+  },
+  "ロトム(ヒート)": {
+    "is_champion": true
+  },
+  "ロトム(ウォッシュ)": {
+    "is_champion": true
+  },
+  "フラエッテ(えいえんのはな)": {
+    "is_champion": true
+  },
+  "パンプジン(ちいさいサイズ)": {
+    "is_champion": true
+  },
+  "パンプジン(おおきいサイズ)": {
+    "is_champion": true
+  },
+  "パンプジン(とくだいサイズ)": {
+    "is_champion": true
+  },
+  "ケンタロス(パルデア・コンバット)": {
+    "is_champion": true
+  },
+  "ケンタロス(パルデア・ブレイズ)": {
+    "is_champion": true
+  },
+  "ケンタロス(パルデア・ウォーター)": {
+    "is_champion": true
+  },
+  "ルガルガン(まよなか)": {
+    "is_champion": true
+  },
+  "ルガルガン(たそがれ)": {
+    "is_champion": true
+  },
+  "ポワルン(たいよう)": {
+    "is_champion": true
+  },
+  "ポワルン(あまみず)": {
+    "is_champion": true
+  },
+  "ポワルン(ゆきぐも)": {
+    "is_champion": true
+  },
+  "イダイトウ（オス）": {
+    "is_champion": true
+  },
+  "ウォッシュロトム": {
+    "is_champion": true
+  },
+  "フラエッテ（えいえんのはな）": {
+    "is_champion": true
+  },
+  "ヒートロトム": {
+    "is_champion": true
+  },
+  "デカヌチャン": {
+    "is_champion": true
+  }
+}

@@ -1,0 +1,8198 @@
+{
+  "マスターボール": {
+    "ja_name": "マスターボール",
+    "category": "other"
+  },
+  "ゴージャスボール": {
+    "ja_name": "ゴージャスボール",
+    "category": "other"
+  },
+  "ダイブボール": {
+    "ja_name": "ダイブボール",
+    "category": "other"
+  },
+  "モンスターボール": {
+    "ja_name": "モンスターボール",
+    "category": "other"
+  },
+  "ネストボール": {
+    "ja_name": "ネストボール",
+    "category": "other"
+  },
+  "サファリボール": {
+    "ja_name": "サファリボール",
+    "category": "other"
+  },
+  "キズぐすり": {
+    "ja_name": "キズぐすり",
+    "category": "other"
+  },
+  "ハイパーボール": {
+    "ja_name": "ハイパーボール",
+    "category": "other"
+  },
+  "ダークボール": {
+    "ja_name": "ダークボール",
+    "category": "other"
+  },
+  "こおりなおし": {
+    "ja_name": "こおりなおし",
+    "category": "other"
+  },
+  "やけどなおし": {
+    "ja_name": "やけどなおし",
+    "category": "other"
+  },
+  "プレシャスボール": {
+    "ja_name": "プレシャスボール",
+    "category": "other"
+  },
+  "ヒールボール": {
+    "ja_name": "ヒールボール",
+    "category": "other"
+  },
+  "どくけし": {
+    "ja_name": "どくけし",
+    "category": "other"
+  },
+  "スーパーボール": {
+    "ja_name": "スーパーボール",
+    "category": "other"
+  },
+  "ネットボール": {
+    "ja_name": "ネットボール",
+    "category": "other"
+  },
+  "リピートボール": {
+    "ja_name": "リピートボール",
+    "category": "other"
+  },
+  "クイックボール": {
+    "ja_name": "クイックボール",
+    "category": "other"
+  },
+  "タイマーボール": {
+    "ja_name": "タイマーボール",
+    "category": "other"
+  },
+  "プレミアボール": {
+    "ja_name": "プレミアボール",
+    "category": "other"
+  },
+  "ねむけざまし": {
+    "ja_name": "ねむけざまし",
+    "category": "other"
+  },
+  "まひなおし": {
+    "ja_name": "まひなおし",
+    "category": "other"
+  },
+  "げんきのかけら": {
+    "ja_name": "げんきのかけら",
+    "category": "other"
+  },
+  "すごいキズぐすり": {
+    "ja_name": "すごいキズぐすり",
+    "category": "other"
+  },
+  "まんたんのくすり": {
+    "ja_name": "まんたんのくすり",
+    "category": "other"
+  },
+  "なんでもなおし": {
+    "ja_name": "なんでもなおし",
+    "category": "other"
+  },
+  "モーモーミルク": {
+    "ja_name": "モーモーミルク",
+    "category": "other"
+  },
+  "げんきのかたまり": {
+    "ja_name": "げんきのかたまり",
+    "category": "other"
+  },
+  "かいふくのくすり": {
+    "ja_name": "かいふくのくすり",
+    "category": "other"
+  },
+  "サイコソーダ": {
+    "ja_name": "サイコソーダ",
+    "category": "other"
+  },
+  "ちからのこな": {
+    "ja_name": "ちからのこな",
+    "category": "other"
+  },
+  "いいキズぐすり": {
+    "ja_name": "いいキズぐすり",
+    "category": "other"
+  },
+  "ピーピーエイド": {
+    "ja_name": "ピーピーエイド",
+    "category": "other"
+  },
+  "おいしいみず": {
+    "ja_name": "おいしいみず",
+    "category": "other"
+  },
+  "ふっかつそう": {
+    "ja_name": "ふっかつそう",
+    "category": "other"
+  },
+  "ピーピーエイダー": {
+    "ja_name": "ピーピーエイダー",
+    "category": "other"
+  },
+  "ばんのうごな": {
+    "ja_name": "ばんのうごな",
+    "category": "other"
+  },
+  "ミックスオレ": {
+    "ja_name": "ミックスオレ",
+    "category": "other"
+  },
+  "ピーピーリカバー": {
+    "ja_name": "ピーピーリカバー",
+    "category": "other"
+  },
+  "ちからのねっこ": {
+    "ja_name": "ちからのねっこ",
+    "category": "other"
+  },
+  "ピーピーマックス": {
+    "ja_name": "ピーピーマックス",
+    "category": "other"
+  },
+  "きのみジュース": {
+    "ja_name": "きのみジュース",
+    "category": "berry"
+  },
+  "タウリン": {
+    "ja_name": "タウリン",
+    "category": "other"
+  },
+  "フエンせんべい": {
+    "ja_name": "フエンせんべい",
+    "category": "other"
+  },
+  "ふしぎなアメ": {
+    "ja_name": "ふしぎなアメ",
+    "category": "other"
+  },
+  "キトサン": {
+    "ja_name": "キトサン",
+    "category": "other"
+  },
+  "リゾチウム": {
+    "ja_name": "リゾチウム",
+    "category": "other"
+  },
+  "インドメタシン": {
+    "ja_name": "インドメタシン",
+    "category": "other"
+  },
+  "ブロムヘキシン": {
+    "ja_name": "ブロムヘキシン",
+    "category": "other"
+  },
+  "せいなるはい": {
+    "ja_name": "せいなるはい",
+    "category": "other"
+  },
+  "マックスアップ": {
+    "ja_name": "マックスアップ",
+    "category": "other"
+  },
+  "クリティカット": {
+    "ja_name": "クリティカット",
+    "category": "other"
+  },
+  "ポイントマックス": {
+    "ja_name": "ポイントマックス",
+    "category": "other"
+  },
+  "スペシャルアップ": {
+    "ja_name": "スペシャルアップ",
+    "category": "other"
+  },
+  "ディフェンダー": {
+    "ja_name": "ディフェンダー",
+    "category": "other"
+  },
+  "スピーダー": {
+    "ja_name": "スピーダー",
+    "category": "other"
+  },
+  "ポイントアップ": {
+    "ja_name": "ポイントアップ",
+    "category": "other"
+  },
+  "もりのヨウカン": {
+    "ja_name": "もりのヨウカン",
+    "category": "other"
+  },
+  "プラスパワー": {
+    "ja_name": "プラスパワー",
+    "category": "other"
+  },
+  "ヨクアタール": {
+    "ja_name": "ヨクアタール",
+    "category": "other"
+  },
+  "スペシャルガード": {
+    "ja_name": "スペシャルガード",
+    "category": "other"
+  },
+  "エフェクトガード": {
+    "ja_name": "エフェクトガード",
+    "category": "other"
+  },
+  "エネコのシッポ": {
+    "ja_name": "エネコのシッポ",
+    "category": "other"
+  },
+  "ピッピにんぎょう": {
+    "ja_name": "ピッピにんぎょう",
+    "category": "other"
+  },
+  "ほのおのいし": {
+    "ja_name": "ほのおのいし",
+    "category": "other"
+  },
+  "あかいビードロ": {
+    "ja_name": "あかいビードロ",
+    "category": "other"
+  },
+  "くろいビードロ": {
+    "ja_name": "くろいビードロ",
+    "category": "other"
+  },
+  "あおいビードロ": {
+    "ja_name": "あおいビードロ",
+    "category": "other"
+  },
+  "あかいかけら": {
+    "ja_name": "あかいかけら",
+    "category": "other"
+  },
+  "あさせのしお": {
+    "ja_name": "あさせのしお",
+    "category": "other"
+  },
+  "あおいかけら": {
+    "ja_name": "あおいかけら",
+    "category": "other"
+  },
+  "きいろビードロ": {
+    "ja_name": "きいろビードロ",
+    "category": "other"
+  },
+  "しろいビードロ": {
+    "ja_name": "しろいビードロ",
+    "category": "other"
+  },
+  "むしよけスプレー": {
+    "ja_name": "むしよけスプレー",
+    "category": "other"
+  },
+  "きいろいかけら": {
+    "ja_name": "きいろいかけら",
+    "category": "other"
+  },
+  "みどりのかけら": {
+    "ja_name": "みどりのかけら",
+    "category": "other"
+  },
+  "あさせのかいがら": {
+    "ja_name": "あさせのかいがら",
+    "category": "other"
+  },
+  "ゴールドスプレー": {
+    "ja_name": "ゴールドスプレー",
+    "category": "other"
+  },
+  "シルバースプレー": {
+    "ja_name": "シルバースプレー",
+    "category": "other"
+  },
+  "あなぬけのヒモ": {
+    "ja_name": "あなぬけのヒモ",
+    "category": "other"
+  },
+  "たいようのいし": {
+    "ja_name": "たいようのいし",
+    "category": "other"
+  },
+  "かみなりのいし": {
+    "ja_name": "かみなりのいし",
+    "category": "other"
+  },
+  "つきのいし": {
+    "ja_name": "つきのいし",
+    "category": "other"
+  },
+  "リーフのいし": {
+    "ja_name": "リーフのいし",
+    "category": "other"
+  },
+  "ちいさなキノコ": {
+    "ja_name": "ちいさなキノコ",
+    "category": "other"
+  },
+  "おおきなしんじゅ": {
+    "ja_name": "おおきなしんじゅ",
+    "category": "other"
+  },
+  "ほしのかけら": {
+    "ja_name": "ほしのかけら",
+    "category": "other"
+  },
+  "みずのいし": {
+    "ja_name": "みずのいし",
+    "category": "other"
+  },
+  "きんのたま": {
+    "ja_name": "きんのたま",
+    "category": "other"
+  },
+  "しんじゅ": {
+    "ja_name": "しんじゅ",
+    "category": "other"
+  },
+  "おおきなキノコ": {
+    "ja_name": "おおきなキノコ",
+    "category": "other"
+  },
+  "じめじめこやし": {
+    "ja_name": "じめじめこやし",
+    "category": "other"
+  },
+  "あまいミツ": {
+    "ja_name": "あまいミツ",
+    "category": "other"
+  },
+  "すくすくこやし": {
+    "ja_name": "すくすくこやし",
+    "category": "other"
+  },
+  "ハートのウロコ": {
+    "ja_name": "ハートのウロコ",
+    "category": "other"
+  },
+  "ねばねばこやし": {
+    "ja_name": "ねばねばこやし",
+    "category": "other"
+  },
+  "ながながこやし": {
+    "ja_name": "ながながこやし",
+    "category": "other"
+  },
+  "ツメのカセキ": {
+    "ja_name": "ツメのカセキ",
+    "category": "other"
+  },
+  "ほしのすな": {
+    "ja_name": "ほしのすな",
+    "category": "other"
+  },
+  "こうらのカセキ": {
+    "ja_name": "こうらのカセキ",
+    "category": "other"
+  },
+  "たてのカセキ": {
+    "ja_name": "たてのカセキ",
+    "category": "other"
+  },
+  "ひみつのコハク": {
+    "ja_name": "ひみつのコハク",
+    "category": "other"
+  },
+  "ずがいのカセキ": {
+    "ja_name": "ずがいのカセキ",
+    "category": "other"
+  },
+  "きちょうなホネ": {
+    "ja_name": "きちょうなホネ",
+    "category": "other"
+  },
+  "ひかりのいし": {
+    "ja_name": "ひかりのいし",
+    "category": "other"
+  },
+  "しらたま": {
+    "ja_name": "しらたま",
+    "category": "other"
+  },
+  "こんごうだま": {
+    "ja_name": "こんごうだま",
+    "category": "other"
+  },
+  "かなめいし": {
+    "ja_name": "かなめいし",
+    "category": "other"
+  },
+  "めざめいし": {
+    "ja_name": "めざめいし",
+    "category": "other"
+  },
+  "まんまるいし": {
+    "ja_name": "まんまるいし",
+    "category": "other"
+  },
+  "かいのカセキ": {
+    "ja_name": "かいのカセキ",
+    "category": "other"
+  },
+  "やみのいし": {
+    "ja_name": "やみのいし",
+    "category": "other"
+  },
+  "ねっこのカセキ": {
+    "ja_name": "ねっこのカセキ",
+    "category": "other"
+  },
+  "クラボのみ": {
+    "ja_name": "クラボのみ",
+    "category": "other"
+  },
+  "チーゴのみ": {
+    "ja_name": "チーゴのみ",
+    "category": "other"
+  },
+  "モモンのみ": {
+    "ja_name": "モモンのみ",
+    "category": "other"
+  },
+  "カゴのみ": {
+    "ja_name": "カゴのみ",
+    "category": "other"
+  },
+  "ナナシのみ": {
+    "ja_name": "ナナシのみ",
+    "category": "other"
+  },
+  "オレンのみ": {
+    "ja_name": "オレンのみ",
+    "category": "other"
+  },
+  "オボンのみ": {
+    "ja_name": "オボンのみ",
+    "category": "other"
+  },
+  "フィラのみ": {
+    "ja_name": "フィラのみ",
+    "category": "other"
+  },
+  "ラムのみ": {
+    "ja_name": "ラムのみ",
+    "category": "other"
+  },
+  "ヒメリのみ": {
+    "ja_name": "ヒメリのみ",
+    "category": "other"
+  },
+  "マゴのみ": {
+    "ja_name": "マゴのみ",
+    "category": "other"
+  },
+  "バンジのみ": {
+    "ja_name": "バンジのみ",
+    "category": "other"
+  },
+  "イアのみ": {
+    "ja_name": "イアのみ",
+    "category": "other"
+  },
+  "ナナのみ": {
+    "ja_name": "ナナのみ",
+    "category": "other"
+  },
+  "ズリのみ": {
+    "ja_name": "ズリのみ",
+    "category": "other"
+  },
+  "キーのみ": {
+    "ja_name": "キーのみ",
+    "category": "other"
+  },
+  "ウイのみ": {
+    "ja_name": "ウイのみ",
+    "category": "other"
+  },
+  "パイルのみ": {
+    "ja_name": "パイルのみ",
+    "category": "other"
+  },
+  "ブリーのみ": {
+    "ja_name": "ブリーのみ",
+    "category": "other"
+  },
+  "ネコブのみ": {
+    "ja_name": "ネコブのみ",
+    "category": "other"
+  },
+  "セシナのみ": {
+    "ja_name": "セシナのみ",
+    "category": "other"
+  },
+  "ロメのみ": {
+    "ja_name": "ロメのみ",
+    "category": "other"
+  },
+  "ウブのみ": {
+    "ja_name": "ウブのみ",
+    "category": "other"
+  },
+  "タポルのみ": {
+    "ja_name": "タポルのみ",
+    "category": "other"
+  },
+  "ザロクのみ": {
+    "ja_name": "ザロクのみ",
+    "category": "other"
+  },
+  "モコシのみ": {
+    "ja_name": "モコシのみ",
+    "category": "other"
+  },
+  "ゴスのみ": {
+    "ja_name": "ゴスのみ",
+    "category": "other"
+  },
+  "ラブタのみ": {
+    "ja_name": "ラブタのみ",
+    "category": "other"
+  },
+  "ノメルのみ": {
+    "ja_name": "ノメルのみ",
+    "category": "other"
+  },
+  "ノワキのみ": {
+    "ja_name": "ノワキのみ",
+    "category": "other"
+  },
+  "シーヤのみ": {
+    "ja_name": "シーヤのみ",
+    "category": "other"
+  },
+  "ドリのみ": {
+    "ja_name": "ドリのみ",
+    "category": "other"
+  },
+  "オッカのみ": {
+    "ja_name": "オッカのみ",
+    "category": "other"
+  },
+  "イトケのみ": {
+    "ja_name": "イトケのみ",
+    "category": "other"
+  },
+  "カイスのみ": {
+    "ja_name": "カイスのみ",
+    "category": "other"
+  },
+  "ベリブのみ": {
+    "ja_name": "ベリブのみ",
+    "category": "other"
+  },
+  "ソクノのみ": {
+    "ja_name": "ソクノのみ",
+    "category": "other"
+  },
+  "ヨプのみ": {
+    "ja_name": "ヨプのみ",
+    "category": "other"
+  },
+  "ウタンのみ": {
+    "ja_name": "ウタンのみ",
+    "category": "other"
+  },
+  "マトマのみ": {
+    "ja_name": "マトマのみ",
+    "category": "other"
+  },
+  "リンドのみ": {
+    "ja_name": "リンドのみ",
+    "category": "other"
+  },
+  "カシブのみ": {
+    "ja_name": "カシブのみ",
+    "category": "other"
+  },
+  "ハバンのみ": {
+    "ja_name": "ハバンのみ",
+    "category": "other"
+  },
+  "タンガのみ": {
+    "ja_name": "タンガのみ",
+    "category": "other"
+  },
+  "リリバのみ": {
+    "ja_name": "リリバのみ",
+    "category": "other"
+  },
+  "ヤチェのみ": {
+    "ja_name": "ヤチェのみ",
+    "category": "other"
+  },
+  "チイラのみ": {
+    "ja_name": "チイラのみ",
+    "category": "other"
+  },
+  "リュガのみ": {
+    "ja_name": "リュガのみ",
+    "category": "other"
+  },
+  "ビアーのみ": {
+    "ja_name": "ビアーのみ",
+    "category": "other"
+  },
+  "カムラのみ": {
+    "ja_name": "カムラのみ",
+    "category": "other"
+  },
+  "ヤタピのみ": {
+    "ja_name": "ヤタピのみ",
+    "category": "other"
+  },
+  "スターのみ": {
+    "ja_name": "スターのみ",
+    "category": "other"
+  },
+  "ミクルのみ": {
+    "ja_name": "ミクルのみ",
+    "category": "other"
+  },
+  "ヨロギのみ": {
+    "ja_name": "ヨロギのみ",
+    "category": "other"
+  },
+  "ナゾのみ": {
+    "ja_name": "ナゾのみ",
+    "category": "other"
+  },
+  "ホズのみ": {
+    "ja_name": "ホズのみ",
+    "category": "other"
+  },
+  "ズアのみ": {
+    "ja_name": "ズアのみ",
+    "category": "other"
+  },
+  "イバンのみ": {
+    "ja_name": "イバンのみ",
+    "category": "other"
+  },
+  "レンブのみ": {
+    "ja_name": "レンブのみ",
+    "category": "other"
+  },
+  "ひかりのこな": {
+    "ja_name": "ひかりのこな",
+    "category": "other"
+  },
+  "サンのみ": {
+    "ja_name": "サンのみ",
+    "category": "other"
+  },
+  "ジャポのみ": {
+    "ja_name": "ジャポのみ",
+    "category": "other"
+  },
+  "バコウのみ": {
+    "ja_name": "バコウのみ",
+    "category": "other"
+  },
+  "きょうせいギプス": {
+    "ja_name": "きょうせいギプス",
+    "category": "other"
+  },
+  "しろいハーブ": {
+    "ja_name": "しろいハーブ",
+    "category": "other"
+  },
+  "せんせいのツメ": {
+    "ja_name": "せんせいのツメ",
+    "category": "other"
+  },
+  "がくしゅうそうち": {
+    "ja_name": "がくしゅうそうち",
+    "category": "other"
+  },
+  "ナモのみ": {
+    "ja_name": "ナモのみ",
+    "category": "other"
+  },
+  "やすらぎのすず": {
+    "ja_name": "やすらぎのすず",
+    "category": "other"
+  },
+  "メタルコート": {
+    "ja_name": "メタルコート",
+    "category": "other"
+  },
+  "こだわりハチマキ": {
+    "ja_name": "こだわりハチマキ",
+    "category": "other"
+  },
+  "しんかいのキバ": {
+    "ja_name": "しんかいのキバ",
+    "category": "other"
+  },
+  "おまもりこばん": {
+    "ja_name": "おまもりこばん",
+    "category": "other"
+  },
+  "ぎんのこな": {
+    "ja_name": "ぎんのこな",
+    "category": "other"
+  },
+  "メンタルハーブ": {
+    "ja_name": "メンタルハーブ",
+    "category": "other"
+  },
+  "しんかいのウロコ": {
+    "ja_name": "しんかいのウロコ",
+    "category": "other"
+  },
+  "きよめのおふだ": {
+    "ja_name": "きよめのおふだ",
+    "category": "other"
+  },
+  "おうじゃのしるし": {
+    "ja_name": "おうじゃのしるし",
+    "category": "other"
+  },
+  "シュカのみ": {
+    "ja_name": "シュカのみ",
+    "category": "other"
+  },
+  "こころのしずく": {
+    "ja_name": "こころのしずく",
+    "category": "other"
+  },
+  "けむりだま": {
+    "ja_name": "けむりだま",
+    "category": "other"
+  },
+  "しんぴのしずく": {
+    "ja_name": "しんぴのしずく",
+    "category": "other"
+  },
+  "ピントレンズ": {
+    "ja_name": "ピントレンズ",
+    "category": "other"
+  },
+  "かわらずのいし": {
+    "ja_name": "かわらずのいし",
+    "category": "other"
+  },
+  "しあわせタマゴ": {
+    "ja_name": "しあわせタマゴ",
+    "category": "other"
+  },
+  "きあいのハチマキ": {
+    "ja_name": "きあいのハチマキ",
+    "category": "other"
+  },
+  "りゅうのウロコ": {
+    "ja_name": "りゅうのウロコ",
+    "category": "other"
+  },
+  "でんきだま": {
+    "ja_name": "でんきだま",
+    "category": "other"
+  },
+  "やわらかいすな": {
+    "ja_name": "やわらかいすな",
+    "category": "other"
+  },
+  "たべのこし": {
+    "ja_name": "たべのこし",
+    "category": "other"
+  },
+  "するどいくちばし": {
+    "ja_name": "するどいくちばし",
+    "category": "other"
+  },
+  "じしゃく": {
+    "ja_name": "じしゃく",
+    "category": "other"
+  },
+  "くろおび": {
+    "ja_name": "くろおび",
+    "category": "other"
+  },
+  "どくバリ": {
+    "ja_name": "どくバリ",
+    "category": "other"
+  },
+  "かたいいし": {
+    "ja_name": "かたいいし",
+    "category": "other"
+  },
+  "きせきのタネ": {
+    "ja_name": "きせきのタネ",
+    "category": "other"
+  },
+  "もくたん": {
+    "ja_name": "もくたん",
+    "category": "other"
+  },
+  "りゅうのキバ": {
+    "ja_name": "りゅうのキバ",
+    "category": "other"
+  },
+  "シルクのスカーフ": {
+    "ja_name": "シルクのスカーフ",
+    "category": "other"
+  },
+  "うしおのおこう": {
+    "ja_name": "うしおのおこう",
+    "category": "other"
+  },
+  "アップグレード": {
+    "ja_name": "アップグレード",
+    "category": "other"
+  },
+  "まがったスプーン": {
+    "ja_name": "まがったスプーン",
+    "category": "other"
+  },
+  "のろいのおふだ": {
+    "ja_name": "のろいのおふだ",
+    "category": "other"
+  },
+  "とけないこおり": {
+    "ja_name": "とけないこおり",
+    "category": "other"
+  },
+  "のんきのおこう": {
+    "ja_name": "のんきのおこう",
+    "category": "other"
+  },
+  "くろいメガネ": {
+    "ja_name": "くろいメガネ",
+    "category": "other"
+  },
+  "かいがらのすず": {
+    "ja_name": "かいがらのすず",
+    "category": "other"
+  },
+  "ラッキーパンチ": {
+    "ja_name": "ラッキーパンチ",
+    "category": "other"
+  },
+  "ながねぎ": {
+    "ja_name": "ながねぎ",
+    "category": "other"
+  },
+  "メタルパウダー": {
+    "ja_name": "メタルパウダー",
+    "category": "other"
+  },
+  "あかいバンダナ": {
+    "ja_name": "あかいバンダナ",
+    "category": "other"
+  },
+  "ピンクのバンダナ": {
+    "ja_name": "ピンクのバンダナ",
+    "category": "other"
+  },
+  "ふといホネ": {
+    "ja_name": "ふといホネ",
+    "category": "other"
+  },
+  "きいろのバンダナ": {
+    "ja_name": "きいろのバンダナ",
+    "category": "other"
+  },
+  "あおいバンダナ": {
+    "ja_name": "あおいバンダナ",
+    "category": "other"
+  },
+  "こうかくレンズ": {
+    "ja_name": "こうかくレンズ",
+    "category": "other"
+  },
+  "ちからのハチマキ": {
+    "ja_name": "ちからのハチマキ",
+    "category": "other"
+  },
+  "たつじんのおび": {
+    "ja_name": "たつじんのおび",
+    "category": "other"
+  },
+  "みどりのバンダナ": {
+    "ja_name": "みどりのバンダナ",
+    "category": "other"
+  },
+  "ものしりメガネ": {
+    "ja_name": "ものしりメガネ",
+    "category": "other"
+  },
+  "パワフルハーブ": {
+    "ja_name": "パワフルハーブ",
+    "category": "other"
+  },
+  "スピードパウダー": {
+    "ja_name": "スピードパウダー",
+    "category": "other"
+  },
+  "どくどくだま": {
+    "ja_name": "どくどくだま",
+    "category": "other"
+  },
+  "きあいのタスキ": {
+    "ja_name": "きあいのタスキ",
+    "category": "other"
+  },
+  "フォーカスレンズ": {
+    "ja_name": "フォーカスレンズ",
+    "category": "other"
+  },
+  "いのちのたま": {
+    "ja_name": "いのちのたま",
+    "category": "other"
+  },
+  "ひかりのねんど": {
+    "ja_name": "ひかりのねんど",
+    "category": "other"
+  },
+  "かえんだま": {
+    "ja_name": "かえんだま",
+    "category": "other"
+  },
+  "くろいてっきゅう": {
+    "ja_name": "くろいてっきゅう",
+    "category": "other"
+  },
+  "メトロノーム": {
+    "ja_name": "メトロノーム",
+    "category": "other"
+  },
+  "つめたいいわ": {
+    "ja_name": "つめたいいわ",
+    "category": "other"
+  },
+  "あかいいと": {
+    "ja_name": "あかいいと",
+    "category": "other"
+  },
+  "こうこうのしっぽ": {
+    "ja_name": "こうこうのしっぽ",
+    "category": "other"
+  },
+  "ねばりのかぎづめ": {
+    "ja_name": "ねばりのかぎづめ",
+    "category": "other"
+  },
+  "しめったいわ": {
+    "ja_name": "しめったいわ",
+    "category": "other"
+  },
+  "くっつきバリ": {
+    "ja_name": "くっつきバリ",
+    "category": "other"
+  },
+  "さらさらいわ": {
+    "ja_name": "さらさらいわ",
+    "category": "other"
+  },
+  "こだわりスカーフ": {
+    "ja_name": "こだわりスカーフ",
+    "category": "other"
+  },
+  "あついいわ": {
+    "ja_name": "あついいわ",
+    "category": "other"
+  },
+  "パワーレンズ": {
+    "ja_name": "パワーレンズ",
+    "category": "other"
+  },
+  "パワーベルト": {
+    "ja_name": "パワーベルト",
+    "category": "other"
+  },
+  "パワーリスト": {
+    "ja_name": "パワーリスト",
+    "category": "other"
+  },
+  "パワーバンド": {
+    "ja_name": "パワーバンド",
+    "category": "other"
+  },
+  "パワーアンクル": {
+    "ja_name": "パワーアンクル",
+    "category": "other"
+  },
+  "パワーウエイト": {
+    "ja_name": "パワーウエイト",
+    "category": "other"
+  },
+  "おおきなねっこ": {
+    "ja_name": "おおきなねっこ",
+    "category": "other"
+  },
+  "きれいなぬけがら": {
+    "ja_name": "きれいなぬけがら",
+    "category": "other"
+  },
+  "こだわりメガネ": {
+    "ja_name": "こだわりメガネ",
+    "category": "other"
+  },
+  "しずくプレート": {
+    "ja_name": "しずくプレート",
+    "category": "other"
+  },
+  "ひのたまプレート": {
+    "ja_name": "ひのたまプレート",
+    "category": "other"
+  },
+  "つららのプレート": {
+    "ja_name": "つららのプレート",
+    "category": "other"
+  },
+  "こぶしのプレート": {
+    "ja_name": "こぶしのプレート",
+    "category": "other"
+  },
+  "みどりのプレート": {
+    "ja_name": "みどりのプレート",
+    "category": "other"
+  },
+  "もうどくプレート": {
+    "ja_name": "もうどくプレート",
+    "category": "other"
+  },
+  "いかずちプレート": {
+    "ja_name": "いかずちプレート",
+    "category": "other"
+  },
+  "だいちのプレート": {
+    "ja_name": "だいちのプレート",
+    "category": "other"
+  },
+  "ふしぎのプレート": {
+    "ja_name": "ふしぎのプレート",
+    "category": "other"
+  },
+  "あおぞらプレート": {
+    "ja_name": "あおぞらプレート",
+    "category": "other"
+  },
+  "たまむしプレート": {
+    "ja_name": "たまむしプレート",
+    "category": "other"
+  },
+  "こわもてプレート": {
+    "ja_name": "こわもてプレート",
+    "category": "other"
+  },
+  "りゅうのプレート": {
+    "ja_name": "りゅうのプレート",
+    "category": "other"
+  },
+  "がんせきプレート": {
+    "ja_name": "がんせきプレート",
+    "category": "other"
+  },
+  "こうてつプレート": {
+    "ja_name": "こうてつプレート",
+    "category": "other"
+  },
+  "がんせきおこう": {
+    "ja_name": "がんせきおこう",
+    "category": "other"
+  },
+  "くろいヘドロ": {
+    "ja_name": "くろいヘドロ",
+    "category": "other"
+  },
+  "まんぷくおこう": {
+    "ja_name": "まんぷくおこう",
+    "category": "other"
+  },
+  "あやしいおこう": {
+    "ja_name": "あやしいおこう",
+    "category": "other"
+  },
+  "こううんのおこう": {
+    "ja_name": "こううんのおこう",
+    "category": "other"
+  },
+  "プロテクター": {
+    "ja_name": "プロテクター",
+    "category": "other"
+  },
+  "エレキブースター": {
+    "ja_name": "エレキブースター",
+    "category": "other"
+  },
+  "きよめのおこう": {
+    "ja_name": "きよめのおこう",
+    "category": "other"
+  },
+  "おはなのおこう": {
+    "ja_name": "おはなのおこう",
+    "category": "other"
+  },
+  "れいかいのぬの": {
+    "ja_name": "れいかいのぬの",
+    "category": "other"
+  },
+  "するどいキバ": {
+    "ja_name": "するどいキバ",
+    "category": "other"
+  },
+  "わざマシン０１": {
+    "ja_name": "わざマシン０１",
+    "category": "other"
+  },
+  "さざなみのおこう": {
+    "ja_name": "さざなみのおこう",
+    "category": "other"
+  },
+  "わざマシン０５": {
+    "ja_name": "わざマシン０５",
+    "category": "other"
+  },
+  "わざマシン０４": {
+    "ja_name": "わざマシン０４",
+    "category": "other"
+  },
+  "するどいツメ": {
+    "ja_name": "するどいツメ",
+    "category": "other"
+  },
+  "わざマシン０２": {
+    "ja_name": "わざマシン０２",
+    "category": "other"
+  },
+  "わざマシン０７": {
+    "ja_name": "わざマシン０７",
+    "category": "other"
+  },
+  "マグマブースター": {
+    "ja_name": "マグマブースター",
+    "category": "other"
+  },
+  "わざマシン０３": {
+    "ja_name": "わざマシン０３",
+    "category": "other"
+  },
+  "わざマシン１０": {
+    "ja_name": "わざマシン１０",
+    "category": "other"
+  },
+  "わざマシン１１": {
+    "ja_name": "わざマシン１１",
+    "category": "other"
+  },
+  "わざマシン０６": {
+    "ja_name": "わざマシン０６",
+    "category": "other"
+  },
+  "わざマシン１２": {
+    "ja_name": "わざマシン１２",
+    "category": "other"
+  },
+  "わざマシン１３": {
+    "ja_name": "わざマシン１３",
+    "category": "other"
+  },
+  "わざマシン１４": {
+    "ja_name": "わざマシン１４",
+    "category": "other"
+  },
+  "わざマシン０８": {
+    "ja_name": "わざマシン０８",
+    "category": "other"
+  },
+  "わざマシン１５": {
+    "ja_name": "わざマシン１５",
+    "category": "other"
+  },
+  "わざマシン０９": {
+    "ja_name": "わざマシン０９",
+    "category": "other"
+  },
+  "わざマシン１８": {
+    "ja_name": "わざマシン１８",
+    "category": "other"
+  },
+  "わざマシン１６": {
+    "ja_name": "わざマシン１６",
+    "category": "other"
+  },
+  "わざマシン２１": {
+    "ja_name": "わざマシン２１",
+    "category": "other"
+  },
+  "わざマシン１９": {
+    "ja_name": "わざマシン１９",
+    "category": "other"
+  },
+  "もののけプレート": {
+    "ja_name": "もののけプレート",
+    "category": "other"
+  },
+  "わざマシン２０": {
+    "ja_name": "わざマシン２０",
+    "category": "other"
+  },
+  "わざマシン２３": {
+    "ja_name": "わざマシン２３",
+    "category": "other"
+  },
+  "わざマシン２４": {
+    "ja_name": "わざマシン２４",
+    "category": "other"
+  },
+  "わざマシン２２": {
+    "ja_name": "わざマシン２２",
+    "category": "other"
+  },
+  "わざマシン１７": {
+    "ja_name": "わざマシン１７",
+    "category": "other"
+  },
+  "わざマシン２５": {
+    "ja_name": "わざマシン２５",
+    "category": "other"
+  },
+  "わざマシン２８": {
+    "ja_name": "わざマシン２８",
+    "category": "other"
+  },
+  "わざマシン３０": {
+    "ja_name": "わざマシン３０",
+    "category": "other"
+  },
+  "わざマシン２６": {
+    "ja_name": "わざマシン２６",
+    "category": "other"
+  },
+  "わざマシン２９": {
+    "ja_name": "わざマシン２９",
+    "category": "other"
+  },
+  "わざマシン２７": {
+    "ja_name": "わざマシン２７",
+    "category": "other"
+  },
+  "わざマシン３５": {
+    "ja_name": "わざマシン３５",
+    "category": "other"
+  },
+  "わざマシン３２": {
+    "ja_name": "わざマシン３２",
+    "category": "other"
+  },
+  "わざマシン３１": {
+    "ja_name": "わざマシン３１",
+    "category": "other"
+  },
+  "わざマシン３４": {
+    "ja_name": "わざマシン３４",
+    "category": "other"
+  },
+  "わざマシン３３": {
+    "ja_name": "わざマシン３３",
+    "category": "other"
+  },
+  "わざマシン３９": {
+    "ja_name": "わざマシン３９",
+    "category": "other"
+  },
+  "わざマシン３７": {
+    "ja_name": "わざマシン３７",
+    "category": "other"
+  },
+  "わざマシン３８": {
+    "ja_name": "わざマシン３８",
+    "category": "other"
+  },
+  "あやしいパッチ": {
+    "ja_name": "あやしいパッチ",
+    "category": "other"
+  },
+  "わざマシン３６": {
+    "ja_name": "わざマシン３６",
+    "category": "other"
+  },
+  "わざマシン４０": {
+    "ja_name": "わざマシン４０",
+    "category": "other"
+  },
+  "わざマシン４１": {
+    "ja_name": "わざマシン４１",
+    "category": "other"
+  },
+  "わざマシン４２": {
+    "ja_name": "わざマシン４２",
+    "category": "other"
+  },
+  "わざマシン４３": {
+    "ja_name": "わざマシン４３",
+    "category": "other"
+  },
+  "わざマシン４５": {
+    "ja_name": "わざマシン４５",
+    "category": "other"
+  },
+  "わざマシン４４": {
+    "ja_name": "わざマシン４４",
+    "category": "other"
+  },
+  "わざマシン４７": {
+    "ja_name": "わざマシン４７",
+    "category": "other"
+  },
+  "わざマシン４６": {
+    "ja_name": "わざマシン４６",
+    "category": "other"
+  },
+  "わざマシン４８": {
+    "ja_name": "わざマシン４８",
+    "category": "other"
+  },
+  "わざマシン５０": {
+    "ja_name": "わざマシン５０",
+    "category": "other"
+  },
+  "わざマシン５３": {
+    "ja_name": "わざマシン５３",
+    "category": "other"
+  },
+  "わざマシン５２": {
+    "ja_name": "わざマシン５２",
+    "category": "other"
+  },
+  "わざマシン５６": {
+    "ja_name": "わざマシン５６",
+    "category": "other"
+  },
+  "わざマシン４９": {
+    "ja_name": "わざマシン４９",
+    "category": "other"
+  },
+  "わざマシン５５": {
+    "ja_name": "わざマシン５５",
+    "category": "other"
+  },
+  "わざマシン５８": {
+    "ja_name": "わざマシン５８",
+    "category": "other"
+  },
+  "わざマシン５４": {
+    "ja_name": "わざマシン５４",
+    "category": "other"
+  },
+  "わざマシン５９": {
+    "ja_name": "わざマシン５９",
+    "category": "other"
+  },
+  "わざマシン６０": {
+    "ja_name": "わざマシン６０",
+    "category": "other"
+  },
+  "わざマシン５１": {
+    "ja_name": "わざマシン５１",
+    "category": "other"
+  },
+  "わざマシン５７": {
+    "ja_name": "わざマシン５７",
+    "category": "other"
+  },
+  "わざマシン６２": {
+    "ja_name": "わざマシン６２",
+    "category": "other"
+  },
+  "わざマシン６１": {
+    "ja_name": "わざマシン６１",
+    "category": "other"
+  },
+  "わざマシン６８": {
+    "ja_name": "わざマシン６８",
+    "category": "other"
+  },
+  "わざマシン６３": {
+    "ja_name": "わざマシン６３",
+    "category": "other"
+  },
+  "わざマシン６５": {
+    "ja_name": "わざマシン６５",
+    "category": "other"
+  },
+  "わざマシン６９": {
+    "ja_name": "わざマシン６９",
+    "category": "other"
+  },
+  "わざマシン６４": {
+    "ja_name": "わざマシン６４",
+    "category": "other"
+  },
+  "わざマシン７４": {
+    "ja_name": "わざマシン７４",
+    "category": "other"
+  },
+  "わざマシン７３": {
+    "ja_name": "わざマシン７３",
+    "category": "other"
+  },
+  "わざマシン６６": {
+    "ja_name": "わざマシン６６",
+    "category": "other"
+  },
+  "わざマシン７０": {
+    "ja_name": "わざマシン７０",
+    "category": "other"
+  },
+  "わざマシン７１": {
+    "ja_name": "わざマシン７１",
+    "category": "other"
+  },
+  "わざマシン７６": {
+    "ja_name": "わざマシン７６",
+    "category": "other"
+  },
+  "わざマシン７２": {
+    "ja_name": "わざマシン７２",
+    "category": "other"
+  },
+  "わざマシン７７": {
+    "ja_name": "わざマシン７７",
+    "category": "other"
+  },
+  "わざマシン８０": {
+    "ja_name": "わざマシン８０",
+    "category": "other"
+  },
+  "わざマシン７８": {
+    "ja_name": "わざマシン７８",
+    "category": "other"
+  },
+  "わざマシン７９": {
+    "ja_name": "わざマシン７９",
+    "category": "other"
+  },
+  "わざマシン７５": {
+    "ja_name": "わざマシン７５",
+    "category": "other"
+  },
+  "わざマシン８１": {
+    "ja_name": "わざマシン８１",
+    "category": "other"
+  },
+  "わざマシン８２": {
+    "ja_name": "わざマシン８２",
+    "category": "other"
+  },
+  "わざマシン８６": {
+    "ja_name": "わざマシン８６",
+    "category": "other"
+  },
+  "わざマシン８５": {
+    "ja_name": "わざマシン８５",
+    "category": "other"
+  },
+  "わざマシン８３": {
+    "ja_name": "わざマシン８３",
+    "category": "other"
+  },
+  "わざマシン６７": {
+    "ja_name": "わざマシン６７",
+    "category": "other"
+  },
+  "わざマシン８７": {
+    "ja_name": "わざマシン８７",
+    "category": "other"
+  },
+  "わざマシン９１": {
+    "ja_name": "わざマシン９１",
+    "category": "other"
+  },
+  "わざマシン８４": {
+    "ja_name": "わざマシン８４",
+    "category": "other"
+  },
+  "わざマシン９２": {
+    "ja_name": "わざマシン９２",
+    "category": "other"
+  },
+  "わざマシン８９": {
+    "ja_name": "わざマシン８９",
+    "category": "other"
+  },
+  "わざマシン８８": {
+    "ja_name": "わざマシン８８",
+    "category": "other"
+  },
+  "ひでんマシン０７": {
+    "ja_name": "ひでんマシン０７",
+    "category": "other"
+  },
+  "ひでんマシン０３": {
+    "ja_name": "ひでんマシン０３",
+    "category": "other"
+  },
+  "ひでんマシン０１": {
+    "ja_name": "ひでんマシン０１",
+    "category": "other"
+  },
+  "ひでんマシン０４": {
+    "ja_name": "ひでんマシン０４",
+    "category": "other"
+  },
+  "ひでんマシン０６": {
+    "ja_name": "ひでんマシン０６",
+    "category": "other"
+  },
+  "ひでんマシン０５": {
+    "ja_name": "ひでんマシン０５",
+    "category": "other"
+  },
+  "ひでんマシン０２": {
+    "ja_name": "ひでんマシン０２",
+    "category": "other"
+  },
+  "たんけんセット": {
+    "ja_name": "たんけんセット",
+    "category": "other"
+  },
+  "わざマシン９０": {
+    "ja_name": "わざマシン９０",
+    "category": "other"
+  },
+  "ルールブック": {
+    "ja_name": "ルールブック",
+    "category": "other"
+  },
+  "たからぶくろ": {
+    "ja_name": "たからぶくろ",
+    "category": "other"
+  },
+  "ポケトレ": {
+    "ja_name": "ポケトレ",
+    "category": "other"
+  },
+  "ポイントカード": {
+    "ja_name": "ポイントカード",
+    "category": "other"
+  },
+  "ぼうけんノート": {
+    "ja_name": "ぼうけんノート",
+    "category": "other"
+  },
+  "アクセサリーいれ": {
+    "ja_name": "アクセサリーいれ",
+    "category": "other"
+  },
+  "ギンガだんのカギ": {
+    "ja_name": "ギンガだんのカギ",
+    "category": "other"
+  },
+  "ともだちてちょう": {
+    "ja_name": "ともだちてちょう",
+    "category": "other"
+  },
+  "はつでんしょキー": {
+    "ja_name": "はつでんしょキー",
+    "category": "other"
+  },
+  "シールぶくろ": {
+    "ja_name": "シールぶくろ",
+    "category": "other"
+  },
+  "シールいれ": {
+    "ja_name": "シールいれ",
+    "category": "other"
+  },
+  "こだいのおまもり": {
+    "ja_name": "こだいのおまもり",
+    "category": "other"
+  },
+  "あかいくさり": {
+    "ja_name": "あかいくさり",
+    "category": "other"
+  },
+  "ボロのつりざお": {
+    "ja_name": "ボロのつりざお",
+    "category": "other"
+  },
+  "バトルサーチャー": {
+    "ja_name": "バトルサーチャー",
+    "category": "other"
+  },
+  "いいつりざお": {
+    "ja_name": "いいつりざお",
+    "category": "other"
+  },
+  "コダックじょうろ": {
+    "ja_name": "コダックじょうろ",
+    "category": "other"
+  },
+  "コインケース": {
+    "ja_name": "コインケース",
+    "category": "other"
+  },
+  "すごいつりざお": {
+    "ja_name": "すごいつりざお",
+    "category": "other"
+  },
+  "ポフィンケース": {
+    "ja_name": "ポフィンケース",
+    "category": "other"
+  },
+  "タウンマップ": {
+    "ja_name": "タウンマップ",
+    "category": "other"
+  },
+  "ルームキー": {
+    "ja_name": "ルームキー",
+    "category": "other"
+  },
+  "オーキドのてがみ": {
+    "ja_name": "オーキドのてがみ",
+    "category": "other"
+  },
+  "メンバーズカード": {
+    "ja_name": "メンバーズカード",
+    "category": "other"
+  },
+  "みかづきのはね": {
+    "ja_name": "みかづきのはね",
+    "category": "other"
+  },
+  "てんかいのふえ": {
+    "ja_name": "てんかいのふえ",
+    "category": "other"
+  },
+  "コンテストパス": {
+    "ja_name": "コンテストパス",
+    "category": "other"
+  },
+  "おとどけもの": {
+    "ja_name": "おとどけもの",
+    "category": "other"
+  },
+  "ひきかえけん１": {
+    "ja_name": "ひきかえけん１",
+    "category": "other"
+  },
+  "ふねのチケット": {
+    "ja_name": "ふねのチケット",
+    "category": "other"
+  },
+  "ひきかえけん２": {
+    "ja_name": "ひきかえけん２",
+    "category": "other"
+  },
+  "ひきかえけん３": {
+    "ja_name": "ひきかえけん３",
+    "category": "other"
+  },
+  "かざんのおきいし": {
+    "ja_name": "かざんのおきいし",
+    "category": "other"
+  },
+  "そうこのカギ": {
+    "ja_name": "そうこのカギ",
+    "category": "other"
+  },
+  "はっきんだま": {
+    "ja_name": "はっきんだま",
+    "category": "other"
+  },
+  "ひみつのカギ": {
+    "ja_name": "ひみつのカギ",
+    "category": "other"
+  },
+  "ぼんぐりケース": {
+    "ja_name": "ぼんぐりケース",
+    "category": "other"
+  },
+  "グラシデアのはな": {
+    "ja_name": "グラシデアのはな",
+    "category": "other"
+  },
+  "ゼニガメじょうろ": {
+    "ja_name": "ゼニガメじょうろ",
+    "category": "other"
+  },
+  "バトルレコーダー": {
+    "ja_name": "バトルレコーダー",
+    "category": "other"
+  },
+  "ルアーボール": {
+    "ja_name": "ルアーボール",
+    "category": "other"
+  },
+  "レベルボール": {
+    "ja_name": "レベルボール",
+    "category": "other"
+  },
+  "ヘビーボール": {
+    "ja_name": "ヘビーボール",
+    "category": "other"
+  },
+  "パークボール": {
+    "ja_name": "パークボール",
+    "category": "other"
+  },
+  "コンペボール": {
+    "ja_name": "コンペボール",
+    "category": "other"
+  },
+  "フレンドボール": {
+    "ja_name": "フレンドボール",
+    "category": "other"
+  },
+  "ラブラブボール": {
+    "ja_name": "ラブラブボール",
+    "category": "other"
+  },
+  "きのみプランター": {
+    "ja_name": "きのみプランター",
+    "category": "berry"
+  },
+  "ムーンボール": {
+    "ja_name": "ムーンボール",
+    "category": "other"
+  },
+  "あかぼんぐり": {
+    "ja_name": "あかぼんぐり",
+    "category": "other"
+  },
+  "あおぼんぐり": {
+    "ja_name": "あおぼんぐり",
+    "category": "other"
+  },
+  "スピードボール": {
+    "ja_name": "スピードボール",
+    "category": "other"
+  },
+  "きぼんぐり": {
+    "ja_name": "きぼんぐり",
+    "category": "other"
+  },
+  "しろぼんぐり": {
+    "ja_name": "しろぼんぐり",
+    "category": "other"
+  },
+  "みどぼんぐり": {
+    "ja_name": "みどぼんぐり",
+    "category": "other"
+  },
+  "ダウジングマシン": {
+    "ja_name": "ダウジングマシン",
+    "category": "other"
+  },
+  "いかりまんじゅう": {
+    "ja_name": "いかりまんじゅう",
+    "category": "other"
+  },
+  "もえぎいろのたま": {
+    "ja_name": "もえぎいろのたま",
+    "category": "other"
+  },
+  "なぞのすいしょう": {
+    "ja_name": "なぞのすいしょう",
+    "category": "other"
+  },
+  "ブルーカード": {
+    "ja_name": "ブルーカード",
+    "category": "other"
+  },
+  "おいしいシッポ": {
+    "ja_name": "おいしいシッポ",
+    "category": "other"
+  },
+  "アンノーンノート": {
+    "ja_name": "アンノーンノート",
+    "category": "other"
+  },
+  "あいいろのたま": {
+    "ja_name": "あいいろのたま",
+    "category": "other"
+  },
+  "ももぼんぐり": {
+    "ja_name": "ももぼんぐり",
+    "category": "other"
+  },
+  "あかいウロコ": {
+    "ja_name": "あかいウロコ",
+    "category": "other"
+  },
+  "ちかのかぎ": {
+    "ja_name": "ちかのかぎ",
+    "category": "other"
+  },
+  "べにいろのたま": {
+    "ja_name": "べにいろのたま",
+    "category": "other"
+  },
+  "おとしもの": {
+    "ja_name": "おとしもの",
+    "category": "other"
+  },
+  "きかいのぶひん": {
+    "ja_name": "きかいのぶひん",
+    "category": "other"
+  },
+  "リニアパス": {
+    "ja_name": "リニアパス",
+    "category": "other"
+  },
+  "にじいろのはね": {
+    "ja_name": "にじいろのはね",
+    "category": "other"
+  },
+  "ぎんいろのはね": {
+    "ja_name": "ぎんいろのはね",
+    "category": "other"
+  },
+  "データカード０１": {
+    "ja_name": "データカード０１",
+    "category": "other"
+  },
+  "ふしぎなタマゴ": {
+    "ja_name": "ふしぎなタマゴ",
+    "category": "other"
+  },
+  "ＧＢプレイヤー": {
+    "ja_name": "ＧＢプレイヤー",
+    "category": "other"
+  },
+  "データカード０３": {
+    "ja_name": "データカード０３",
+    "category": "other"
+  },
+  "データカード０４": {
+    "ja_name": "データカード０４",
+    "category": "other"
+  },
+  "データカード０２": {
+    "ja_name": "データカード０２",
+    "category": "other"
+  },
+  "データカード０６": {
+    "ja_name": "データカード０６",
+    "category": "other"
+  },
+  "うみなりのスズ": {
+    "ja_name": "うみなりのスズ",
+    "category": "other"
+  },
+  "データカード０７": {
+    "ja_name": "データカード０７",
+    "category": "other"
+  },
+  "データカード０５": {
+    "ja_name": "データカード０５",
+    "category": "other"
+  },
+  "データカード１０": {
+    "ja_name": "データカード１０",
+    "category": "other"
+  },
+  "データカード０９": {
+    "ja_name": "データカード０９",
+    "category": "other"
+  },
+  "くろぼんぐり": {
+    "ja_name": "くろぼんぐり",
+    "category": "other"
+  },
+  "データカード０８": {
+    "ja_name": "データカード０８",
+    "category": "other"
+  },
+  "データカード１２": {
+    "ja_name": "データカード１２",
+    "category": "other"
+  },
+  "とうめいなスズ": {
+    "ja_name": "とうめいなスズ",
+    "category": "other"
+  },
+  "データカード１３": {
+    "ja_name": "データカード１３",
+    "category": "other"
+  },
+  "ひでんのくすり": {
+    "ja_name": "ひでんのくすり",
+    "category": "other"
+  },
+  "データカード１８": {
+    "ja_name": "データカード１８",
+    "category": "other"
+  },
+  "カードキー": {
+    "ja_name": "カードキー",
+    "category": "other"
+  },
+  "データカード１４": {
+    "ja_name": "データカード１４",
+    "category": "other"
+  },
+  "データカード１５": {
+    "ja_name": "データカード１５",
+    "category": "other"
+  },
+  "データカード２２": {
+    "ja_name": "データカード２２",
+    "category": "other"
+  },
+  "データカード２１": {
+    "ja_name": "データカード２１",
+    "category": "other"
+  },
+  "データカード１７": {
+    "ja_name": "データカード１７",
+    "category": "other"
+  },
+  "データカード２３": {
+    "ja_name": "データカード２３",
+    "category": "other"
+  },
+  "データカード１６": {
+    "ja_name": "データカード１６",
+    "category": "other"
+  },
+  "データカード２４": {
+    "ja_name": "データカード２４",
+    "category": "other"
+  },
+  "データカード２６": {
+    "ja_name": "データカード２６",
+    "category": "other"
+  },
+  "データカード１９": {
+    "ja_name": "データカード１９",
+    "category": "other"
+  },
+  "データカード２０": {
+    "ja_name": "データカード２０",
+    "category": "other"
+  },
+  "データカード２５": {
+    "ja_name": "データカード２５",
+    "category": "other"
+  },
+  "データカード２７": {
+    "ja_name": "データカード２７",
+    "category": "other"
+  },
+  "ロックカプセル": {
+    "ja_name": "ロックカプセル",
+    "category": "other"
+  },
+  "フォトアルバム": {
+    "ja_name": "フォトアルバム",
+    "category": "other"
+  },
+  "データカード１１": {
+    "ja_name": "データカード１１",
+    "category": "other"
+  },
+  "ダートじてんしゃ": {
+    "ja_name": "ダートじてんしゃ",
+    "category": "other"
+  },
+  "ホエルコじょうろ": {
+    "ja_name": "ホエルコじょうろ",
+    "category": "other"
+  },
+  "はいぶくろ": {
+    "ja_name": "はいぶくろ",
+    "category": "other"
+  },
+  "マッハじてんしゃ": {
+    "ja_name": "マッハじてんしゃ",
+    "category": "other"
+  },
+  "むげんのチケット": {
+    "ja_name": "むげんのチケット",
+    "category": "other"
+  },
+  "ゴーゴーゴーグル": {
+    "ja_name": "ゴーゴーゴーグル",
+    "category": "other"
+  },
+  "たんちき": {
+    "ja_name": "たんちき",
+    "category": "other"
+  },
+  "いんせき": {
+    "ja_name": "いんせき",
+    "category": "other"
+  },
+  "デボンスコープ": {
+    "ja_name": "デボンスコープ",
+    "category": "other"
+  },
+  "エレベータのカギ": {
+    "ja_name": "エレベータのカギ",
+    "category": "other"
+  },
+  "シルフスコープ": {
+    "ja_name": "シルフスコープ",
+    "category": "other"
+  },
+  "ポケモンのふえ": {
+    "ja_name": "ポケモンのふえ",
+    "category": "other"
+  },
+  "わざマシンケース": {
+    "ja_name": "わざマシンケース",
+    "category": "other"
+  },
+  "きんのいれば": {
+    "ja_name": "きんのいれば",
+    "category": "other"
+  },
+  "おちゃ": {
+    "ja_name": "おちゃ",
+    "category": "other"
+  },
+  "ブレイズカセット": {
+    "ja_name": "ブレイズカセット",
+    "category": "other"
+  },
+  "アクアカセット": {
+    "ja_name": "アクアカセット",
+    "category": "other"
+  },
+  "イナズマカセット": {
+    "ja_name": "イナズマカセット",
+    "category": "other"
+  },
+  "きれいなウロコ": {
+    "ja_name": "きれいなウロコ",
+    "category": "other"
+  },
+  "はじめてメール": {
+    "ja_name": "はじめてメール",
+    "category": "other"
+  },
+  "フリーズカセット": {
+    "ja_name": "フリーズカセット",
+    "category": "other"
+  },
+  "ハートスイーツ": {
+    "ja_name": "ハートスイーツ",
+    "category": "other"
+  },
+  "しつもんメール": {
+    "ja_name": "しつもんメール",
+    "category": "other"
+  },
+  "かんしゃメール": {
+    "ja_name": "かんしゃメール",
+    "category": "other"
+  },
+  "おさそいメール": {
+    "ja_name": "おさそいメール",
+    "category": "other"
+  },
+  "だいすきメール": {
+    "ja_name": "だいすきメール",
+    "category": "other"
+  },
+  "おすすめメール": {
+    "ja_name": "おすすめメール",
+    "category": "other"
+  },
+  "ブリッジメールＳ": {
+    "ja_name": "ブリッジメールＳ",
+    "category": "other"
+  },
+  "おかえしメール": {
+    "ja_name": "おかえしメール",
+    "category": "other"
+  },
+  "ブリッジメールＶ": {
+    "ja_name": "ブリッジメールＶ",
+    "category": "other"
+  },
+  "ブリッジメールＣ": {
+    "ja_name": "ブリッジメールＣ",
+    "category": "other"
+  },
+  "ブリッジメールＷ": {
+    "ja_name": "ブリッジメールＷ",
+    "category": "other"
+  },
+  "ブリッジメールＨ": {
+    "ja_name": "ブリッジメールＨ",
+    "category": "other"
+  },
+  "しんかのきせき": {
+    "ja_name": "しんかのきせき",
+    "category": "other"
+  },
+  "かるいし": {
+    "ja_name": "かるいし",
+    "category": "other"
+  },
+  "レッドカード": {
+    "ja_name": "レッドカード",
+    "category": "other"
+  },
+  "ねらいのまと": {
+    "ja_name": "ねらいのまと",
+    "category": "other"
+  },
+  "ふうせん": {
+    "ja_name": "ふうせん",
+    "category": "other"
+  },
+  "ほのおのジュエル": {
+    "ja_name": "ほのおのジュエル",
+    "category": "other"
+  },
+  "じゅうでんち": {
+    "ja_name": "じゅうでんち",
+    "category": "other"
+  },
+  "ゴツゴツメット": {
+    "ja_name": "ゴツゴツメット",
+    "category": "other"
+  },
+  "きゅうこん": {
+    "ja_name": "きゅうこん",
+    "category": "other"
+  },
+  "でんきのジュエル": {
+    "ja_name": "でんきのジュエル",
+    "category": "other"
+  },
+  "くさのジュエル": {
+    "ja_name": "くさのジュエル",
+    "category": "other"
+  },
+  "だっしゅつボタン": {
+    "ja_name": "だっしゅつボタン",
+    "category": "other"
+  },
+  "こおりのジュエル": {
+    "ja_name": "こおりのジュエル",
+    "category": "other"
+  },
+  "しめつけバンド": {
+    "ja_name": "しめつけバンド",
+    "category": "other"
+  },
+  "じめんのジュエル": {
+    "ja_name": "じめんのジュエル",
+    "category": "other"
+  },
+  "かくとうジュエル": {
+    "ja_name": "かくとうジュエル",
+    "category": "other"
+  },
+  "みずのジュエル": {
+    "ja_name": "みずのジュエル",
+    "category": "other"
+  },
+  "ひこうのジュエル": {
+    "ja_name": "ひこうのジュエル",
+    "category": "other"
+  },
+  "エスパージュエル": {
+    "ja_name": "エスパージュエル",
+    "category": "other"
+  },
+  "むしのジュエル": {
+    "ja_name": "むしのジュエル",
+    "category": "other"
+  },
+  "いわのジュエル": {
+    "ja_name": "いわのジュエル",
+    "category": "other"
+  },
+  "ゴーストジュエル": {
+    "ja_name": "ゴーストジュエル",
+    "category": "other"
+  },
+  "はがねのジュエル": {
+    "ja_name": "はがねのジュエル",
+    "category": "other"
+  },
+  "どくのジュエル": {
+    "ja_name": "どくのジュエル",
+    "category": "other"
+  },
+  "ていこうのハネ": {
+    "ja_name": "ていこうのハネ",
+    "category": "other"
+  },
+  "きんりょくのハネ": {
+    "ja_name": "きんりょくのハネ",
+    "category": "other"
+  },
+  "たいりょくのハネ": {
+    "ja_name": "たいりょくのハネ",
+    "category": "other"
+  },
+  "ちりょくのハネ": {
+    "ja_name": "ちりょくのハネ",
+    "category": "other"
+  },
+  "ダイゴへのてがみ": {
+    "ja_name": "ダイゴへのてがみ",
+    "category": "other"
+  },
+  "あくのジュエル": {
+    "ja_name": "あくのジュエル",
+    "category": "other"
+  },
+  "ふたのカセキ": {
+    "ja_name": "ふたのカセキ",
+    "category": "other"
+  },
+  "はねのカセキ": {
+    "ja_name": "はねのカセキ",
+    "category": "other"
+  },
+  "きれいなハネ": {
+    "ja_name": "きれいなハネ",
+    "category": "other"
+  },
+  "リバティチケット": {
+    "ja_name": "リバティチケット",
+    "category": "other"
+  },
+  "せいしんのハネ": {
+    "ja_name": "せいしんのハネ",
+    "category": "other"
+  },
+  "グッズケース": {
+    "ja_name": "グッズケース",
+    "category": "other"
+  },
+  "ドリームボール": {
+    "ja_name": "ドリームボール",
+    "category": "other"
+  },
+  "ドラゴンのホネ": {
+    "ja_name": "ドラゴンのホネ",
+    "category": "other"
+  },
+  "かおるキノコ": {
+    "ja_name": "かおるキノコ",
+    "category": "other"
+  },
+  "おだんごしんじゅ": {
+    "ja_name": "おだんごしんじゅ",
+    "category": "other"
+  },
+  "ポケじゃらし": {
+    "ja_name": "ポケじゃらし",
+    "category": "other"
+  },
+  "でかいきんのたま": {
+    "ja_name": "でかいきんのたま",
+    "category": "other"
+  },
+  "デルダマ": {
+    "ja_name": "デルダマ",
+    "category": "other"
+  },
+  "こだいのどうか": {
+    "ja_name": "こだいのどうか",
+    "category": "other"
+  },
+  "こだいのきんか": {
+    "ja_name": "こだいのきんか",
+    "category": "other"
+  },
+  "こだいのツボ": {
+    "ja_name": "こだいのツボ",
+    "category": "other"
+  },
+  "すいせいのかけら": {
+    "ja_name": "すいせいのかけら",
+    "category": "other"
+  },
+  "こだいのぎんか": {
+    "ja_name": "こだいのぎんか",
+    "category": "other"
+  },
+  "こだいのせきぞう": {
+    "ja_name": "こだいのせきぞう",
+    "category": "other"
+  },
+  "こだいのうでわ": {
+    "ja_name": "こだいのうでわ",
+    "category": "other"
+  },
+  "こだいのおうかん": {
+    "ja_name": "こだいのおうかん",
+    "category": "other"
+  },
+  "クリティカット２": {
+    "ja_name": "クリティカット２",
+    "category": "other"
+  },
+  "ヒウンアイス": {
+    "ja_name": "ヒウンアイス",
+    "category": "other"
+  },
+  "ＳＰガード２": {
+    "ja_name": "ＳＰガード２",
+    "category": "other"
+  },
+  "スピーダー２": {
+    "ja_name": "スピーダー２",
+    "category": "other"
+  },
+  "ヨクアタール２": {
+    "ja_name": "ヨクアタール２",
+    "category": "other"
+  },
+  "プラスパワー２": {
+    "ja_name": "プラスパワー２",
+    "category": "other"
+  },
+  "スピーダー３": {
+    "ja_name": "スピーダー３",
+    "category": "other"
+  },
+  "ＳＰアップ３": {
+    "ja_name": "ＳＰアップ３",
+    "category": "other"
+  },
+  "ディフェンダー２": {
+    "ja_name": "ディフェンダー２",
+    "category": "other"
+  },
+  "ＳＰアップ２": {
+    "ja_name": "ＳＰアップ２",
+    "category": "other"
+  },
+  "プラスパワー３": {
+    "ja_name": "プラスパワー３",
+    "category": "other"
+  },
+  "ＳＰガード３": {
+    "ja_name": "ＳＰガード３",
+    "category": "other"
+  },
+  "ヨクアタール３": {
+    "ja_name": "ヨクアタール３",
+    "category": "other"
+  },
+  "ディフェンダー３": {
+    "ja_name": "ディフェンダー３",
+    "category": "other"
+  },
+  "スキルコール": {
+    "ja_name": "スキルコール",
+    "category": "other"
+  },
+  "ＳＰアップ６": {
+    "ja_name": "ＳＰアップ６",
+    "category": "other"
+  },
+  "ＳＰガード６": {
+    "ja_name": "ＳＰガード６",
+    "category": "other"
+  },
+  "プラスパワー６": {
+    "ja_name": "プラスパワー６",
+    "category": "other"
+  },
+  "スピーダー６": {
+    "ja_name": "スピーダー６",
+    "category": "other"
+  },
+  "ディフェンダー６": {
+    "ja_name": "ディフェンダー６",
+    "category": "other"
+  },
+  "ヨクアタール６": {
+    "ja_name": "ヨクアタール６",
+    "category": "other"
+  },
+  "アイテムコール": {
+    "ja_name": "アイテムコール",
+    "category": "other"
+  },
+  "クリティカット３": {
+    "ja_name": "クリティカット３",
+    "category": "other"
+  },
+  "アイテムドロップ": {
+    "ja_name": "アイテムドロップ",
+    "category": "other"
+  },
+  "ライトストーン": {
+    "ja_name": "ライトストーン",
+    "category": "other"
+  },
+  "ダークストーン": {
+    "ja_name": "ダークストーン",
+    "category": "other"
+  },
+  "わざマシン９５": {
+    "ja_name": "わざマシン９５",
+    "category": "other"
+  },
+  "わざマシン９３": {
+    "ja_name": "わざマシン９３",
+    "category": "other"
+  },
+  "ライブキャスター": {
+    "ja_name": "ライブキャスター",
+    "category": "other"
+  },
+  "はいたつぶつ１": {
+    "ja_name": "はいたつぶつ１",
+    "category": "other"
+  },
+  "わざマシン９４": {
+    "ja_name": "わざマシン９４",
+    "category": "other"
+  },
+  "ドラゴンジュエル": {
+    "ja_name": "ドラゴンジュエル",
+    "category": "other"
+  },
+  "はいたつぶつ３": {
+    "ja_name": "はいたつぶつ３",
+    "category": "other"
+  },
+  "ノーマルジュエル": {
+    "ja_name": "ノーマルジュエル",
+    "category": "other"
+  },
+  "はいたつぶつ２": {
+    "ja_name": "はいたつぶつ２",
+    "category": "other"
+  },
+  "まるいおまもり": {
+    "ja_name": "まるいおまもり",
+    "category": "other"
+  },
+  "メダルボックス": {
+    "ja_name": "メダルボックス",
+    "category": "other"
+  },
+  "きょかしょう": {
+    "ja_name": "きょかしょう",
+    "category": "other"
+  },
+  "いでんしのくさび": {
+    "ja_name": "いでんしのくさび",
+    "category": "other"
+  },
+  "プラズマカード": {
+    "ja_name": "プラズマカード",
+    "category": "other"
+  },
+  "よごれたハンカチ": {
+    "ja_name": "よごれたハンカチ",
+    "category": "other"
+  },
+  "わすれもの": {
+    "ja_name": "わすれもの",
+    "category": "other"
+  },
+  "アクロママシーン": {
+    "ja_name": "アクロママシーン",
+    "category": "other"
+  },
+  "じゃくてんほけん": {
+    "ja_name": "じゃくてんほけん",
+    "category": "other"
+  },
+  "うつしかがみ": {
+    "ja_name": "うつしかがみ",
+    "category": "other"
+  },
+  "とつげきチョッキ": {
+    "ja_name": "とつげきチョッキ",
+    "category": "other"
+  },
+  "ホイップポップ": {
+    "ja_name": "ホイップポップ",
+    "category": "other"
+  },
+  "フラットコール": {
+    "ja_name": "フラットコール",
+    "category": "other"
+  },
+  "ひかるおまもり": {
+    "ja_name": "ひかるおまもり",
+    "category": "other"
+  },
+  "とくせいカプセル": {
+    "ja_name": "とくせいカプセル",
+    "category": "other"
+  },
+  "においぶくろ": {
+    "ja_name": "においぶくろ",
+    "category": "other"
+  },
+  "せいれいプレート": {
+    "ja_name": "せいれいプレート",
+    "category": "other"
+  },
+  "ひかりごけ": {
+    "ja_name": "ひかりごけ",
+    "category": "other"
+  },
+  "ゆきだま": {
+    "ja_name": "ゆきだま",
+    "category": "other"
+  },
+  "たわわこやし": {
+    "ja_name": "たわわこやし",
+    "category": "other"
+  },
+  "ぐんぐんこやし": {
+    "ja_name": "ぐんぐんこやし",
+    "category": "other"
+  },
+  "ぼうじんゴーグル": {
+    "ja_name": "ぼうじんゴーグル",
+    "category": "other"
+  },
+  "びっくりこやし": {
+    "ja_name": "びっくりこやし",
+    "category": "other"
+  },
+  "ゲンガナイト": {
+    "ja_name": "ゲンガナイト",
+    "category": "mega"
+  },
+  "とんでもこやし": {
+    "ja_name": "とんでもこやし",
+    "category": "other"
+  },
+  "サーナイトナイト": {
+    "ja_name": "サーナイトナイト",
+    "category": "mega"
+  },
+  "フシギバナイト": {
+    "ja_name": "フシギバナイト",
+    "category": "mega"
+  },
+  "カメックスナイト": {
+    "ja_name": "カメックスナイト",
+    "category": "mega"
+  },
+  "しゅんぱつのハネ": {
+    "ja_name": "しゅんぱつのハネ",
+    "category": "other"
+  },
+  "リザードナイトＸ": {
+    "ja_name": "リザードナイトＸ",
+    "category": "mega"
+  },
+  "ミュウツナイトＹ": {
+    "ja_name": "ミュウツナイトＹ",
+    "category": "mega"
+  },
+  "バシャーモナイト": {
+    "ja_name": "バシャーモナイト",
+    "category": "mega"
+  },
+  "チャーレムナイト": {
+    "ja_name": "チャーレムナイト",
+    "category": "mega"
+  },
+  "ミュウツナイトＸ": {
+    "ja_name": "ミュウツナイトＸ",
+    "category": "mega"
+  },
+  "デンリュウナイト": {
+    "ja_name": "デンリュウナイト",
+    "category": "mega"
+  },
+  "バンギラスナイト": {
+    "ja_name": "バンギラスナイト",
+    "category": "mega"
+  },
+  "ハッサムナイト": {
+    "ja_name": "ハッサムナイト",
+    "category": "mega"
+  },
+  "ボスゴドラナイト": {
+    "ja_name": "ボスゴドラナイト",
+    "category": "mega"
+  },
+  "ジュペッタナイト": {
+    "ja_name": "ジュペッタナイト",
+    "category": "mega"
+  },
+  "ヘルガナイト": {
+    "ja_name": "ヘルガナイト",
+    "category": "mega"
+  },
+  "カイロスナイト": {
+    "ja_name": "カイロスナイト",
+    "category": "mega"
+  },
+  "プテラナイト": {
+    "ja_name": "プテラナイト",
+    "category": "mega"
+  },
+  "ガルーラナイト": {
+    "ja_name": "ガルーラナイト",
+    "category": "mega"
+  },
+  "ユキノオナイト": {
+    "ja_name": "ユキノオナイト",
+    "category": "mega"
+  },
+  "ギャラドスナイト": {
+    "ja_name": "ギャラドスナイト",
+    "category": "mega"
+  },
+  "アブソルナイト": {
+    "ja_name": "アブソルナイト",
+    "category": "mega"
+  },
+  "フーディナイト": {
+    "ja_name": "フーディナイト",
+    "category": "mega"
+  },
+  "ルカリオナイト": {
+    "ja_name": "ルカリオナイト",
+    "category": "mega"
+  },
+  "ガブリアスナイト": {
+    "ja_name": "ガブリアスナイト",
+    "category": "mega"
+  },
+  "ヘラクロスナイト": {
+    "ja_name": "ヘラクロスナイト",
+    "category": "mega"
+  },
+  "クチートナイト": {
+    "ja_name": "クチートナイト",
+    "category": "mega"
+  },
+  "リザードナイトＹ": {
+    "ja_name": "リザードナイトＹ",
+    "category": "mega"
+  },
+  "アッキのみ": {
+    "ja_name": "アッキのみ",
+    "category": "other"
+  },
+  "ロゼルのみ": {
+    "ja_name": "ロゼルのみ",
+    "category": "other"
+  },
+  "バーゲンチケット": {
+    "ja_name": "バーゲンチケット",
+    "category": "other"
+  },
+  "ふしぎなおきもの": {
+    "ja_name": "ふしぎなおきもの",
+    "category": "other"
+  },
+  "ミアレガレット": {
+    "ja_name": "ミアレガレット",
+    "category": "other"
+  },
+  "タラプのみ": {
+    "ja_name": "タラプのみ",
+    "category": "other"
+  },
+  "ようせいジュエル": {
+    "ja_name": "ようせいジュエル",
+    "category": "other"
+  },
+  "アゴのカセキ": {
+    "ja_name": "アゴのカセキ",
+    "category": "other"
+  },
+  "ライボルトナイト": {
+    "ja_name": "ライボルトナイト",
+    "category": "mega"
+  },
+  "ヒレのカセキ": {
+    "ja_name": "ヒレのカセキ",
+    "category": "other"
+  },
+  "ホロキャスター": {
+    "ja_name": "ホロキャスター",
+    "category": "other"
+  },
+  "すごそうないし": {
+    "ja_name": "すごそうないし",
+    "category": "other"
+  },
+  "カロスエンブレム": {
+    "ja_name": "カロスエンブレム",
+    "category": "other"
+  },
+  "レンズケース": {
+    "ja_name": "レンズケース",
+    "category": "other"
+  },
+  "たんけんこころえ": {
+    "ja_name": "たんけんこころえ",
+    "category": "other"
+  },
+  "ハンサムチケット": {
+    "ja_name": "ハンサムチケット",
+    "category": "other"
+  },
+  "はかせのてがみ": {
+    "ja_name": "はかせのてがみ",
+    "category": "other"
+  },
+  "ハスボーじょうろ": {
+    "ja_name": "ハスボーじょうろ",
+    "category": "other"
+  },
+  "はつでんしょパス": {
+    "ja_name": "はつでんしょパス",
+    "category": "other"
+  },
+  "ＴＭＶパス": {
+    "ja_name": "ＴＭＶパス",
+    "category": "other"
+  },
+  "メガリング": {
+    "ja_name": "メガリング",
+    "category": "other"
+  },
+  "わざマシン９６": {
+    "ja_name": "わざマシン９６",
+    "category": "other"
+  },
+  "わざマシン９９": {
+    "ja_name": "わざマシン９９",
+    "category": "other"
+  },
+  "ローラースケート": {
+    "ja_name": "ローラースケート",
+    "category": "other"
+  },
+  "わざマシン１００": {
+    "ja_name": "わざマシン１００",
+    "category": "other"
+  },
+  "わざマシン９８": {
+    "ja_name": "わざマシン９８",
+    "category": "other"
+  },
+  "わざマシン９７": {
+    "ja_name": "わざマシン９７",
+    "category": "other"
+  },
+  "ラティオスナイト": {
+    "ja_name": "ラティオスナイト",
+    "category": "mega"
+  },
+  "コスメポーチ": {
+    "ja_name": "コスメポーチ",
+    "category": "other"
+  },
+  "ラティアスナイト": {
+    "ja_name": "ラティアスナイト",
+    "category": "mega"
+  },
+  "ありふれたいし": {
+    "ja_name": "ありふれたいし",
+    "category": "other"
+  },
+  "シャラサブレ": {
+    "ja_name": "シャラサブレ",
+    "category": "other"
+  },
+  "いしょうトランク": {
+    "ja_name": "いしょうトランク",
+    "category": "other"
+  },
+  "ポロックキット": {
+    "ja_name": "ポロックキット",
+    "category": "other"
+  },
+  "エレベータのキー": {
+    "ja_name": "エレベータのキー",
+    "category": "other"
+  },
+  "デボンのにもつ": {
+    "ja_name": "デボンのにもつ",
+    "category": "other"
+  },
+  "２ごうしつのカギ": {
+    "ja_name": "２ごうしつのカギ",
+    "category": "other"
+  },
+  "メガグローブ": {
+    "ja_name": "メガグローブ",
+    "category": "other"
+  },
+  "１ごうしつのカギ": {
+    "ja_name": "１ごうしつのカギ",
+    "category": "other"
+  },
+  "メガチャーム": {
+    "ja_name": "メガチャーム",
+    "category": "other"
+  },
+  "６ごうしつのカギ": {
+    "ja_name": "６ごうしつのカギ",
+    "category": "other"
+  },
+  "４ごうしつのカギ": {
+    "ja_name": "４ごうしつのカギ",
+    "category": "other"
+  },
+  "デボンボンベ": {
+    "ja_name": "デボンボンベ",
+    "category": "other"
+  },
+  "メガメガネ": {
+    "ja_name": "メガメガネ",
+    "category": "other"
+  },
+  "マグマスーツ": {
+    "ja_name": "マグマスーツ",
+    "category": "other"
+  },
+  "メガバングル": {
+    "ja_name": "メガバングル",
+    "category": "other"
+  },
+  "ライブスーツ": {
+    "ja_name": "ライブスーツ",
+    "category": "other"
+  },
+  "ペアチケット": {
+    "ja_name": "ペアチケット",
+    "category": "other"
+  },
+  "メガペンダント": {
+    "ja_name": "メガペンダント",
+    "category": "other"
+  },
+  "アクアスーツ": {
+    "ja_name": "アクアスーツ",
+    "category": "other"
+  },
+  "メガティアラ": {
+    "ja_name": "メガティアラ",
+    "category": "other"
+  },
+  "メガイカリ": {
+    "ja_name": "メガイカリ",
+    "category": "other"
+  },
+  "メガラペルピン": {
+    "ja_name": "メガラペルピン",
+    "category": "other"
+  },
+  "チルタリスナイト": {
+    "ja_name": "チルタリスナイト",
+    "category": "mega"
+  },
+  "ラグラージナイト": {
+    "ja_name": "ラグラージナイト",
+    "category": "mega"
+  },
+  "ヤミラミナイト": {
+    "ja_name": "ヤミラミナイト",
+    "category": "mega"
+  },
+  "メガアンクレット": {
+    "ja_name": "メガアンクレット",
+    "category": "other"
+  },
+  "ジュカインナイト": {
+    "ja_name": "ジュカインナイト",
+    "category": "mega"
+  },
+  "サメハダナイト": {
+    "ja_name": "サメハダナイト",
+    "category": "mega"
+  },
+  "メタグロスナイト": {
+    "ja_name": "メタグロスナイト",
+    "category": "mega"
+  },
+  "ピジョットナイト": {
+    "ja_name": "ピジョットナイト",
+    "category": "mega"
+  },
+  "ヤドランナイト": {
+    "ja_name": "ヤドランナイト",
+    "category": "mega"
+  },
+  "タブンネナイト": {
+    "ja_name": "タブンネナイト",
+    "category": "mega"
+  },
+  "ディアンシナイト": {
+    "ja_name": "ディアンシナイト",
+    "category": "mega"
+  },
+  "オニゴーリナイト": {
+    "ja_name": "オニゴーリナイト",
+    "category": "mega"
+  },
+  "バクーダナイト": {
+    "ja_name": "バクーダナイト",
+    "category": "mega"
+  },
+  "メガブレス": {
+    "ja_name": "メガブレス",
+    "category": "other"
+  },
+  "ミミロップナイト": {
+    "ja_name": "ミミロップナイト",
+    "category": "mega"
+  },
+  "エルレイドナイト": {
+    "ja_name": "エルレイドナイト",
+    "category": "mega"
+  },
+  "いましめのツボ": {
+    "ja_name": "いましめのツボ",
+    "category": "other"
+  },
+  "ハガネールナイト": {
+    "ja_name": "ハガネールナイト",
+    "category": "mega"
+  },
+  "スピアナイト": {
+    "ja_name": "スピアナイト",
+    "category": "mega"
+  },
+  "むげんのふえ": {
+    "ja_name": "むげんのふえ",
+    "category": "other"
+  },
+  "ボーマンダナイト": {
+    "ja_name": "ボーマンダナイト",
+    "category": "mega"
+  },
+  "ホノオＺ": {
+    "ja_name": "ホノオＺ",
+    "category": "other"
+  },
+  "キーストーン": {
+    "ja_name": "キーストーン",
+    "category": "other"
+  },
+  "いんせきのかけら": {
+    "ja_name": "いんせきのかけら",
+    "category": "other"
+  },
+  "ノーマルＺ": {
+    "ja_name": "ノーマルＺ",
+    "category": "other"
+  },
+  "ミズＺ": {
+    "ja_name": "ミズＺ",
+    "category": "other"
+  },
+  "ヒコウＺ": {
+    "ja_name": "ヒコウＺ",
+    "category": "other"
+  },
+  "デンキＺ": {
+    "ja_name": "デンキＺ",
+    "category": "other"
+  },
+  "ドクＺ": {
+    "ja_name": "ドクＺ",
+    "category": "other"
+  },
+  "クサＺ": {
+    "ja_name": "クサＺ",
+    "category": "other"
+  },
+  "コオリＺ": {
+    "ja_name": "コオリＺ",
+    "category": "other"
+  },
+  "カクトウＺ": {
+    "ja_name": "カクトウＺ",
+    "category": "other"
+  },
+  "ジメンＺ": {
+    "ja_name": "ジメンＺ",
+    "category": "other"
+  },
+  "イワＺ": {
+    "ja_name": "イワＺ",
+    "category": "other"
+  },
+  "ゴーストＺ": {
+    "ja_name": "ゴーストＺ",
+    "category": "other"
+  },
+  "ドラゴンＺ": {
+    "ja_name": "ドラゴンＺ",
+    "category": "other"
+  },
+  "ピカチュウＺ": {
+    "ja_name": "ピカチュウＺ",
+    "category": "other"
+  },
+  "ムシＺ": {
+    "ja_name": "ムシＺ",
+    "category": "other"
+  },
+  "ぎんのおうかん": {
+    "ja_name": "ぎんのおうかん",
+    "category": "other"
+  },
+  "ハガネＺ": {
+    "ja_name": "ハガネＺ",
+    "category": "other"
+  },
+  "ジュナイパーＺ": {
+    "ja_name": "ジュナイパーＺ",
+    "category": "other"
+  },
+  "きんのおうかん": {
+    "ja_name": "きんのおうかん",
+    "category": "other"
+  },
+  "アクＺ": {
+    "ja_name": "アクＺ",
+    "category": "other"
+  },
+  "フェアリーＺ": {
+    "ja_name": "フェアリーＺ",
+    "category": "other"
+  },
+  "アシレーヌＺ": {
+    "ja_name": "アシレーヌＺ",
+    "category": "other"
+  },
+  "ガオガエンＺ": {
+    "ja_name": "ガオガエンＺ",
+    "category": "other"
+  },
+  "カプＺ": {
+    "ja_name": "カプＺ",
+    "category": "other"
+  },
+  "マーシャドーＺ": {
+    "ja_name": "マーシャドーＺ",
+    "category": "other"
+  },
+  "カビゴンＺ": {
+    "ja_name": "カビゴンＺ",
+    "category": "other"
+  },
+  "Ｚリング": {
+    "ja_name": "Ｚリング",
+    "category": "other"
+  },
+  "アロライＺ": {
+    "ja_name": "アロライＺ",
+    "category": "other"
+  },
+  "イーブイＺ": {
+    "ja_name": "イーブイＺ",
+    "category": "other"
+  },
+  "エスパーＺ": {
+    "ja_name": "エスパーＺ",
+    "category": "other"
+  },
+  "サトピカＺ": {
+    "ja_name": "サトピカＺ",
+    "category": "other"
+  },
+  "ミュウＺ": {
+    "ja_name": "ミュウＺ",
+    "category": "other"
+  },
+  "つりざお": {
+    "ja_name": "つりざお",
+    "category": "other"
+  },
+  "ジガルデキューブ": {
+    "ja_name": "ジガルデキューブ",
+    "category": "other"
+  },
+  "ざいりょうぶくろ": {
+    "ja_name": "ざいりょうぶくろ",
+    "category": "other"
+  },
+  "かがやくいし": {
+    "ja_name": "かがやくいし",
+    "category": "other"
+  },
+  "こおりのいし": {
+    "ja_name": "こおりのいし",
+    "category": "other"
+  },
+  "ビビリだま": {
+    "ja_name": "ビビリだま",
+    "category": "other"
+  },
+  "はかせのふくめん": {
+    "ja_name": "はかせのふくめん",
+    "category": "other"
+  },
+  "おおきいマラサダ": {
+    "ja_name": "おおきいマラサダ",
+    "category": "other"
+  },
+  "ライドギア": {
+    "ja_name": "ライドギア",
+    "category": "other"
+  },
+  "くれないのミツ": {
+    "ja_name": "くれないのミツ",
+    "category": "other"
+  },
+  "ウルトラボール": {
+    "ja_name": "ウルトラボール",
+    "category": "other"
+  },
+  "やまぶきのミツ": {
+    "ja_name": "やまぶきのミツ",
+    "category": "other"
+  },
+  "むらさきのミツ": {
+    "ja_name": "むらさきのミツ",
+    "category": "other"
+  },
+  "うすもものミツ": {
+    "ja_name": "うすもものミツ",
+    "category": "other"
+  },
+  "グランドコート": {
+    "ja_name": "グランドコート",
+    "category": "other"
+  },
+  "ぼうごパット": {
+    "ja_name": "ぼうごパット",
+    "category": "other"
+  },
+  "あやしいカード": {
+    "ja_name": "あやしいカード",
+    "category": "other"
+  },
+  "つきのふえ": {
+    "ja_name": "つきのふえ",
+    "category": "other"
+  },
+  "エレキシード": {
+    "ja_name": "エレキシード",
+    "category": "other"
+  },
+  "サイコシード": {
+    "ja_name": "サイコシード",
+    "category": "other"
+  },
+  "ファイトメモリ": {
+    "ja_name": "ファイトメモリ",
+    "category": "other"
+  },
+  "フェスチケット": {
+    "ja_name": "フェスチケット",
+    "category": "other"
+  },
+  "グラスシード": {
+    "ja_name": "グラスシード",
+    "category": "other"
+  },
+  "ミストシード": {
+    "ja_name": "ミストシード",
+    "category": "other"
+  },
+  "ロックメモリ": {
+    "ja_name": "ロックメモリ",
+    "category": "other"
+  },
+  "フライングメモリ": {
+    "ja_name": "フライングメモリ",
+    "category": "other"
+  },
+  "ゴーストメモリ": {
+    "ja_name": "ゴーストメモリ",
+    "category": "other"
+  },
+  "スチールメモリ": {
+    "ja_name": "スチールメモリ",
+    "category": "other"
+  },
+  "グラウンドメモリ": {
+    "ja_name": "グラウンドメモリ",
+    "category": "other"
+  },
+  "ファイヤーメモリ": {
+    "ja_name": "ファイヤーメモリ",
+    "category": "other"
+  },
+  "グラスメモリ": {
+    "ja_name": "グラスメモリ",
+    "category": "other"
+  },
+  "ドラゴンメモリ": {
+    "ja_name": "ドラゴンメモリ",
+    "category": "other"
+  },
+  "エレクトロメモリ": {
+    "ja_name": "エレクトロメモリ",
+    "category": "other"
+  },
+  "サイキックメモリ": {
+    "ja_name": "サイキックメモリ",
+    "category": "other"
+  },
+  "たいようのふえ": {
+    "ja_name": "たいようのふえ",
+    "category": "other"
+  },
+  "アイスメモリ": {
+    "ja_name": "アイスメモリ",
+    "category": "other"
+  },
+  "バグメモリ": {
+    "ja_name": "バグメモリ",
+    "category": "other"
+  },
+  "ダークメモリ": {
+    "ja_name": "ダークメモリ",
+    "category": "other"
+  },
+  "ウオーターメモリ": {
+    "ja_name": "ウオーターメモリ",
+    "category": "other"
+  },
+  "フェアリーメモリ": {
+    "ja_name": "フェアリーメモリ",
+    "category": "other"
+  },
+  "じてんしゃ": {
+    "ja_name": "じてんしゃ",
+    "category": "other"
+  },
+  "ちかのカギ": {
+    "ja_name": "ちかのカギ",
+    "category": "other"
+  },
+  "ライブドレス": {
+    "ja_name": "ライブドレス",
+    "category": "other"
+  },
+  "ポイズンメモリ": {
+    "ja_name": "ポイズンメモリ",
+    "category": "other"
+  },
+  "ルナアーラＺ": {
+    "ja_name": "ルナアーラＺ",
+    "category": "other"
+  },
+  "ソルガレオＺ": {
+    "ja_name": "ソルガレオＺ",
+    "category": "other"
+  },
+  "ミミッキュＺ": {
+    "ja_name": "ミミッキュＺ",
+    "category": "other"
+  },
+  "ルガルガンＺ": {
+    "ja_name": "ルガルガンＺ",
+    "category": "other"
+  },
+  "ウルトラネクロＺ": {
+    "ja_name": "ウルトラネクロＺ",
+    "category": "other"
+  },
+  "ジャラランガＺ": {
+    "ja_name": "ジャラランガＺ",
+    "category": "other"
+  },
+  "Ｚパワーリング": {
+    "ja_name": "Ｚパワーリング",
+    "category": "other"
+  },
+  "あおのはなびら": {
+    "ja_name": "あおのはなびら",
+    "category": "other"
+  },
+  "あかのはなびら": {
+    "ja_name": "あかのはなびら",
+    "category": "other"
+  },
+  "だいだいはなびら": {
+    "ja_name": "だいだいはなびら",
+    "category": "other"
+  },
+  "ももいろはなびら": {
+    "ja_name": "ももいろはなびら",
+    "category": "other"
+  },
+  "みどりのはなびら": {
+    "ja_name": "みどりのはなびら",
+    "category": "other"
+  },
+  "きいろのはなびら": {
+    "ja_name": "きいろのはなびら",
+    "category": "other"
+  },
+  "だいだいバッジ": {
+    "ja_name": "だいだいバッジ",
+    "category": "other"
+  },
+  "にじいろのはな": {
+    "ja_name": "にじいろのはな",
+    "category": "other"
+  },
+  "むらさきはなびら": {
+    "ja_name": "むらさきはなびら",
+    "category": "other"
+  },
+  "ネクロプラスルナ": {
+    "ja_name": "ネクロプラスルナ",
+    "category": "other"
+  },
+  "ネクロプラスソル": {
+    "ja_name": "ネクロプラスソル",
+    "category": "other"
+  },
+  "イリマノーマルＺ": {
+    "ja_name": "イリマノーマルＺ",
+    "category": "other"
+  },
+  "のこされたボール": {
+    "ja_name": "のこされたボール",
+    "category": "other"
+  },
+  "おこづかいポン": {
+    "ja_name": "おこづかいポン",
+    "category": "other"
+  },
+  "やすうりポン": {
+    "ja_name": "やすうりポン",
+    "category": "other"
+  },
+  "タマゴふかポン": {
+    "ja_name": "タマゴふかポン",
+    "category": "other"
+  },
+  "けいけんポン": {
+    "ja_name": "けいけんポン",
+    "category": "other"
+  },
+  "かくれポン": {
+    "ja_name": "かくれポン",
+    "category": "other"
+  },
+  "なつきポン": {
+    "ja_name": "なつきポン",
+    "category": "other"
+  },
+  "ＰＰかいふくポン": {
+    "ja_name": "ＰＰかいふくポン",
+    "category": "other"
+  },
+  "みっけポン": {
+    "ja_name": "みっけポン",
+    "category": "other"
+  },
+  "マチスのサイン": {
+    "ja_name": "マチスのサイン",
+    "category": "other"
+  },
+  "おうえんポン": {
+    "ja_name": "おうえんポン",
+    "category": "other"
+  },
+  "つかまえポン": {
+    "ja_name": "つかまえポン",
+    "category": "other"
+  },
+  "ポケモンボックス": {
+    "ja_name": "ポケモンボックス",
+    "category": "other"
+  },
+  "おきがえトランク": {
+    "ja_name": "おきがえトランク",
+    "category": "other"
+  },
+  "かいふくポケット": {
+    "ja_name": "かいふくポケット",
+    "category": "other"
+  },
+  "きょうかポケット": {
+    "ja_name": "きょうかポケット",
+    "category": "other"
+  },
+  "アメボトル": {
+    "ja_name": "アメボトル",
+    "category": "other"
+  },
+  "ほかくポケット": {
+    "ja_name": "ほかくポケット",
+    "category": "other"
+  },
+  "ＨＰかいふくポン": {
+    "ja_name": "ＨＰかいふくポン",
+    "category": "other"
+  },
+  "バトルポケット": {
+    "ja_name": "バトルポケット",
+    "category": "other"
+  },
+  "きんのズリのみ": {
+    "ja_name": "きんのズリのみ",
+    "category": "other"
+  },
+  "きんのナナのみ": {
+    "ja_name": "きんのナナのみ",
+    "category": "other"
+  },
+  "ぎんのパイルのみ": {
+    "ja_name": "ぎんのパイルのみ",
+    "category": "other"
+  },
+  "ぎんのズリのみ": {
+    "ja_name": "ぎんのズリのみ",
+    "category": "other"
+  },
+  "のびたバネ": {
+    "ja_name": "のびたバネ",
+    "category": "other"
+  },
+  "きんのパイルのみ": {
+    "ja_name": "きんのパイルのみ",
+    "category": "other"
+  },
+  "ぎんのナナのみ": {
+    "ja_name": "ぎんのナナのみ",
+    "category": "other"
+  },
+  "ビーだま": {
+    "ja_name": "ビーだま",
+    "category": "other"
+  },
+  "かたっぽピアス": {
+    "ja_name": "かたっぽピアス",
+    "category": "other"
+  },
+  "チョークいし": {
+    "ja_name": "チョークいし",
+    "category": "other"
+  },
+  "ピカピカだんご": {
+    "ja_name": "ピカピカだんご",
+    "category": "other"
+  },
+  "きんのはっぱ": {
+    "ja_name": "きんのはっぱ",
+    "category": "other"
+  },
+  "うみべのガラス": {
+    "ja_name": "うみべのガラス",
+    "category": "other"
+  },
+  "なんごくかいがら": {
+    "ja_name": "なんごくかいがら",
+    "category": "other"
+  },
+  "ちいさなはなたば": {
+    "ja_name": "ちいさなはなたば",
+    "category": "other"
+  },
+  "このはのおてがみ": {
+    "ja_name": "このはのおてがみ",
+    "category": "other"
+  },
+  "ぎんのはっぱ": {
+    "ja_name": "ぎんのはっぱ",
+    "category": "other"
+  },
+  "むしよせコロン": {
+    "ja_name": "むしよせコロン",
+    "category": "other"
+  },
+  "ニビあられ": {
+    "ja_name": "ニビあられ",
+    "category": "other"
+  },
+  "シルバーコロン": {
+    "ja_name": "シルバーコロン",
+    "category": "other"
+  },
+  "げんきのアメ": {
+    "ja_name": "げんきのアメ",
+    "category": "other"
+  },
+  "ちからのアメ": {
+    "ja_name": "ちからのアメ",
+    "category": "other"
+  },
+  "こころのアメ": {
+    "ja_name": "こころのアメ",
+    "category": "other"
+  },
+  "はやさのアメ": {
+    "ja_name": "はやさのアメ",
+    "category": "other"
+  },
+  "ちしきのアメ": {
+    "ja_name": "ちしきのアメ",
+    "category": "other"
+  },
+  "まもりのアメ": {
+    "ja_name": "まもりのアメ",
+    "category": "other"
+  },
+  "ゴールドコロン": {
+    "ja_name": "ゴールドコロン",
+    "category": "other"
+  },
+  "ちからのアメＬ": {
+    "ja_name": "ちからのアメＬ",
+    "category": "other"
+  },
+  "まもりのアメＬ": {
+    "ja_name": "まもりのアメＬ",
+    "category": "other"
+  },
+  "げんきのアメＬ": {
+    "ja_name": "げんきのアメＬ",
+    "category": "other"
+  },
+  "こころのアメＬ": {
+    "ja_name": "こころのアメＬ",
+    "category": "other"
+  },
+  "はやさのアメＬ": {
+    "ja_name": "はやさのアメＬ",
+    "category": "other"
+  },
+  "ちしきのアメＬ": {
+    "ja_name": "ちしきのアメＬ",
+    "category": "other"
+  },
+  "ちからのアメＸＬ": {
+    "ja_name": "ちからのアメＸＬ",
+    "category": "other"
+  },
+  "ちしきのアメＸＬ": {
+    "ja_name": "ちしきのアメＸＬ",
+    "category": "other"
+  },
+  "げんきのアメＸＬ": {
+    "ja_name": "げんきのアメＸＬ",
+    "category": "other"
+  },
+  "まもりのアメＸＬ": {
+    "ja_name": "まもりのアメＸＬ",
+    "category": "other"
+  },
+  "はやさのアメＸＬ": {
+    "ja_name": "はやさのアメＸＬ",
+    "category": "other"
+  },
+  "こころのアメＸＬ": {
+    "ja_name": "こころのアメＸＬ",
+    "category": "other"
+  },
+  "フシギダネのアメ": {
+    "ja_name": "フシギダネのアメ",
+    "category": "other"
+  },
+  "ゼニガメのアメ": {
+    "ja_name": "ゼニガメのアメ",
+    "category": "other"
+  },
+  "ビードルのアメ": {
+    "ja_name": "ビードルのアメ",
+    "category": "other"
+  },
+  "ポッポのアメ": {
+    "ja_name": "ポッポのアメ",
+    "category": "other"
+  },
+  "ヒトカゲのアメ": {
+    "ja_name": "ヒトカゲのアメ",
+    "category": "other"
+  },
+  "キャタピーのアメ": {
+    "ja_name": "キャタピーのアメ",
+    "category": "other"
+  },
+  "コラッタのアメ": {
+    "ja_name": "コラッタのアメ",
+    "category": "other"
+  },
+  "ピカチュウのアメ": {
+    "ja_name": "ピカチュウのアメ",
+    "category": "other"
+  },
+  "オニスズメのアメ": {
+    "ja_name": "オニスズメのアメ",
+    "category": "other"
+  },
+  "ニドラン♂のアメ": {
+    "ja_name": "ニドラン♂のアメ",
+    "category": "other"
+  },
+  "ニドラン♀のアメ": {
+    "ja_name": "ニドラン♀のアメ",
+    "category": "other"
+  },
+  "ピッピのアメ": {
+    "ja_name": "ピッピのアメ",
+    "category": "other"
+  },
+  "サンドのアメ": {
+    "ja_name": "サンドのアメ",
+    "category": "other"
+  },
+  "アーボのアメ": {
+    "ja_name": "アーボのアメ",
+    "category": "other"
+  },
+  "プリンのアメ": {
+    "ja_name": "プリンのアメ",
+    "category": "other"
+  },
+  "ナゾノクサのアメ": {
+    "ja_name": "ナゾノクサのアメ",
+    "category": "other"
+  },
+  "ロコンのアメ": {
+    "ja_name": "ロコンのアメ",
+    "category": "other"
+  },
+  "ズバットのアメ": {
+    "ja_name": "ズバットのアメ",
+    "category": "other"
+  },
+  "コンパンのアメ": {
+    "ja_name": "コンパンのアメ",
+    "category": "other"
+  },
+  "ニャースのアメ": {
+    "ja_name": "ニャースのアメ",
+    "category": "other"
+  },
+  "パラスのアメ": {
+    "ja_name": "パラスのアメ",
+    "category": "other"
+  },
+  "ディグダのアメ": {
+    "ja_name": "ディグダのアメ",
+    "category": "other"
+  },
+  "ガーディのアメ": {
+    "ja_name": "ガーディのアメ",
+    "category": "other"
+  },
+  "ケーシィのアメ": {
+    "ja_name": "ケーシィのアメ",
+    "category": "other"
+  },
+  "コダックのアメ": {
+    "ja_name": "コダックのアメ",
+    "category": "other"
+  },
+  "マンキーのアメ": {
+    "ja_name": "マンキーのアメ",
+    "category": "other"
+  },
+  "マダツボミのアメ": {
+    "ja_name": "マダツボミのアメ",
+    "category": "other"
+  },
+  "イシツブテのアメ": {
+    "ja_name": "イシツブテのアメ",
+    "category": "other"
+  },
+  "ポニータのアメ": {
+    "ja_name": "ポニータのアメ",
+    "category": "other"
+  },
+  "ニョロモのアメ": {
+    "ja_name": "ニョロモのアメ",
+    "category": "other"
+  },
+  "ワンリキーのアメ": {
+    "ja_name": "ワンリキーのアメ",
+    "category": "other"
+  },
+  "コイルのアメ": {
+    "ja_name": "コイルのアメ",
+    "category": "other"
+  },
+  "カモネギのアメ": {
+    "ja_name": "カモネギのアメ",
+    "category": "other"
+  },
+  "メノクラゲのアメ": {
+    "ja_name": "メノクラゲのアメ",
+    "category": "other"
+  },
+  "ヤドンのアメ": {
+    "ja_name": "ヤドンのアメ",
+    "category": "other"
+  },
+  "ドードーのアメ": {
+    "ja_name": "ドードーのアメ",
+    "category": "other"
+  },
+  "ゴースのアメ": {
+    "ja_name": "ゴースのアメ",
+    "category": "other"
+  },
+  "パウワウのアメ": {
+    "ja_name": "パウワウのアメ",
+    "category": "other"
+  },
+  "シェルダーのアメ": {
+    "ja_name": "シェルダーのアメ",
+    "category": "other"
+  },
+  "クラブのアメ": {
+    "ja_name": "クラブのアメ",
+    "category": "other"
+  },
+  "スリープのアメ": {
+    "ja_name": "スリープのアメ",
+    "category": "other"
+  },
+  "イワークのアメ": {
+    "ja_name": "イワークのアメ",
+    "category": "other"
+  },
+  "カラカラのアメ": {
+    "ja_name": "カラカラのアメ",
+    "category": "other"
+  },
+  "ビリリダマのアメ": {
+    "ja_name": "ビリリダマのアメ",
+    "category": "other"
+  },
+  "サワムラーのアメ": {
+    "ja_name": "サワムラーのアメ",
+    "category": "other"
+  },
+  "ベトベターのアメ": {
+    "ja_name": "ベトベターのアメ",
+    "category": "other"
+  },
+  "ベロリンガのアメ": {
+    "ja_name": "ベロリンガのアメ",
+    "category": "other"
+  },
+  "ラッキーのアメ": {
+    "ja_name": "ラッキーのアメ",
+    "category": "other"
+  },
+  "エビワラーのアメ": {
+    "ja_name": "エビワラーのアメ",
+    "category": "other"
+  },
+  "サイホーンのアメ": {
+    "ja_name": "サイホーンのアメ",
+    "category": "other"
+  },
+  "ドガースのアメ": {
+    "ja_name": "ドガースのアメ",
+    "category": "other"
+  },
+  "タマタマのアメ": {
+    "ja_name": "タマタマのアメ",
+    "category": "other"
+  },
+  "ガルーラのアメ": {
+    "ja_name": "ガルーラのアメ",
+    "category": "other"
+  },
+  "モンジャラのアメ": {
+    "ja_name": "モンジャラのアメ",
+    "category": "other"
+  },
+  "タッツーのアメ": {
+    "ja_name": "タッツーのアメ",
+    "category": "other"
+  },
+  "ヒトデマンのアメ": {
+    "ja_name": "ヒトデマンのアメ",
+    "category": "other"
+  },
+  "ストライクのアメ": {
+    "ja_name": "ストライクのアメ",
+    "category": "other"
+  },
+  "ルージュラのアメ": {
+    "ja_name": "ルージュラのアメ",
+    "category": "other"
+  },
+  "エレブーのアメ": {
+    "ja_name": "エレブーのアメ",
+    "category": "other"
+  },
+  "バリヤードのアメ": {
+    "ja_name": "バリヤードのアメ",
+    "category": "other"
+  },
+  "ケンタロスのアメ": {
+    "ja_name": "ケンタロスのアメ",
+    "category": "other"
+  },
+  "トサキントのアメ": {
+    "ja_name": "トサキントのアメ",
+    "category": "other"
+  },
+  "ラプラスのアメ": {
+    "ja_name": "ラプラスのアメ",
+    "category": "other"
+  },
+  "カブトのアメ": {
+    "ja_name": "カブトのアメ",
+    "category": "other"
+  },
+  "カイロスのアメ": {
+    "ja_name": "カイロスのアメ",
+    "category": "other"
+  },
+  "メタモンのアメ": {
+    "ja_name": "メタモンのアメ",
+    "category": "other"
+  },
+  "オムナイトのアメ": {
+    "ja_name": "オムナイトのアメ",
+    "category": "mega"
+  },
+  "コイキングのアメ": {
+    "ja_name": "コイキングのアメ",
+    "category": "other"
+  },
+  "プテラのアメ": {
+    "ja_name": "プテラのアメ",
+    "category": "other"
+  },
+  "イーブイのアメ": {
+    "ja_name": "イーブイのアメ",
+    "category": "other"
+  },
+  "ファイヤーのアメ": {
+    "ja_name": "ファイヤーのアメ",
+    "category": "other"
+  },
+  "サンダーのアメ": {
+    "ja_name": "サンダーのアメ",
+    "category": "other"
+  },
+  "ポリゴンのアメ": {
+    "ja_name": "ポリゴンのアメ",
+    "category": "other"
+  },
+  "フリーザーのアメ": {
+    "ja_name": "フリーザーのアメ",
+    "category": "other"
+  },
+  "カビゴンのアメ": {
+    "ja_name": "カビゴンのアメ",
+    "category": "other"
+  },
+  "ミニリュウのアメ": {
+    "ja_name": "ミニリュウのアメ",
+    "category": "other"
+  },
+  "ミュウのアメ": {
+    "ja_name": "ミュウのアメ",
+    "category": "other"
+  },
+  "ミュウツーのアメ": {
+    "ja_name": "ミュウツーのアメ",
+    "category": "other"
+  },
+  "メルタンのアメ": {
+    "ja_name": "メルタンのアメ",
+    "category": "other"
+  },
+  "ブーバーのアメ": {
+    "ja_name": "ブーバーのアメ",
+    "category": "other"
+  },
+  "ねがいぼし": {
+    "ja_name": "ねがいぼし",
+    "category": "other"
+  },
+  "すいせんじょう": {
+    "ja_name": "すいせんじょう",
+    "category": "other"
+  },
+  "バックのかんづめ": {
+    "ja_name": "バックのかんづめ",
+    "category": "other"
+  },
+  "ロトムじてんしゃ": {
+    "ja_name": "ロトムじてんしゃ",
+    "category": "other"
+  },
+  "ボブのかんづめ": {
+    "ja_name": "ボブのかんづめ",
+    "category": "other"
+  },
+  "あらびきヴルスト": {
+    "ja_name": "あらびきヴルスト",
+    "category": "other"
+  },
+  "ダイマックスＢ": {
+    "ja_name": "ダイマックスＢ",
+    "category": "other"
+  },
+  "パスタ": {
+    "ja_name": "パスタ",
+    "category": "other"
+  },
+  "マメかん": {
+    "ja_name": "マメかん",
+    "category": "other"
+  },
+  "ふといながねぎ": {
+    "ja_name": "ふといながねぎ",
+    "category": "other"
+  },
+  "キノコパック": {
+    "ja_name": "キノコパック",
+    "category": "other"
+  },
+  "しょくパン": {
+    "ja_name": "しょくパン",
+    "category": "other"
+  },
+  "ポテトパック": {
+    "ja_name": "ポテトパック",
+    "category": "other"
+  },
+  "とくせんリンゴ": {
+    "ja_name": "とくせんリンゴ",
+    "category": "other"
+  },
+  "みずべのハーブ": {
+    "ja_name": "みずべのハーブ",
+    "category": "other"
+  },
+  "かぼそいホネ": {
+    "ja_name": "かぼそいホネ",
+    "category": "other"
+  },
+  "やさいパック": {
+    "ja_name": "やさいパック",
+    "category": "other"
+  },
+  "しっぽのくんせい": {
+    "ja_name": "しっぽのくんせい",
+    "category": "other"
+  },
+  "フライもりあわせ": {
+    "ja_name": "フライもりあわせ",
+    "category": "other"
+  },
+  "キャンプセット": {
+    "ja_name": "キャンプセット",
+    "category": "other"
+  },
+  "ゆでタマゴ": {
+    "ja_name": "ゆでタマゴ",
+    "category": "other"
+  },
+  "くちたけん": {
+    "ja_name": "くちたけん",
+    "category": "other"
+  },
+  "くちたたて": {
+    "ja_name": "くちたたて",
+    "category": "other"
+  },
+  "カセキのトリ": {
+    "ja_name": "カセキのトリ",
+    "category": "other"
+  },
+  "カセキのサカナ": {
+    "ja_name": "カセキのサカナ",
+    "category": "other"
+  },
+  "カセキのリュウ": {
+    "ja_name": "カセキのリュウ",
+    "category": "other"
+  },
+  "カセキのクビナガ": {
+    "ja_name": "カセキのクビナガ",
+    "category": "other"
+  },
+  "ベリーアメざいく": {
+    "ja_name": "ベリーアメざいく",
+    "category": "other"
+  },
+  "おはなアメざいく": {
+    "ja_name": "おはなアメざいく",
+    "category": "other"
+  },
+  "よつばアメざいく": {
+    "ja_name": "よつばアメざいく",
+    "category": "other"
+  },
+  "ハートアメざいく": {
+    "ja_name": "ハートアメざいく",
+    "category": "other"
+  },
+  "スターアメざいく": {
+    "ja_name": "スターアメざいく",
+    "category": "other"
+  },
+  "いちごアメざいく": {
+    "ja_name": "いちごアメざいく",
+    "category": "other"
+  },
+  "あつぞこブーツ": {
+    "ja_name": "あつぞこブーツ",
+    "category": "other"
+  },
+  "だっしゅつパック": {
+    "ja_name": "だっしゅつパック",
+    "category": "other"
+  },
+  "のどスプレー": {
+    "ja_name": "のどスプレー",
+    "category": "other"
+  },
+  "からぶりほけん": {
+    "ja_name": "からぶりほけん",
+    "category": "other"
+  },
+  "ルームサービス": {
+    "ja_name": "ルームサービス",
+    "category": "other"
+  },
+  "けいけんアメＳ": {
+    "ja_name": "けいけんアメＳ",
+    "category": "other"
+  },
+  "ばんのうがさ": {
+    "ja_name": "ばんのうがさ",
+    "category": "other"
+  },
+  "けいけんアメＸＳ": {
+    "ja_name": "けいけんアメＸＳ",
+    "category": "other"
+  },
+  "すっぱいりんご": {
+    "ja_name": "すっぱいりんご",
+    "category": "other"
+  },
+  "けいけんアメＬ": {
+    "ja_name": "けいけんアメＬ",
+    "category": "other"
+  },
+  "リボンアメざいく": {
+    "ja_name": "リボンアメざいく",
+    "category": "other"
+  },
+  "けいけんアメＸＬ": {
+    "ja_name": "けいけんアメＸＬ",
+    "category": "other"
+  },
+  "けいけんアメＭ": {
+    "ja_name": "けいけんアメＭ",
+    "category": "other"
+  },
+  "ダイマックスアメ": {
+    "ja_name": "ダイマックスアメ",
+    "category": "other"
+  },
+  "わざレコード００": {
+    "ja_name": "わざレコード００",
+    "category": "other"
+  },
+  "わざレコード０３": {
+    "ja_name": "わざレコード０３",
+    "category": "other"
+  },
+  "わざレコード０２": {
+    "ja_name": "わざレコード０２",
+    "category": "other"
+  },
+  "わざレコード０１": {
+    "ja_name": "わざレコード０１",
+    "category": "other"
+  },
+  "わざレコード０６": {
+    "ja_name": "わざレコード０６",
+    "category": "other"
+  },
+  "わざレコード１０": {
+    "ja_name": "わざレコード１０",
+    "category": "other"
+  },
+  "わざレコード０４": {
+    "ja_name": "わざレコード０４",
+    "category": "other"
+  },
+  "わざレコード０７": {
+    "ja_name": "わざレコード０７",
+    "category": "other"
+  },
+  "わざレコード０５": {
+    "ja_name": "わざレコード０５",
+    "category": "other"
+  },
+  "わざレコード１５": {
+    "ja_name": "わざレコード１５",
+    "category": "other"
+  },
+  "わざレコード１３": {
+    "ja_name": "わざレコード１３",
+    "category": "other"
+  },
+  "わざレコード０８": {
+    "ja_name": "わざレコード０８",
+    "category": "other"
+  },
+  "わざレコード０９": {
+    "ja_name": "わざレコード０９",
+    "category": "other"
+  },
+  "わざレコード１７": {
+    "ja_name": "わざレコード１７",
+    "category": "other"
+  },
+  "わざレコード１４": {
+    "ja_name": "わざレコード１４",
+    "category": "other"
+  },
+  "わざレコード１９": {
+    "ja_name": "わざレコード１９",
+    "category": "other"
+  },
+  "わざレコード１１": {
+    "ja_name": "わざレコード１１",
+    "category": "other"
+  },
+  "わざレコード１８": {
+    "ja_name": "わざレコード１８",
+    "category": "other"
+  },
+  "わざレコード２１": {
+    "ja_name": "わざレコード２１",
+    "category": "other"
+  },
+  "わざレコード１２": {
+    "ja_name": "わざレコード１２",
+    "category": "other"
+  },
+  "わざレコード２３": {
+    "ja_name": "わざレコード２３",
+    "category": "other"
+  },
+  "わざレコード２０": {
+    "ja_name": "わざレコード２０",
+    "category": "other"
+  },
+  "わざレコード２４": {
+    "ja_name": "わざレコード２４",
+    "category": "other"
+  },
+  "わざレコード２７": {
+    "ja_name": "わざレコード２７",
+    "category": "other"
+  },
+  "わざレコード２６": {
+    "ja_name": "わざレコード２６",
+    "category": "other"
+  },
+  "わざレコード３０": {
+    "ja_name": "わざレコード３０",
+    "category": "other"
+  },
+  "わざレコード２２": {
+    "ja_name": "わざレコード２２",
+    "category": "other"
+  },
+  "わざレコード２９": {
+    "ja_name": "わざレコード２９",
+    "category": "other"
+  },
+  "わざレコード３４": {
+    "ja_name": "わざレコード３４",
+    "category": "other"
+  },
+  "わざレコード２８": {
+    "ja_name": "わざレコード２８",
+    "category": "other"
+  },
+  "わざレコード３３": {
+    "ja_name": "わざレコード３３",
+    "category": "other"
+  },
+  "わざレコード２５": {
+    "ja_name": "わざレコード２５",
+    "category": "other"
+  },
+  "わざレコード３１": {
+    "ja_name": "わざレコード３１",
+    "category": "other"
+  },
+  "わざレコード３７": {
+    "ja_name": "わざレコード３７",
+    "category": "other"
+  },
+  "わざレコード３５": {
+    "ja_name": "わざレコード３５",
+    "category": "other"
+  },
+  "わざレコード３６": {
+    "ja_name": "わざレコード３６",
+    "category": "other"
+  },
+  "わざレコード３２": {
+    "ja_name": "わざレコード３２",
+    "category": "other"
+  },
+  "わざレコード３８": {
+    "ja_name": "わざレコード３８",
+    "category": "other"
+  },
+  "わざレコード４２": {
+    "ja_name": "わざレコード４２",
+    "category": "other"
+  },
+  "わざレコード３９": {
+    "ja_name": "わざレコード３９",
+    "category": "other"
+  },
+  "わざレコード４６": {
+    "ja_name": "わざレコード４６",
+    "category": "other"
+  },
+  "わざレコード４３": {
+    "ja_name": "わざレコード４３",
+    "category": "other"
+  },
+  "わざレコード４１": {
+    "ja_name": "わざレコード４１",
+    "category": "other"
+  },
+  "わざレコード４９": {
+    "ja_name": "わざレコード４９",
+    "category": "other"
+  },
+  "わざレコード１６": {
+    "ja_name": "わざレコード１６",
+    "category": "other"
+  },
+  "わざレコード４０": {
+    "ja_name": "わざレコード４０",
+    "category": "other"
+  },
+  "わざレコード５２": {
+    "ja_name": "わざレコード５２",
+    "category": "other"
+  },
+  "わざレコード５１": {
+    "ja_name": "わざレコード５１",
+    "category": "other"
+  },
+  "わざレコード４５": {
+    "ja_name": "わざレコード４５",
+    "category": "other"
+  },
+  "あまーいりんご": {
+    "ja_name": "あまーいりんご",
+    "category": "other"
+  },
+  "わざレコード５４": {
+    "ja_name": "わざレコード５４",
+    "category": "other"
+  },
+  "わざレコード５０": {
+    "ja_name": "わざレコード５０",
+    "category": "other"
+  },
+  "わざレコード４７": {
+    "ja_name": "わざレコード４７",
+    "category": "other"
+  },
+  "わざレコード５３": {
+    "ja_name": "わざレコード５３",
+    "category": "other"
+  },
+  "わざレコード５５": {
+    "ja_name": "わざレコード５５",
+    "category": "other"
+  },
+  "わざレコード４４": {
+    "ja_name": "わざレコード４４",
+    "category": "other"
+  },
+  "わざレコード５６": {
+    "ja_name": "わざレコード５６",
+    "category": "other"
+  },
+  "わざレコード５８": {
+    "ja_name": "わざレコード５８",
+    "category": "other"
+  },
+  "わざレコード６０": {
+    "ja_name": "わざレコード６０",
+    "category": "other"
+  },
+  "わざレコード５９": {
+    "ja_name": "わざレコード５９",
+    "category": "other"
+  },
+  "わざレコード６２": {
+    "ja_name": "わざレコード６２",
+    "category": "other"
+  },
+  "わざレコード５７": {
+    "ja_name": "わざレコード５７",
+    "category": "other"
+  },
+  "わざレコード６６": {
+    "ja_name": "わざレコード６６",
+    "category": "other"
+  },
+  "わざレコード６７": {
+    "ja_name": "わざレコード６７",
+    "category": "other"
+  },
+  "わざレコード６１": {
+    "ja_name": "わざレコード６１",
+    "category": "other"
+  },
+  "わざレコード６３": {
+    "ja_name": "わざレコード６３",
+    "category": "other"
+  },
+  "わざレコード６９": {
+    "ja_name": "わざレコード６９",
+    "category": "other"
+  },
+  "わざレコード６８": {
+    "ja_name": "わざレコード６８",
+    "category": "other"
+  },
+  "わざレコード７２": {
+    "ja_name": "わざレコード７２",
+    "category": "other"
+  },
+  "わざレコード７１": {
+    "ja_name": "わざレコード７１",
+    "category": "other"
+  },
+  "わざレコード６５": {
+    "ja_name": "わざレコード６５",
+    "category": "other"
+  },
+  "わざレコード７４": {
+    "ja_name": "わざレコード７４",
+    "category": "other"
+  },
+  "わざレコード６４": {
+    "ja_name": "わざレコード６４",
+    "category": "other"
+  },
+  "わざレコード７３": {
+    "ja_name": "わざレコード７３",
+    "category": "other"
+  },
+  "わざレコード７５": {
+    "ja_name": "わざレコード７５",
+    "category": "other"
+  },
+  "わざレコード７０": {
+    "ja_name": "わざレコード７０",
+    "category": "other"
+  },
+  "わざレコード７７": {
+    "ja_name": "わざレコード７７",
+    "category": "other"
+  },
+  "わざレコード８１": {
+    "ja_name": "わざレコード８１",
+    "category": "other"
+  },
+  "わざレコード７６": {
+    "ja_name": "わざレコード７６",
+    "category": "other"
+  },
+  "わざレコード８２": {
+    "ja_name": "わざレコード８２",
+    "category": "other"
+  },
+  "わざレコード８３": {
+    "ja_name": "わざレコード８３",
+    "category": "other"
+  },
+  "わざレコード８５": {
+    "ja_name": "わざレコード８５",
+    "category": "other"
+  },
+  "わざレコード４８": {
+    "ja_name": "わざレコード４８",
+    "category": "other"
+  },
+  "わざレコード８７": {
+    "ja_name": "わざレコード８７",
+    "category": "other"
+  },
+  "わざレコード８６": {
+    "ja_name": "わざレコード８６",
+    "category": "other"
+  },
+  "わざレコード８９": {
+    "ja_name": "わざレコード８９",
+    "category": "other"
+  },
+  "わざレコード７８": {
+    "ja_name": "わざレコード７８",
+    "category": "other"
+  },
+  "わざレコード９０": {
+    "ja_name": "わざレコード９０",
+    "category": "other"
+  },
+  "わざレコード９１": {
+    "ja_name": "わざレコード９１",
+    "category": "other"
+  },
+  "わざレコード７９": {
+    "ja_name": "わざレコード７９",
+    "category": "other"
+  },
+  "わざレコード８８": {
+    "ja_name": "わざレコード８８",
+    "category": "other"
+  },
+  "わざレコード９５": {
+    "ja_name": "わざレコード９５",
+    "category": "other"
+  },
+  "わざレコード９３": {
+    "ja_name": "わざレコード９３",
+    "category": "other"
+  },
+  "わざレコード９６": {
+    "ja_name": "わざレコード９６",
+    "category": "other"
+  },
+  "わざレコード８４": {
+    "ja_name": "わざレコード８４",
+    "category": "other"
+  },
+  "わざレコード９７": {
+    "ja_name": "わざレコード９７",
+    "category": "other"
+  },
+  "わざレコード９８": {
+    "ja_name": "わざレコード９８",
+    "category": "other"
+  },
+  "わざマシン００": {
+    "ja_name": "わざマシン００",
+    "category": "other"
+  },
+  "いじっぱりミント": {
+    "ja_name": "いじっぱりミント",
+    "category": "other"
+  },
+  "さみしがりミント": {
+    "ja_name": "さみしがりミント",
+    "category": "other"
+  },
+  "わざレコード８０": {
+    "ja_name": "わざレコード８０",
+    "category": "other"
+  },
+  "ずぶといミント": {
+    "ja_name": "ずぶといミント",
+    "category": "other"
+  },
+  "わんぱくミント": {
+    "ja_name": "わんぱくミント",
+    "category": "other"
+  },
+  "のうてんきミント": {
+    "ja_name": "のうてんきミント",
+    "category": "other"
+  },
+  "ゆうかんミント": {
+    "ja_name": "ゆうかんミント",
+    "category": "other"
+  },
+  "ひかえめミント": {
+    "ja_name": "ひかえめミント",
+    "category": "other"
+  },
+  "やんちゃミント": {
+    "ja_name": "やんちゃミント",
+    "category": "other"
+  },
+  "わざレコード９４": {
+    "ja_name": "わざレコード９４",
+    "category": "other"
+  },
+  "わざレコード９９": {
+    "ja_name": "わざレコード９９",
+    "category": "other"
+  },
+  "わざレコード９２": {
+    "ja_name": "わざレコード９２",
+    "category": "other"
+  },
+  "のんきミント": {
+    "ja_name": "のんきミント",
+    "category": "other"
+  },
+  "おっとりミント": {
+    "ja_name": "おっとりミント",
+    "category": "other"
+  },
+  "れいせいミント": {
+    "ja_name": "れいせいミント",
+    "category": "other"
+  },
+  "うっかりやミント": {
+    "ja_name": "うっかりやミント",
+    "category": "other"
+  },
+  "おとなしいミント": {
+    "ja_name": "おとなしいミント",
+    "category": "other"
+  },
+  "おだやかミント": {
+    "ja_name": "おだやかミント",
+    "category": "other"
+  },
+  "しんちょうミント": {
+    "ja_name": "しんちょうミント",
+    "category": "other"
+  },
+  "おくびょうミント": {
+    "ja_name": "おくびょうミント",
+    "category": "other"
+  },
+  "なまいきミント": {
+    "ja_name": "なまいきミント",
+    "category": "other"
+  },
+  "ようきミント": {
+    "ja_name": "ようきミント",
+    "category": "other"
+  },
+  "せっかちミント": {
+    "ja_name": "せっかちミント",
+    "category": "other"
+  },
+  "むじゃきミント": {
+    "ja_name": "むじゃきミント",
+    "category": "other"
+  },
+  "われたポット": {
+    "ja_name": "われたポット",
+    "category": "other"
+  },
+  "まじめミント": {
+    "ja_name": "まじめミント",
+    "category": "other"
+  },
+  "モーモーチーズ": {
+    "ja_name": "モーモーチーズ",
+    "category": "other"
+  },
+  "ねがいのかたまり": {
+    "ja_name": "ねがいのかたまり",
+    "category": "other"
+  },
+  "しんせんクリーム": {
+    "ja_name": "しんせんクリーム",
+    "category": "other"
+  },
+  "かけたポット": {
+    "ja_name": "かけたポット",
+    "category": "other"
+  },
+  "レトルトカレー": {
+    "ja_name": "レトルトカレー",
+    "category": "other"
+  },
+  "すごいみみせん": {
+    "ja_name": "すごいみみせん",
+    "category": "other"
+  },
+  "フサパック": {
+    "ja_name": "フサパック",
+    "category": "other"
+  },
+  "ヤシのミルク": {
+    "ja_name": "ヤシのミルク",
+    "category": "other"
+  },
+  "スパイスセット": {
+    "ja_name": "スパイスセット",
+    "category": "other"
+  },
+  "レトルトめん": {
+    "ja_name": "レトルトめん",
+    "category": "other"
+  },
+  "レトルトバーグ": {
+    "ja_name": "レトルトバーグ",
+    "category": "other"
+  },
+  "キョダイパウダー": {
+    "ja_name": "キョダイパウダー",
+    "category": "other"
+  },
+  "バンドのサイン": {
+    "ja_name": "バンドのサイン",
+    "category": "other"
+  },
+  "ねがいのかけら": {
+    "ja_name": "ねがいのかけら",
+    "category": "other"
+  },
+  "ゆれないおまもり": {
+    "ja_name": "ゆれないおまもり",
+    "category": "other"
+  },
+  "ふるびたてがみ": {
+    "ja_name": "ふるびたてがみ",
+    "category": "other"
+  },
+  "ロトムのカタログ": {
+    "ja_name": "ロトムのカタログ",
+    "category": "other"
+  },
+  "★And458": {
+    "ja_name": "★And458",
+    "category": "other"
+  },
+  "ソニアのほん": {
+    "ja_name": "ソニアのほん",
+    "category": "other"
+  },
+  "★And337": {
+    "ja_name": "★And337",
+    "category": "other"
+  },
+  "★And15": {
+    "ja_name": "★And15",
+    "category": "other"
+  },
+  "★And390": {
+    "ja_name": "★And390",
+    "category": "other"
+  },
+  "★And603": {
+    "ja_name": "★And603",
+    "category": "other"
+  },
+  "★Sgr6859": {
+    "ja_name": "★Sgr6859",
+    "category": "other"
+  },
+  "★Sgr7194": {
+    "ja_name": "★Sgr7194",
+    "category": "other"
+  },
+  "★Sgr6879": {
+    "ja_name": "★Sgr6879",
+    "category": "other"
+  },
+  "★Sgr7121": {
+    "ja_name": "★Sgr7121",
+    "category": "other"
+  },
+  "★Sgr6746": {
+    "ja_name": "★Sgr6746",
+    "category": "other"
+  },
+  "★Sgr7348": {
+    "ja_name": "★Sgr7348",
+    "category": "other"
+  },
+  "★Sgr6913": {
+    "ja_name": "★Sgr6913",
+    "category": "other"
+  },
+  "★Sgr6812": {
+    "ja_name": "★Sgr6812",
+    "category": "other"
+  },
+  "★Sgr7343": {
+    "ja_name": "★Sgr7343",
+    "category": "other"
+  },
+  "★Sgr7337": {
+    "ja_name": "★Sgr7337",
+    "category": "other"
+  },
+  "★Sgr7264": {
+    "ja_name": "★Sgr7264",
+    "category": "other"
+  },
+  "★Del7906": {
+    "ja_name": "★Del7906",
+    "category": "other"
+  },
+  "★Sgr7116": {
+    "ja_name": "★Sgr7116",
+    "category": "other"
+  },
+  "★Del7852": {
+    "ja_name": "★Del7852",
+    "category": "other"
+  },
+  "★Del7882": {
+    "ja_name": "★Del7882",
+    "category": "other"
+  },
+  "★Psc361": {
+    "ja_name": "★Psc361",
+    "category": "other"
+  },
+  "★Psc596": {
+    "ja_name": "★Psc596",
+    "category": "other"
+  },
+  "★Sgr7597": {
+    "ja_name": "★Sgr7597",
+    "category": "other"
+  },
+  "★Psc510": {
+    "ja_name": "★Psc510",
+    "category": "other"
+  },
+  "★Lep1865": {
+    "ja_name": "★Lep1865",
+    "category": "other"
+  },
+  "★Boo5340": {
+    "ja_name": "★Boo5340",
+    "category": "other"
+  },
+  "★Boo5506": {
+    "ja_name": "★Boo5506",
+    "category": "other"
+  },
+  "★Lep1829": {
+    "ja_name": "★Lep1829",
+    "category": "other"
+  },
+  "★Psc437": {
+    "ja_name": "★Psc437",
+    "category": "other"
+  },
+  "★Boo5435": {
+    "ja_name": "★Boo5435",
+    "category": "other"
+  },
+  "★Boo5602": {
+    "ja_name": "★Boo5602",
+    "category": "other"
+  },
+  "★Boo5733": {
+    "ja_name": "★Boo5733",
+    "category": "other"
+  },
+  "★Boo5351": {
+    "ja_name": "★Boo5351",
+    "category": "other"
+  },
+  "★Hya3748": {
+    "ja_name": "★Hya3748",
+    "category": "other"
+  },
+  "★Psc8773": {
+    "ja_name": "★Psc8773",
+    "category": "other"
+  },
+  "★Boo5235": {
+    "ja_name": "★Boo5235",
+    "category": "other"
+  },
+  "★Hya3903": {
+    "ja_name": "★Hya3903",
+    "category": "other"
+  },
+  "★Hya3418": {
+    "ja_name": "★Hya3418",
+    "category": "other"
+  },
+  "★Hya3482": {
+    "ja_name": "★Hya3482",
+    "category": "other"
+  },
+  "★Eri472": {
+    "ja_name": "★Eri472",
+    "category": "other"
+  },
+  "★Eri1084": {
+    "ja_name": "★Eri1084",
+    "category": "other"
+  },
+  "★Hya3845": {
+    "ja_name": "★Hya3845",
+    "category": "other"
+  },
+  "★Eri1666": {
+    "ja_name": "★Eri1666",
+    "category": "other"
+  },
+  "★Eri874": {
+    "ja_name": "★Eri874",
+    "category": "other"
+  },
+  "★Eri897": {
+    "ja_name": "★Eri897",
+    "category": "other"
+  },
+  "★Eri1298": {
+    "ja_name": "★Eri1298",
+    "category": "other"
+  },
+  "★Eri1464": {
+    "ja_name": "★Eri1464",
+    "category": "other"
+  },
+  "★Eri984": {
+    "ja_name": "★Eri984",
+    "category": "other"
+  },
+  "★Tau1457": {
+    "ja_name": "★Tau1457",
+    "category": "other"
+  },
+  "★Eri1231": {
+    "ja_name": "★Eri1231",
+    "category": "other"
+  },
+  "★Eri1393": {
+    "ja_name": "★Eri1393",
+    "category": "other"
+  },
+  "★Tau1409": {
+    "ja_name": "★Tau1409",
+    "category": "other"
+  },
+  "★Tau1165": {
+    "ja_name": "★Tau1165",
+    "category": "other"
+  },
+  "★Eri850": {
+    "ja_name": "★Eri850",
+    "category": "other"
+  },
+  "★Eri1325": {
+    "ja_name": "★Eri1325",
+    "category": "other"
+  },
+  "★Tau1346": {
+    "ja_name": "★Tau1346",
+    "category": "other"
+  },
+  "★Tau1373": {
+    "ja_name": "★Tau1373",
+    "category": "other"
+  },
+  "★Tau1910": {
+    "ja_name": "★Tau1910",
+    "category": "other"
+  },
+  "★CMa2491": {
+    "ja_name": "★CMa2491",
+    "category": "other"
+  },
+  "★CMa2693": {
+    "ja_name": "★CMa2693",
+    "category": "other"
+  },
+  "★Tau1791": {
+    "ja_name": "★Tau1791",
+    "category": "other"
+  },
+  "★Tau1412": {
+    "ja_name": "★Tau1412",
+    "category": "other"
+  },
+  "★CMa2827": {
+    "ja_name": "★CMa2827",
+    "category": "other"
+  },
+  "★CMa2657": {
+    "ja_name": "★CMa2657",
+    "category": "other"
+  },
+  "★CMa2282": {
+    "ja_name": "★CMa2282",
+    "category": "other"
+  },
+  "★UMa5191": {
+    "ja_name": "★UMa5191",
+    "category": "other"
+  },
+  "★CMa2294": {
+    "ja_name": "★CMa2294",
+    "category": "other"
+  },
+  "★UMa4905": {
+    "ja_name": "★UMa4905",
+    "category": "other"
+  },
+  "★CMa2646": {
+    "ja_name": "★CMa2646",
+    "category": "other"
+  },
+  "★UMa4660": {
+    "ja_name": "★UMa4660",
+    "category": "other"
+  },
+  "★UMa4554": {
+    "ja_name": "★UMa4554",
+    "category": "other"
+  },
+  "★UMa4295": {
+    "ja_name": "★UMa4295",
+    "category": "other"
+  },
+  "★UMa3569": {
+    "ja_name": "★UMa3569",
+    "category": "other"
+  },
+  "★UMa4033": {
+    "ja_name": "★UMa4033",
+    "category": "other"
+  },
+  "★UMa5054": {
+    "ja_name": "★UMa5054",
+    "category": "other"
+  },
+  "★UMa3323": {
+    "ja_name": "★UMa3323",
+    "category": "other"
+  },
+  "★UMa4301": {
+    "ja_name": "★UMa4301",
+    "category": "other"
+  },
+  "★UMa4069": {
+    "ja_name": "★UMa4069",
+    "category": "other"
+  },
+  "★UMa4377": {
+    "ja_name": "★UMa4377",
+    "category": "other"
+  },
+  "★UMa3594": {
+    "ja_name": "★UMa3594",
+    "category": "other"
+  },
+  "★CMa2618": {
+    "ja_name": "★CMa2618",
+    "category": "other"
+  },
+  "★UMa4518": {
+    "ja_name": "★UMa4518",
+    "category": "other"
+  },
+  "★UMa4375": {
+    "ja_name": "★UMa4375",
+    "category": "other"
+  },
+  "★Vir5056": {
+    "ja_name": "★Vir5056",
+    "category": "other"
+  },
+  "★Vir5338": {
+    "ja_name": "★Vir5338",
+    "category": "other"
+  },
+  "★Vir4540": {
+    "ja_name": "★Vir4540",
+    "category": "other"
+  },
+  "★Vir4689": {
+    "ja_name": "★Vir4689",
+    "category": "other"
+  },
+  "★Vir4825": {
+    "ja_name": "★Vir4825",
+    "category": "other"
+  },
+  "★Vir4932": {
+    "ja_name": "★Vir4932",
+    "category": "other"
+  },
+  "★Vir5315": {
+    "ja_name": "★Vir5315",
+    "category": "other"
+  },
+  "★Vir5359": {
+    "ja_name": "★Vir5359",
+    "category": "other"
+  },
+  "★Vir4910": {
+    "ja_name": "★Vir4910",
+    "category": "other"
+  },
+  "★Vir5409": {
+    "ja_name": "★Vir5409",
+    "category": "other"
+  },
+  "★Ari553": {
+    "ja_name": "★Ari553",
+    "category": "other"
+  },
+  "★Ori1713": {
+    "ja_name": "★Ori1713",
+    "category": "other"
+  },
+  "★Vir5107": {
+    "ja_name": "★Vir5107",
+    "category": "other"
+  },
+  "★Ari951": {
+    "ja_name": "★Ari951",
+    "category": "other"
+  },
+  "★Ari546": {
+    "ja_name": "★Ari546",
+    "category": "other"
+  },
+  "★Ari617": {
+    "ja_name": "★Ari617",
+    "category": "other"
+  },
+  "★Ori1903": {
+    "ja_name": "★Ori1903",
+    "category": "other"
+  },
+  "★Ori1790": {
+    "ja_name": "★Ori1790",
+    "category": "other"
+  },
+  "★Ori1948": {
+    "ja_name": "★Ori1948",
+    "category": "other"
+  },
+  "★Ori2061": {
+    "ja_name": "★Ori2061",
+    "category": "other"
+  },
+  "★Ori1879": {
+    "ja_name": "★Ori1879",
+    "category": "other"
+  },
+  "★Ori2004": {
+    "ja_name": "★Ori2004",
+    "category": "other"
+  },
+  "★Ori1899": {
+    "ja_name": "★Ori1899",
+    "category": "other"
+  },
+  "★Ori1543": {
+    "ja_name": "★Ori1543",
+    "category": "other"
+  },
+  "★Cas21": {
+    "ja_name": "★Cas21",
+    "category": "other"
+  },
+  "★Cas403": {
+    "ja_name": "★Cas403",
+    "category": "other"
+  },
+  "★Cas542": {
+    "ja_name": "★Cas542",
+    "category": "other"
+  },
+  "★Cnc3572": {
+    "ja_name": "★Cnc3572",
+    "category": "other"
+  },
+  "★Cas153": {
+    "ja_name": "★Cas153",
+    "category": "other"
+  },
+  "★Cas219": {
+    "ja_name": "★Cas219",
+    "category": "other"
+  },
+  "★Cas168": {
+    "ja_name": "★Cas168",
+    "category": "other"
+  },
+  "★Cnc3208": {
+    "ja_name": "★Cnc3208",
+    "category": "other"
+  },
+  "★Cas265": {
+    "ja_name": "★Cas265",
+    "category": "other"
+  },
+  "★Cnc3461": {
+    "ja_name": "★Cnc3461",
+    "category": "other"
+  },
+  "★Cnc3449": {
+    "ja_name": "★Cnc3449",
+    "category": "other"
+  },
+  "★Cnc3429": {
+    "ja_name": "★Cnc3429",
+    "category": "other"
+  },
+  "★Cnc3268": {
+    "ja_name": "★Cnc3268",
+    "category": "other"
+  },
+  "★Com4968": {
+    "ja_name": "★Com4968",
+    "category": "other"
+  },
+  "★Cnc3249": {
+    "ja_name": "★Cnc3249",
+    "category": "other"
+  },
+  "★Crv4623": {
+    "ja_name": "★Crv4623",
+    "category": "other"
+  },
+  "★Crv4786": {
+    "ja_name": "★Crv4786",
+    "category": "other"
+  },
+  "★Cnc3627": {
+    "ja_name": "★Cnc3627",
+    "category": "other"
+  },
+  "★Crv4757": {
+    "ja_name": "★Crv4757",
+    "category": "other"
+  },
+  "★Aur1612": {
+    "ja_name": "★Aur1612",
+    "category": "other"
+  },
+  "★Aur2095": {
+    "ja_name": "★Aur2095",
+    "category": "other"
+  },
+  "★Aur1605": {
+    "ja_name": "★Aur1605",
+    "category": "other"
+  },
+  "★Aur1708": {
+    "ja_name": "★Aur1708",
+    "category": "other"
+  },
+  "★Aur2088": {
+    "ja_name": "★Aur2088",
+    "category": "other"
+  },
+  "★Aur1577": {
+    "ja_name": "★Aur1577",
+    "category": "other"
+  },
+  "★Cet911": {
+    "ja_name": "★Cet911",
+    "category": "other"
+  },
+  "★Ori1852": {
+    "ja_name": "★Ori1852",
+    "category": "other"
+  },
+  "★Pav7790": {
+    "ja_name": "★Pav7790",
+    "category": "other"
+  },
+  "★Cet188": {
+    "ja_name": "★Cet188",
+    "category": "other"
+  },
+  "★Cet539": {
+    "ja_name": "★Cet539",
+    "category": "other"
+  },
+  "★Aur1641": {
+    "ja_name": "★Aur1641",
+    "category": "other"
+  },
+  "★Cet804": {
+    "ja_name": "★Cet804",
+    "category": "other"
+  },
+  "★Cet681": {
+    "ja_name": "★Cet681",
+    "category": "other"
+  },
+  "★Cep8974": {
+    "ja_name": "★Cep8974",
+    "category": "other"
+  },
+  "★Crv4662": {
+    "ja_name": "★Crv4662",
+    "category": "other"
+  },
+  "★Cep8238": {
+    "ja_name": "★Cep8238",
+    "category": "other"
+  },
+  "★Cen551": {
+    "ja_name": "★Cen551",
+    "category": "other"
+  },
+  "★Cep8417": {
+    "ja_name": "★Cep8417",
+    "category": "other"
+  },
+  "★Cen5288": {
+    "ja_name": "★Cen5288",
+    "category": "other"
+  },
+  "★Cen5267": {
+    "ja_name": "★Cen5267",
+    "category": "other"
+  },
+  "★Cen5460": {
+    "ja_name": "★Cen5460",
+    "category": "other"
+  },
+  "★CMi2845": {
+    "ja_name": "★CMi2845",
+    "category": "other"
+  },
+  "★Cep8162": {
+    "ja_name": "★Cep8162",
+    "category": "other"
+  },
+  "★Cen5459": {
+    "ja_name": "★Cen5459",
+    "category": "other"
+  },
+  "★Equ8131": {
+    "ja_name": "★Equ8131",
+    "category": "other"
+  },
+  "★UMi424": {
+    "ja_name": "★UMi424",
+    "category": "other"
+  },
+  "★CMi2943": {
+    "ja_name": "★CMi2943",
+    "category": "other"
+  },
+  "★Vul7405": {
+    "ja_name": "★Vul7405",
+    "category": "other"
+  },
+  "★UMi5735": {
+    "ja_name": "★UMi5735",
+    "category": "other"
+  },
+  "★UMi5563": {
+    "ja_name": "★UMi5563",
+    "category": "other"
+  },
+  "★Crt4287": {
+    "ja_name": "★Crt4287",
+    "category": "other"
+  },
+  "★Lyr7106": {
+    "ja_name": "★Lyr7106",
+    "category": "other"
+  },
+  "★Sco6134": {
+    "ja_name": "★Sco6134",
+    "category": "other"
+  },
+  "★UMi6789": {
+    "ja_name": "★UMi6789",
+    "category": "other"
+  },
+  "★Ara6585": {
+    "ja_name": "★Ara6585",
+    "category": "other"
+  },
+  "★Lyr7178": {
+    "ja_name": "★Lyr7178",
+    "category": "other"
+  },
+  "★Sco5953": {
+    "ja_name": "★Sco5953",
+    "category": "other"
+  },
+  "★Lyr7001": {
+    "ja_name": "★Lyr7001",
+    "category": "other"
+  },
+  "★Lyr7298": {
+    "ja_name": "★Lyr7298",
+    "category": "other"
+  },
+  "★Sco6527": {
+    "ja_name": "★Sco6527",
+    "category": "other"
+  },
+  "★Sco6027": {
+    "ja_name": "★Sco6027",
+    "category": "other"
+  },
+  "★Sco6084": {
+    "ja_name": "★Sco6084",
+    "category": "other"
+  },
+  "★Sco5944": {
+    "ja_name": "★Sco5944",
+    "category": "other"
+  },
+  "★Sco6553": {
+    "ja_name": "★Sco6553",
+    "category": "other"
+  },
+  "★Sco6630": {
+    "ja_name": "★Sco6630",
+    "category": "other"
+  },
+  "★Sco6508": {
+    "ja_name": "★Sco6508",
+    "category": "other"
+  },
+  "★Sco6247": {
+    "ja_name": "★Sco6247",
+    "category": "other"
+  },
+  "★Sco5984": {
+    "ja_name": "★Sco5984",
+    "category": "other"
+  },
+  "★Sco6252": {
+    "ja_name": "★Sco6252",
+    "category": "other"
+  },
+  "★Sco5928": {
+    "ja_name": "★Sco5928",
+    "category": "other"
+  },
+  "★Sco6241": {
+    "ja_name": "★Sco6241",
+    "category": "other"
+  },
+  "★Leo3982": {
+    "ja_name": "★Leo3982",
+    "category": "other"
+  },
+  "★Leo4057": {
+    "ja_name": "★Leo4057",
+    "category": "other"
+  },
+  "★Leo4357": {
+    "ja_name": "★Leo4357",
+    "category": "other"
+  },
+  "★Leo4359": {
+    "ja_name": "★Leo4359",
+    "category": "other"
+  },
+  "★Leo4031": {
+    "ja_name": "★Leo4031",
+    "category": "other"
+  },
+  "★Leo4534": {
+    "ja_name": "★Leo4534",
+    "category": "other"
+  },
+  "★Leo3905": {
+    "ja_name": "★Leo3905",
+    "category": "other"
+  },
+  "★Leo3852": {
+    "ja_name": "★Leo3852",
+    "category": "other"
+  },
+  "★Gru8353": {
+    "ja_name": "★Gru8353",
+    "category": "other"
+  },
+  "★Gru8636": {
+    "ja_name": "★Gru8636",
+    "category": "other"
+  },
+  "★Lib5531": {
+    "ja_name": "★Lib5531",
+    "category": "other"
+  },
+  "★Leo3773": {
+    "ja_name": "★Leo3773",
+    "category": "other"
+  },
+  "★Gru8425": {
+    "ja_name": "★Gru8425",
+    "category": "other"
+  },
+  "★Tri544": {
+    "ja_name": "★Tri544",
+    "category": "other"
+  },
+  "★Sco6165": {
+    "ja_name": "★Sco6165",
+    "category": "other"
+  },
+  "★Lib5685": {
+    "ja_name": "★Lib5685",
+    "category": "other"
+  },
+  "★Lib5603": {
+    "ja_name": "★Lib5603",
+    "category": "other"
+  },
+  "★Pup3165": {
+    "ja_name": "★Pup3165",
+    "category": "other"
+  },
+  "★Cyg7924": {
+    "ja_name": "★Cyg7924",
+    "category": "other"
+  },
+  "★Lib5787": {
+    "ja_name": "★Lib5787",
+    "category": "other"
+  },
+  "★Cyg7796": {
+    "ja_name": "★Cyg7796",
+    "category": "other"
+  },
+  "★Pup3185": {
+    "ja_name": "★Pup3185",
+    "category": "other"
+  },
+  "★Cyg7528": {
+    "ja_name": "★Cyg7528",
+    "category": "other"
+  },
+  "★Cyg7949": {
+    "ja_name": "★Cyg7949",
+    "category": "other"
+  },
+  "★Oct7228": {
+    "ja_name": "★Oct7228",
+    "category": "other"
+  },
+  "★Cyg8301": {
+    "ja_name": "★Cyg8301",
+    "category": "other"
+  },
+  "★Pup3045": {
+    "ja_name": "★Pup3045",
+    "category": "other"
+  },
+  "★Cyg7417": {
+    "ja_name": "★Cyg7417",
+    "category": "other"
+  },
+  "★Col2177": {
+    "ja_name": "★Col2177",
+    "category": "other"
+  },
+  "★Gem2990": {
+    "ja_name": "★Gem2990",
+    "category": "other"
+  },
+  "★Col2040": {
+    "ja_name": "★Col2040",
+    "category": "other"
+  },
+  "★Gem2473": {
+    "ja_name": "★Gem2473",
+    "category": "other"
+  },
+  "★Gem2777": {
+    "ja_name": "★Gem2777",
+    "category": "other"
+  },
+  "★Gem2891": {
+    "ja_name": "★Gem2891",
+    "category": "other"
+  },
+  "★Gem2216": {
+    "ja_name": "★Gem2216",
+    "category": "other"
+  },
+  "★Gem2421": {
+    "ja_name": "★Gem2421",
+    "category": "other"
+  },
+  "★Col1956": {
+    "ja_name": "★Col1956",
+    "category": "other"
+  },
+  "★Gem2650": {
+    "ja_name": "★Gem2650",
+    "category": "other"
+  },
+  "★Gem2484": {
+    "ja_name": "★Gem2484",
+    "category": "other"
+  },
+  "★Gem2930": {
+    "ja_name": "★Gem2930",
+    "category": "other"
+  },
+  "★Peg39": {
+    "ja_name": "★Peg39",
+    "category": "other"
+  },
+  "★Peg8650": {
+    "ja_name": "★Peg8650",
+    "category": "other"
+  },
+  "★Peg8781": {
+    "ja_name": "★Peg8781",
+    "category": "other"
+  },
+  "★Peg8775": {
+    "ja_name": "★Peg8775",
+    "category": "other"
+  },
+  "★Peg8450": {
+    "ja_name": "★Peg8450",
+    "category": "other"
+  },
+  "★Peg8880": {
+    "ja_name": "★Peg8880",
+    "category": "other"
+  },
+  "★Gem2286": {
+    "ja_name": "★Gem2286",
+    "category": "other"
+  },
+  "★Peg8684": {
+    "ja_name": "★Peg8684",
+    "category": "other"
+  },
+  "★Peg8634": {
+    "ja_name": "★Peg8634",
+    "category": "other"
+  },
+  "★Peg8905": {
+    "ja_name": "★Peg8905",
+    "category": "other"
+  },
+  "★Peg8308": {
+    "ja_name": "★Peg8308",
+    "category": "other"
+  },
+  "★Oph6556": {
+    "ja_name": "★Oph6556",
+    "category": "other"
+  },
+  "★Oph6603": {
+    "ja_name": "★Oph6603",
+    "category": "other"
+  },
+  "★Oph6056": {
+    "ja_name": "★Oph6056",
+    "category": "other"
+  },
+  "★Oph6378": {
+    "ja_name": "★Oph6378",
+    "category": "other"
+  },
+  "★Oph6075": {
+    "ja_name": "★Oph6075",
+    "category": "other"
+  },
+  "★Her6406": {
+    "ja_name": "★Her6406",
+    "category": "other"
+  },
+  "★Ser5879": {
+    "ja_name": "★Ser5879",
+    "category": "other"
+  },
+  "★Oph6149": {
+    "ja_name": "★Oph6149",
+    "category": "other"
+  },
+  "★Her6148": {
+    "ja_name": "★Her6148",
+    "category": "other"
+  },
+  "★Ser5854": {
+    "ja_name": "★Ser5854",
+    "category": "other"
+  },
+  "★Her6526": {
+    "ja_name": "★Her6526",
+    "category": "other"
+  },
+  "★Her6008": {
+    "ja_name": "★Her6008",
+    "category": "other"
+  },
+  "★Per1017": {
+    "ja_name": "★Per1017",
+    "category": "other"
+  },
+  "★Per936": {
+    "ja_name": "★Per936",
+    "category": "other"
+  },
+  "★Per1228": {
+    "ja_name": "★Per1228",
+    "category": "other"
+  },
+  "★Ser7141": {
+    "ja_name": "★Ser7141",
+    "category": "other"
+  },
+  "★Her6410": {
+    "ja_name": "★Her6410",
+    "category": "other"
+  },
+  "★Her6117": {
+    "ja_name": "★Her6117",
+    "category": "other"
+  },
+  "★Per834": {
+    "ja_name": "★Per834",
+    "category": "other"
+  },
+  "★Phe338": {
+    "ja_name": "★Phe338",
+    "category": "other"
+  },
+  "★Vel3634": {
+    "ja_name": "★Vel3634",
+    "category": "other"
+  },
+  "★Per941": {
+    "ja_name": "★Per941",
+    "category": "other"
+  },
+  "★Phe99": {
+    "ja_name": "★Phe99",
+    "category": "other"
+  },
+  "★Per1131": {
+    "ja_name": "★Per1131",
+    "category": "other"
+  },
+  "★Vel3485": {
+    "ja_name": "★Vel3485",
+    "category": "other"
+  },
+  "★Vel3734": {
+    "ja_name": "★Vel3734",
+    "category": "other"
+  },
+  "★Aqr8709": {
+    "ja_name": "★Aqr8709",
+    "category": "other"
+  },
+  "★Aqr8232": {
+    "ja_name": "★Aqr8232",
+    "category": "other"
+  },
+  "★Aqr7950": {
+    "ja_name": "★Aqr7950",
+    "category": "other"
+  },
+  "★Aqr8414": {
+    "ja_name": "★Aqr8414",
+    "category": "other"
+  },
+  "★Aqr8499": {
+    "ja_name": "★Aqr8499",
+    "category": "other"
+  },
+  "★Aqr8518": {
+    "ja_name": "★Aqr8518",
+    "category": "other"
+  },
+  "★Aqr8264": {
+    "ja_name": "★Aqr8264",
+    "category": "other"
+  },
+  "★Cru4763": {
+    "ja_name": "★Cru4763",
+    "category": "other"
+  },
+  "★Aqr8610": {
+    "ja_name": "★Aqr8610",
+    "category": "other"
+  },
+  "★Cap7776": {
+    "ja_name": "★Cap7776",
+    "category": "other"
+  },
+  "★PsA8728": {
+    "ja_name": "★PsA8728",
+    "category": "other"
+  },
+  "★Cru4656": {
+    "ja_name": "★Cru4656",
+    "category": "other"
+  },
+  "★Cru4730": {
+    "ja_name": "★Cru4730",
+    "category": "other"
+  },
+  "★Cap7754": {
+    "ja_name": "★Cap7754",
+    "category": "other"
+  },
+  "★TrA6217": {
+    "ja_name": "★TrA6217",
+    "category": "other"
+  },
+  "★Cap8278": {
+    "ja_name": "★Cap8278",
+    "category": "other"
+  },
+  "★Cru4853": {
+    "ja_name": "★Cru4853",
+    "category": "other"
+  },
+  "★Sge7479": {
+    "ja_name": "★Sge7479",
+    "category": "other"
+  },
+  "★Cap8322": {
+    "ja_name": "★Cap8322",
+    "category": "other"
+  },
+  "★Car3685": {
+    "ja_name": "★Car3685",
+    "category": "other"
+  },
+  "★Car2326": {
+    "ja_name": "★Car2326",
+    "category": "other"
+  },
+  "★Cru4700": {
+    "ja_name": "★Cru4700",
+    "category": "other"
+  },
+  "★Car3307": {
+    "ja_name": "★Car3307",
+    "category": "other"
+  },
+  "★Car3699": {
+    "ja_name": "★Car3699",
+    "category": "other"
+  },
+  "★Dra5744": {
+    "ja_name": "★Dra5744",
+    "category": "other"
+  },
+  "★Dra5291": {
+    "ja_name": "★Dra5291",
+    "category": "other"
+  },
+  "★Dra7310": {
+    "ja_name": "★Dra7310",
+    "category": "other"
+  },
+  "★Dra4434": {
+    "ja_name": "★Dra4434",
+    "category": "other"
+  },
+  "★Dra6705": {
+    "ja_name": "★Dra6705",
+    "category": "other"
+  },
+  "★Cap7773": {
+    "ja_name": "★Cap7773",
+    "category": "other"
+  },
+  "★Dra6536": {
+    "ja_name": "★Dra6536",
+    "category": "other"
+  },
+  "★Dra6396": {
+    "ja_name": "★Dra6396",
+    "category": "other"
+  },
+  "★Dra6688": {
+    "ja_name": "★Dra6688",
+    "category": "other"
+  },
+  "★Dra7462": {
+    "ja_name": "★Dra7462",
+    "category": "other"
+  },
+  "★CVn4915": {
+    "ja_name": "★CVn4915",
+    "category": "other"
+  },
+  "★CVn4846": {
+    "ja_name": "★CVn4846",
+    "category": "other"
+  },
+  "★Aql7595": {
+    "ja_name": "★Aql7595",
+    "category": "other"
+  },
+  "★Dra6132": {
+    "ja_name": "★Dra6132",
+    "category": "other"
+  },
+  "★Dra6636": {
+    "ja_name": "★Dra6636",
+    "category": "other"
+  },
+  "★Aql7235": {
+    "ja_name": "★Aql7235",
+    "category": "other"
+  },
+  "ダイミツ": {
+    "ja_name": "ダイミツ",
+    "category": "other"
+  },
+  "★Aql7525": {
+    "ja_name": "★Aql7525",
+    "category": "other"
+  },
+  "★Aql7602": {
+    "ja_name": "★Aql7602",
+    "category": "other"
+  },
+  "★Aql7557": {
+    "ja_name": "★Aql7557",
+    "category": "other"
+  },
+  "ダイキノコ": {
+    "ja_name": "ダイキノコ",
+    "category": "other"
+  },
+  "おしゃれカード": {
+    "ja_name": "おしゃれカード",
+    "category": "other"
+  },
+  "★CVn4785": {
+    "ja_name": "★CVn4785",
+    "category": "other"
+  },
+  "ガラナツブレス": {
+    "ja_name": "ガラナツブレス",
+    "category": "other"
+  },
+  "ガラナツのえだ": {
+    "ja_name": "ガラナツのえだ",
+    "category": "other"
+  },
+  "けいけんおまもり": {
+    "ja_name": "けいけんおまもり",
+    "category": "other"
+  },
+  "ヨロイパス": {
+    "ja_name": "ヨロイパス",
+    "category": "other"
+  },
+  "ヨロイこうせき": {
+    "ja_name": "ヨロイこうせき",
+    "category": "other"
+  },
+  "★Dra6370": {
+    "ja_name": "★Dra6370",
+    "category": "other"
+  },
+  "ガラナツリース": {
+    "ja_name": "ガラナツリース",
+    "category": "other"
+  },
+  "でんせつのメモ１": {
+    "ja_name": "でんせつのメモ１",
+    "category": "other"
+  },
+  "キズナのタヅナ": {
+    "ja_name": "キズナのタヅナ",
+    "category": "other"
+  },
+  "あかしのおまもり": {
+    "ja_name": "あかしのおまもり",
+    "category": "other"
+  },
+  "カンムリパス": {
+    "ja_name": "カンムリパス",
+    "category": "other"
+  },
+  "でんせつのメモ３": {
+    "ja_name": "でんせつのメモ３",
+    "category": "other"
+  },
+  "かがやくはなびら": {
+    "ja_name": "かがやくはなびら",
+    "category": "other"
+  },
+  "でんせつのメモ？": {
+    "ja_name": "でんせつのメモ？",
+    "category": "other"
+  },
+  "きぼりのかんむり": {
+    "ja_name": "きぼりのかんむり",
+    "category": "other"
+  },
+  "でんせつのメモ２": {
+    "ja_name": "でんせつのメモ２",
+    "category": "other"
+  },
+  "しろいたてがみ": {
+    "ja_name": "しろいたてがみ",
+    "category": "other"
+  },
+  "つめたいにんじん": {
+    "ja_name": "つめたいにんじん",
+    "category": "other"
+  },
+  "くろいにんじん": {
+    "ja_name": "くろいにんじん",
+    "category": "other"
+  },
+  "にんじんのタネ": {
+    "ja_name": "にんじんのタネ",
+    "category": "other"
+  },
+  "とくせいパッチ": {
+    "ja_name": "とくせいパッチ",
+    "category": "other"
+  },
+  "くろいたてがみ": {
+    "ja_name": "くろいたてがみ",
+    "category": "other"
+  },
+  "マックスこうせき": {
+    "ja_name": "マックスこうせき",
+    "category": "other"
+  },
+  "だいこんごうだま": {
+    "ja_name": "だいこんごうだま",
+    "category": "other"
+  },
+  "だいしらたま": {
+    "ja_name": "だいしらたま",
+    "category": "other"
+  },
+  "だいはっきんだま": {
+    "ja_name": "だいはっきんだま",
+    "category": "other"
+  },
+  "ストレンジボール": {
+    "ja_name": "ストレンジボール",
+    "category": "other"
+  },
+  "レジェンドプレート": {
+    "ja_name": "レジェンドプレート",
+    "category": "other"
+  },
+  "スマホロトム": {
+    "ja_name": "スマホロトム",
+    "category": "other"
+  },
+  "サンドウィッチ": {
+    "ja_name": "サンドウィッチ",
+    "category": "other"
+  },
+  "テラスタルオーブ": {
+    "ja_name": "テラスタルオーブ",
+    "category": "other"
+  },
+  "ちいさなタケノコ": {
+    "ja_name": "ちいさなタケノコ",
+    "category": "other"
+  },
+  "バイオレットブック": {
+    "ja_name": "バイオレットブック",
+    "category": "other"
+  },
+  "あくのかけじく": {
+    "ja_name": "あくのかけじく",
+    "category": "other"
+  },
+  "コライドンのボール": {
+    "ja_name": "コライドンのボール",
+    "category": "other"
+  },
+  "ノロイノヨロイ": {
+    "ja_name": "ノロイノヨロイ",
+    "category": "other"
+  },
+  "スカーレットブック": {
+    "ja_name": "スカーレットブック",
+    "category": "other"
+  },
+  "テラピースノーマル": {
+    "ja_name": "テラピースノーマル",
+    "category": "other"
+  },
+  "ミライドンのボール": {
+    "ja_name": "ミライドンのボール",
+    "category": "other"
+  },
+  "まっさらプレート": {
+    "ja_name": "まっさらプレート",
+    "category": "other"
+  },
+  "ハイダイのサイフ": {
+    "ja_name": "ハイダイのサイフ",
+    "category": "other"
+  },
+  "みずのかけじく": {
+    "ja_name": "みずのかけじく",
+    "category": "other"
+  },
+  "おおきなタケノコ": {
+    "ja_name": "おおきなタケノコ",
+    "category": "other"
+  },
+  "テラピースみず": {
+    "ja_name": "テラピースみず",
+    "category": "other"
+  },
+  "テラピースでんき": {
+    "ja_name": "テラピースでんき",
+    "category": "other"
+  },
+  "テラピースほのお": {
+    "ja_name": "テラピースほのお",
+    "category": "other"
+  },
+  "テラピースくさ": {
+    "ja_name": "テラピースくさ",
+    "category": "other"
+  },
+  "テラピースかくとう": {
+    "ja_name": "テラピースかくとう",
+    "category": "other"
+  },
+  "テラピースどく": {
+    "ja_name": "テラピースどく",
+    "category": "other"
+  },
+  "テラピースこおり": {
+    "ja_name": "テラピースこおり",
+    "category": "other"
+  },
+  "テラピースひこう": {
+    "ja_name": "テラピースひこう",
+    "category": "other"
+  },
+  "テラピースじめん": {
+    "ja_name": "テラピースじめん",
+    "category": "other"
+  },
+  "テラピースゴースト": {
+    "ja_name": "テラピースゴースト",
+    "category": "other"
+  },
+  "テラピースむし": {
+    "ja_name": "テラピースむし",
+    "category": "other"
+  },
+  "テラピースあく": {
+    "ja_name": "テラピースあく",
+    "category": "other"
+  },
+  "テラピースはがね": {
+    "ja_name": "テラピースはがね",
+    "category": "other"
+  },
+  "テラピースフェアリー": {
+    "ja_name": "テラピースフェアリー",
+    "category": "other"
+  },
+  "ブーストエナジー": {
+    "ja_name": "ブーストエナジー",
+    "category": "other"
+  },
+  "テラピースエスパー": {
+    "ja_name": "テラピースエスパー",
+    "category": "other"
+  },
+  "クリアチャーム": {
+    "ja_name": "クリアチャーム",
+    "category": "other"
+  },
+  "テラピースドラゴン": {
+    "ja_name": "テラピースドラゴン",
+    "category": "other"
+  },
+  "とくせいガード": {
+    "ja_name": "とくせいガード",
+    "category": "other"
+  },
+  "いかさまダイス": {
+    "ja_name": "いかさまダイス",
+    "category": "other"
+  },
+  "パンチグローブ": {
+    "ja_name": "パンチグローブ",
+    "category": "other"
+  },
+  "ものまねハーブ": {
+    "ja_name": "ものまねハーブ",
+    "category": "other"
+  },
+  "バケット": {
+    "ja_name": "バケット",
+    "category": "other"
+  },
+  "マヨネーズ": {
+    "ja_name": "マヨネーズ",
+    "category": "other"
+  },
+  "おんみつマント": {
+    "ja_name": "おんみつマント",
+    "category": "other"
+  },
+  "テラピースいわ": {
+    "ja_name": "テラピースいわ",
+    "category": "other"
+  },
+  "マスタード": {
+    "ja_name": "マスタード",
+    "category": "other"
+  },
+  "ケチャップ": {
+    "ja_name": "ケチャップ",
+    "category": "other"
+  },
+  "チリソース": {
+    "ja_name": "チリソース",
+    "category": "other"
+  },
+  "ピーナッツバター": {
+    "ja_name": "ピーナッツバター",
+    "category": "other"
+  },
+  "マーマレード": {
+    "ja_name": "マーマレード",
+    "category": "other"
+  },
+  "ホイップクリーム": {
+    "ja_name": "ホイップクリーム",
+    "category": "other"
+  },
+  "ベリージャム": {
+    "ja_name": "ベリージャム",
+    "category": "other"
+  },
+  "ペッパー": {
+    "ja_name": "ペッパー",
+    "category": "other"
+  },
+  "ソルト": {
+    "ja_name": "ソルト",
+    "category": "other"
+  },
+  "オリーブオイル": {
+    "ja_name": "オリーブオイル",
+    "category": "other"
+  },
+  "バター": {
+    "ja_name": "バター",
+    "category": "other"
+  },
+  "ヨーグルト": {
+    "ja_name": "ヨーグルト",
+    "category": "other"
+  },
+  "ひでん：あまスパイス": {
+    "ja_name": "ひでん：あまスパイス",
+    "category": "other"
+  },
+  "ビネガー": {
+    "ja_name": "ビネガー",
+    "category": "other"
+  },
+  "ひでん：すぱスパイス": {
+    "ja_name": "ひでん：すぱスパイス",
+    "category": "other"
+  },
+  "ひでん：からスパイス": {
+    "ja_name": "ひでん：からスパイス",
+    "category": "other"
+  },
+  "クリームチーズ": {
+    "ja_name": "クリームチーズ",
+    "category": "other"
+  },
+  "レタス": {
+    "ja_name": "レタス",
+    "category": "other"
+  },
+  "ひでん：しおスパイス": {
+    "ja_name": "ひでん：しおスパイス",
+    "category": "other"
+  },
+  "ひでん：にがスパイス": {
+    "ja_name": "ひでん：にがスパイス",
+    "category": "other"
+  },
+  "カットミニトマト": {
+    "ja_name": "カットミニトマト",
+    "category": "other"
+  },
+  "トマトスライス": {
+    "ja_name": "トマトスライス",
+    "category": "other"
+  },
+  "アーリーレッド": {
+    "ja_name": "アーリーレッド",
+    "category": "other"
+  },
+  "たまねぎスライス": {
+    "ja_name": "たまねぎスライス",
+    "category": "other"
+  },
+  "アボカド": {
+    "ja_name": "アボカド",
+    "category": "other"
+  },
+  "あかパプリカスライス": {
+    "ja_name": "あかパプリカスライス",
+    "category": "other"
+  },
+  "ピーマンスライス": {
+    "ja_name": "ピーマンスライス",
+    "category": "other"
+  },
+  "ハムスライス": {
+    "ja_name": "ハムスライス",
+    "category": "other"
+  },
+  "やきベーコン": {
+    "ja_name": "やきベーコン",
+    "category": "other"
+  },
+  "なまハム": {
+    "ja_name": "なまハム",
+    "category": "other"
+  },
+  "きパプリカスライス": {
+    "ja_name": "きパプリカスライス",
+    "category": "other"
+  },
+  "キュウリスライス": {
+    "ja_name": "キュウリスライス",
+    "category": "other"
+  },
+  "やきチョリソー": {
+    "ja_name": "やきチョリソー",
+    "category": "other"
+  },
+  "ハーブソーセージ": {
+    "ja_name": "ハーブソーセージ",
+    "category": "other"
+  },
+  "きりみフライ": {
+    "ja_name": "きりみフライ",
+    "category": "other"
+  },
+  "スモークきりみ": {
+    "ja_name": "スモークきりみ",
+    "category": "other"
+  },
+  "ハンバーグ": {
+    "ja_name": "ハンバーグ",
+    "category": "other"
+  },
+  "ガケガニスティック": {
+    "ja_name": "ガケガニスティック",
+    "category": "other"
+  },
+  "スライスエッグ": {
+    "ja_name": "スライスエッグ",
+    "category": "other"
+  },
+  "ピクルススライス": {
+    "ja_name": "ピクルススライス",
+    "category": "other"
+  },
+  "トルティージャ": {
+    "ja_name": "トルティージャ",
+    "category": "other"
+  },
+  "トーフ": {
+    "ja_name": "トーフ",
+    "category": "other"
+  },
+  "ヌードル": {
+    "ja_name": "ヌードル",
+    "category": "other"
+  },
+  "ライス": {
+    "ja_name": "ライス",
+    "category": "other"
+  },
+  "バラペーニョ": {
+    "ja_name": "バラペーニョ",
+    "category": "other"
+  },
+  "ポテトサラダ": {
+    "ja_name": "ポテトサラダ",
+    "category": "other"
+  },
+  "カレーパウダー": {
+    "ja_name": "カレーパウダー",
+    "category": "other"
+  },
+  "スライスチーズ": {
+    "ja_name": "スライスチーズ",
+    "category": "other"
+  },
+  "カットパイン": {
+    "ja_name": "カットパイン",
+    "category": "other"
+  },
+  "クレソン": {
+    "ja_name": "クレソン",
+    "category": "other"
+  },
+  "ワサビソース": {
+    "ja_name": "ワサビソース",
+    "category": "other"
+  },
+  "バナナスライス": {
+    "ja_name": "バナナスライス",
+    "category": "other"
+  },
+  "わぎりキウイ": {
+    "ja_name": "わぎりキウイ",
+    "category": "other"
+  },
+  "わぎりリンゴ": {
+    "ja_name": "わぎりリンゴ",
+    "category": "other"
+  },
+  "バジル": {
+    "ja_name": "バジル",
+    "category": "other"
+  },
+  "ディグダのつち": {
+    "ja_name": "ディグダのつち",
+    "category": "other"
+  },
+  "ホースラディッシュ": {
+    "ja_name": "ホースラディッシュ",
+    "category": "other"
+  },
+  "ニャースのけ": {
+    "ja_name": "ニャースのけ",
+    "category": "other"
+  },
+  "コンパンのキバ": {
+    "ja_name": "コンパンのキバ",
+    "category": "other"
+  },
+  "マンキーのけ": {
+    "ja_name": "マンキーのけ",
+    "category": "other"
+  },
+  "コダックのうもう": {
+    "ja_name": "コダックのうもう",
+    "category": "other"
+  },
+  "ゴースのガス": {
+    "ja_name": "ゴースのガス",
+    "category": "other"
+  },
+  "ベトベターのどくそ": {
+    "ja_name": "ベトベターのどくそ",
+    "category": "other"
+  },
+  "いちごスライス": {
+    "ja_name": "いちごスライス",
+    "category": "other"
+  },
+  "シェルダーのしんじゅ": {
+    "ja_name": "シェルダーのしんじゅ",
+    "category": "other"
+  },
+  "ガーディのけ": {
+    "ja_name": "ガーディのけ",
+    "category": "other"
+  },
+  "ヤドンのツメ": {
+    "ja_name": "ヤドンのツメ",
+    "category": "other"
+  },
+  "コイキングのウロコ": {
+    "ja_name": "コイキングのウロコ",
+    "category": "other"
+  },
+  "スリープのけ": {
+    "ja_name": "スリープのけ",
+    "category": "other"
+  },
+  "ビリリダマのでんき": {
+    "ja_name": "ビリリダマのでんき",
+    "category": "other"
+  },
+  "ストライクのツメ": {
+    "ja_name": "ストライクのツメ",
+    "category": "other"
+  },
+  "ケンタロスのけ": {
+    "ja_name": "ケンタロスのけ",
+    "category": "other"
+  },
+  "イーブイのけ": {
+    "ja_name": "イーブイのけ",
+    "category": "other"
+  },
+  "メリープのけだま": {
+    "ja_name": "メリープのけだま",
+    "category": "other"
+  },
+  "メタモンのべたべた": {
+    "ja_name": "メタモンのべたべた",
+    "category": "other"
+  },
+  "ププリンのけ": {
+    "ja_name": "ププリンのけ",
+    "category": "other"
+  },
+  "ピチューのけ": {
+    "ja_name": "ピチューのけ",
+    "category": "other"
+  },
+  "ミニリュウのウロコ": {
+    "ja_name": "ミニリュウのウロコ",
+    "category": "other"
+  },
+  "ハネッコのはっぱ": {
+    "ja_name": "ハネッコのはっぱ",
+    "category": "other"
+  },
+  "ヒマナッツのはっぱ": {
+    "ja_name": "ヒマナッツのはっぱ",
+    "category": "other"
+  },
+  "キリンリキのけ": {
+    "ja_name": "キリンリキのけ",
+    "category": "other"
+  },
+  "ハリーセンのトゲ": {
+    "ja_name": "ハリーセンのトゲ",
+    "category": "other"
+  },
+  "ヤミカラスのおたから": {
+    "ja_name": "ヤミカラスのおたから",
+    "category": "other"
+  },
+  "ヘラクロスのツメ": {
+    "ja_name": "ヘラクロスのツメ",
+    "category": "other"
+  },
+  "ニューラのツメ": {
+    "ja_name": "ニューラのツメ",
+    "category": "other"
+  },
+  "ヒメグマのツメ": {
+    "ja_name": "ヒメグマのツメ",
+    "category": "other"
+  },
+  "デルビルのキバ": {
+    "ja_name": "デルビルのキバ",
+    "category": "other"
+  },
+  "クヌギダマのから": {
+    "ja_name": "クヌギダマのから",
+    "category": "other"
+  },
+  "ラルトスのおとしもの": {
+    "ja_name": "ラルトスのおとしもの",
+    "category": "other"
+  },
+  "キャモメのはね": {
+    "ja_name": "キャモメのはね",
+    "category": "other"
+  },
+  "ムウマのなみだ": {
+    "ja_name": "ムウマのなみだ",
+    "category": "other"
+  },
+  "ヨーギラスのツメ": {
+    "ja_name": "ヨーギラスのツメ",
+    "category": "other"
+  },
+  "ノコッチのウロコ": {
+    "ja_name": "ノコッチのウロコ",
+    "category": "other"
+  },
+  "アメタマのミツ": {
+    "ja_name": "アメタマのミツ",
+    "category": "other"
+  },
+  "オドシシのけ": {
+    "ja_name": "オドシシのけ",
+    "category": "other"
+  },
+  "デリバードのにもつ": {
+    "ja_name": "デリバードのにもつ",
+    "category": "other"
+  },
+  "ナマケロのけ": {
+    "ja_name": "ナマケロのけ",
+    "category": "other"
+  },
+  "マクノシタのあせ": {
+    "ja_name": "マクノシタのあせ",
+    "category": "other"
+  },
+  "キノココのほうし": {
+    "ja_name": "キノココのほうし",
+    "category": "other"
+  },
+  "アサナンのあせ": {
+    "ja_name": "アサナンのあせ",
+    "category": "other"
+  },
+  "ルリリのけ": {
+    "ja_name": "ルリリのけ",
+    "category": "other"
+  },
+  "ドンメルのようがん": {
+    "ja_name": "ドンメルのようがん",
+    "category": "other"
+  },
+  "ヤミラミのほうせき": {
+    "ja_name": "ヤミラミのほうせき",
+    "category": "other"
+  },
+  "サボネアのトゲ": {
+    "ja_name": "サボネアのトゲ",
+    "category": "other"
+  },
+  "コータスのせきたん": {
+    "ja_name": "コータスのせきたん",
+    "category": "other"
+  },
+  "バネブーのしんじゅ": {
+    "ja_name": "バネブーのしんじゅ",
+    "category": "other"
+  },
+  "チルットのはね": {
+    "ja_name": "チルットのはね",
+    "category": "other"
+  },
+  "ハブネークのキバ": {
+    "ja_name": "ハブネークのキバ",
+    "category": "other"
+  },
+  "ドジョッチのねんえき": {
+    "ja_name": "ドジョッチのねんえき",
+    "category": "other"
+  },
+  "ゴクリンのねんえき": {
+    "ja_name": "ゴクリンのねんえき",
+    "category": "other"
+  },
+  "ユキワラシのけ": {
+    "ja_name": "ユキワラシのけ",
+    "category": "other"
+  },
+  "ゴマゾウのツメ": {
+    "ja_name": "ゴマゾウのツメ",
+    "category": "other"
+  },
+  "トロピウスのはっぱ": {
+    "ja_name": "トロピウスのはっぱ",
+    "category": "other"
+  },
+  "カゲボウズのきれはし": {
+    "ja_name": "カゲボウズのきれはし",
+    "category": "other"
+  },
+  "ラブカスのウロコ": {
+    "ja_name": "ラブカスのウロコ",
+    "category": "other"
+  },
+  "タツベイのウロコ": {
+    "ja_name": "タツベイのウロコ",
+    "category": "other"
+  },
+  "ムックルのはね": {
+    "ja_name": "ムックルのはね",
+    "category": "other"
+  },
+  "ザングースのツメ": {
+    "ja_name": "ザングースのツメ",
+    "category": "other"
+  },
+  "コロボーシのぬけがら": {
+    "ja_name": "コロボーシのぬけがら",
+    "category": "other"
+  },
+  "コリンクのキバ": {
+    "ja_name": "コリンクのキバ",
+    "category": "other"
+  },
+  "ミツハニーのミツ": {
+    "ja_name": "ミツハニーのミツ",
+    "category": "other"
+  },
+  "カラナクシのねんえき": {
+    "ja_name": "カラナクシのねんえき",
+    "category": "other"
+  },
+  "コイルのねじ": {
+    "ja_name": "コイルのねじ",
+    "category": "other"
+  },
+  "ドーミラーのかけら": {
+    "ja_name": "ドーミラーのかけら",
+    "category": "other"
+  },
+  "スカンプーのけ": {
+    "ja_name": "スカンプーのけ",
+    "category": "other"
+  },
+  "ブイゼルのけ": {
+    "ja_name": "ブイゼルのけ",
+    "category": "other"
+  },
+  "ピンプクのおとしもの": {
+    "ja_name": "ピンプクのおとしもの",
+    "category": "other"
+  },
+  "フワンテのガス": {
+    "ja_name": "フワンテのガス",
+    "category": "other"
+  },
+  "ヒポポタスのすな": {
+    "ja_name": "ヒポポタスのすな",
+    "category": "other"
+  },
+  "フカマルのウロコ": {
+    "ja_name": "フカマルのウロコ",
+    "category": "other"
+  },
+  "ミカルゲのかけら": {
+    "ja_name": "ミカルゲのかけら",
+    "category": "other"
+  },
+  "グレッグルのどくそ": {
+    "ja_name": "グレッグルのどくそ",
+    "category": "other"
+  },
+  "リオルのけ": {
+    "ja_name": "リオルのけ",
+    "category": "other"
+  },
+  "ユキカブリのみ": {
+    "ja_name": "ユキカブリのみ",
+    "category": "other"
+  },
+  "パチリスのけ": {
+    "ja_name": "パチリスのけ",
+    "category": "other"
+  },
+  "ケイコウオのウロコ": {
+    "ja_name": "ケイコウオのウロコ",
+    "category": "other"
+  },
+  "ロトムのでんき": {
+    "ja_name": "ロトムのでんき",
+    "category": "other"
+  },
+  "チュリネのはっぱ": {
+    "ja_name": "チュリネのはっぱ",
+    "category": "other"
+  },
+  "シキジカのけ": {
+    "ja_name": "シキジカのけ",
+    "category": "other"
+  },
+  "ゴチムのまつげ": {
+    "ja_name": "ゴチムのまつげ",
+    "category": "other"
+  },
+  "バスラオのキバ": {
+    "ja_name": "バスラオのキバ",
+    "category": "other"
+  },
+  "メグロコのツメ": {
+    "ja_name": "メグロコのツメ",
+    "category": "other"
+  },
+  "ウソハチのなみだ": {
+    "ja_name": "ウソハチのなみだ",
+    "category": "other"
+  },
+  "タマゲタケのほうし": {
+    "ja_name": "タマゲタケのほうし",
+    "category": "other"
+  },
+  "ゾロアのけ": {
+    "ja_name": "ゾロアのけ",
+    "category": "other"
+  },
+  "シビシラスのねんえき": {
+    "ja_name": "シビシラスのねんえき",
+    "category": "other"
+  },
+  "ママンボウのねんえき": {
+    "ja_name": "ママンボウのねんえき",
+    "category": "other"
+  },
+  "クマシュンのけ": {
+    "ja_name": "クマシュンのけ",
+    "category": "other"
+  },
+  "コマタナのやいば": {
+    "ja_name": "コマタナのやいば",
+    "category": "other"
+  },
+  "フリージオのこおり": {
+    "ja_name": "フリージオのこおり",
+    "category": "other"
+  },
+  "キバゴのウロコ": {
+    "ja_name": "キバゴのウロコ",
+    "category": "other"
+  },
+  "メラルバのけ": {
+    "ja_name": "メラルバのけ",
+    "category": "other"
+  },
+  "シシコのたてがみ": {
+    "ja_name": "シシコのたてがみ",
+    "category": "other"
+  },
+  "ヤヤコマのはね": {
+    "ja_name": "ヤヤコマのはね",
+    "category": "other"
+  },
+  "ワシボンのはね": {
+    "ja_name": "ワシボンのはね",
+    "category": "other"
+  },
+  "コフキムシのこな": {
+    "ja_name": "コフキムシのこな",
+    "category": "other"
+  },
+  "クズモーのもくず": {
+    "ja_name": "クズモーのもくず",
+    "category": "other"
+  },
+  "フラベベのかふん": {
+    "ja_name": "フラベベのかふん",
+    "category": "other"
+  },
+  "メェークルのはっぱ": {
+    "ja_name": "メェークルのはっぱ",
+    "category": "other"
+  },
+  "モノズのウロコ": {
+    "ja_name": "モノズのウロコ",
+    "category": "other"
+  },
+  "ヌメラのねんえき": {
+    "ja_name": "ヌメラのねんえき",
+    "category": "other"
+  },
+  "クレッフィのかぎ": {
+    "ja_name": "クレッフィのかぎ",
+    "category": "other"
+  },
+  "ウデッポウのハサミ": {
+    "ja_name": "ウデッポウのハサミ",
+    "category": "other"
+  },
+  "デデンネのけ": {
+    "ja_name": "デデンネのけ",
+    "category": "other"
+  },
+  "ルチャブルのうもう": {
+    "ja_name": "ルチャブルのうもう",
+    "category": "other"
+  },
+  "カチコールのこおり": {
+    "ja_name": "カチコールのこおり",
+    "category": "other"
+  },
+  "オンバットのけ": {
+    "ja_name": "オンバットのけ",
+    "category": "other"
+  },
+  "イワンコのいわ": {
+    "ja_name": "イワンコのいわ",
+    "category": "other"
+  },
+  "マケンカニのから": {
+    "ja_name": "マケンカニのから",
+    "category": "other"
+  },
+  "ヤングースのけ": {
+    "ja_name": "ヤングースのけ",
+    "category": "other"
+  },
+  "ドロバンコのどろ": {
+    "ja_name": "ドロバンコのどろ",
+    "category": "other"
+  },
+  "ヒドイデのトゲ": {
+    "ja_name": "ヒドイデのトゲ",
+    "category": "other"
+  },
+  "ヤトウモリのガス": {
+    "ja_name": "ヤトウモリのガス",
+    "category": "other"
+  },
+  "ヤレユータンのけ": {
+    "ja_name": "ヤレユータンのけ",
+    "category": "other"
+  },
+  "カリキリのはっぱ": {
+    "ja_name": "カリキリのはっぱ",
+    "category": "other"
+  },
+  "オドリドリのはね": {
+    "ja_name": "オドリドリのはね",
+    "category": "other"
+  },
+  "アマカジのあせ": {
+    "ja_name": "アマカジのあせ",
+    "category": "other"
+  },
+  "ナゲツケサルのけ": {
+    "ja_name": "ナゲツケサルのけ",
+    "category": "other"
+  },
+  "スナバァのすな": {
+    "ja_name": "スナバァのすな",
+    "category": "other"
+  },
+  "ネッコアラのツメ": {
+    "ja_name": "ネッコアラのツメ",
+    "category": "other"
+  },
+  "カムカメのツメ": {
+    "ja_name": "カムカメのツメ",
+    "category": "other"
+  },
+  "ミミッキュのきれはし": {
+    "ja_name": "ミミッキュのきれはし",
+    "category": "other"
+  },
+  "ホシガリスのけ": {
+    "ja_name": "ホシガリスのけ",
+    "category": "other"
+  },
+  "ハギギシリのは": {
+    "ja_name": "ハギギシリのは",
+    "category": "other"
+  },
+  "エレズンのでんき": {
+    "ja_name": "エレズンのでんき",
+    "category": "other"
+  },
+  "ココガラのはね": {
+    "ja_name": "ココガラのはね",
+    "category": "other"
+  },
+  "ゾウドウのさび": {
+    "ja_name": "ゾウドウのさび",
+    "category": "other"
+  },
+  "タンドンのせきたん": {
+    "ja_name": "タンドンのせきたん",
+    "category": "other"
+  },
+  "サシカマスのウロコ": {
+    "ja_name": "サシカマスのウロコ",
+    "category": "other"
+  },
+  "スナヘビのすな": {
+    "ja_name": "スナヘビのすな",
+    "category": "other"
+  },
+  "イエッサンのけ": {
+    "ja_name": "イエッサンのけ",
+    "category": "other"
+  },
+  "ベロバーのけ": {
+    "ja_name": "ベロバーのけ",
+    "category": "other"
+  },
+  "バチンウニのはり": {
+    "ja_name": "バチンウニのはり",
+    "category": "other"
+  },
+  "カジッチュのかじゅう": {
+    "ja_name": "カジッチュのかじゅう",
+    "category": "other"
+  },
+  "ミブリムのおとしもの": {
+    "ja_name": "ミブリムのおとしもの",
+    "category": "other"
+  },
+  "ユキハミのいと": {
+    "ja_name": "ユキハミのいと",
+    "category": "other"
+  },
+  "コオリッポのうもう": {
+    "ja_name": "コオリッポのうもう",
+    "category": "other"
+  },
+  "ヤバチャのかけら": {
+    "ja_name": "ヤバチャのかけら",
+    "category": "other"
+  },
+  "ドラメシヤのこな": {
+    "ja_name": "ドラメシヤのこな",
+    "category": "other"
+  },
+  "グルトンのけ": {
+    "ja_name": "グルトンのけ",
+    "category": "other"
+  },
+  "タマンチュラのいと": {
+    "ja_name": "タマンチュラのいと",
+    "category": "other"
+  },
+  "イシヘンジンのいわ": {
+    "ja_name": "イシヘンジンのいわ",
+    "category": "other"
+  },
+  "マメバッタのツメ": {
+    "ja_name": "マメバッタのツメ",
+    "category": "other"
+  },
+  "シガロコのどろ": {
+    "ja_name": "シガロコのどろ",
+    "category": "other"
+  },
+  "ボチのろう": {
+    "ja_name": "ボチのろう",
+    "category": "other"
+  },
+  "ヒラヒナのうもう": {
+    "ja_name": "ヒラヒナのうもう",
+    "category": "other"
+  },
+  "タイレーツのあせ": {
+    "ja_name": "タイレーツのあせ",
+    "category": "other"
+  },
+  "ウミディグダのすな": {
+    "ja_name": "ウミディグダのすな",
+    "category": "other"
+  },
+  "ヘイラッシャのヒゲ": {
+    "ja_name": "ヘイラッシャのヒゲ",
+    "category": "other"
+  },
+  "ミガルーサのきりみ": {
+    "ja_name": "ミガルーサのきりみ",
+    "category": "other"
+  },
+  "ミニーブのオイル": {
+    "ja_name": "ミニーブのオイル",
+    "category": "other"
+  },
+  "ブロロンのガス": {
+    "ja_name": "ブロロンのガス",
+    "category": "other"
+  },
+  "セビエのウロコ": {
+    "ja_name": "セビエのウロコ",
+    "category": "other"
+  },
+  "ナミイルカのねんえき": {
+    "ja_name": "ナミイルカのねんえき",
+    "category": "other"
+  },
+  "ズピカのねんえき": {
+    "ja_name": "ズピカのねんえき",
+    "category": "other"
+  },
+  "アルクジラのあぶら": {
+    "ja_name": "アルクジラのあぶら",
+    "category": "other"
+  },
+  "カプサイジのたね": {
+    "ja_name": "カプサイジのたね",
+    "category": "other"
+  },
+  "モトトカゲのウロコ": {
+    "ja_name": "モトトカゲのウロコ",
+    "category": "other"
+  },
+  "シャリタツのウロコ": {
+    "ja_name": "シャリタツのウロコ",
+    "category": "other"
+  },
+  "ワッカネズミのけ": {
+    "ja_name": "ワッカネズミのけ",
+    "category": "other"
+  },
+  "ミミズズのさび": {
+    "ja_name": "ミミズズのさび",
+    "category": "other"
+  },
+  "パモのけ": {
+    "ja_name": "パモのけ",
+    "category": "other"
+  },
+  "オトシドリのはね": {
+    "ja_name": "オトシドリのはね",
+    "category": "other"
+  },
+  "カラミンゴのうもう": {
+    "ja_name": "カラミンゴのうもう",
+    "category": "other"
+  },
+  "カイデンのはね": {
+    "ja_name": "カイデンのはね",
+    "category": "other"
+  },
+  "シルシュルーのインク": {
+    "ja_name": "シルシュルーのインク",
+    "category": "other"
+  },
+  "コジオのしお": {
+    "ja_name": "コジオのしお",
+    "category": "other"
+  },
+  "キラーメのけっしょう": {
+    "ja_name": "キラーメのけっしょう",
+    "category": "other"
+  },
+  "ガケガニのハサミ": {
+    "ja_name": "ガケガニのハサミ",
+    "category": "other"
+  },
+  "カルボウのすす": {
+    "ja_name": "カルボウのすす",
+    "category": "other"
+  },
+  "イキリンコのはね": {
+    "ja_name": "イキリンコのはね",
+    "category": "other"
+  },
+  "パピモッチのけ": {
+    "ja_name": "パピモッチのけ",
+    "category": "other"
+  },
+  "ノノクラゲのヒラヒラ": {
+    "ja_name": "ノノクラゲのヒラヒラ",
+    "category": "other"
+  },
+  "アノクサのえだ": {
+    "ja_name": "アノクサのえだ",
+    "category": "other"
+  },
+  "カヌチャンのけ": {
+    "ja_name": "カヌチャンのけ",
+    "category": "other"
+  },
+  "オラチフのキバ": {
+    "ja_name": "オラチフのキバ",
+    "category": "other"
+  },
+  "コレクレーのコイン": {
+    "ja_name": "コレクレーのコイン",
+    "category": "other"
+  },
+  "わざマシン１０１": {
+    "ja_name": "わざマシン１０１",
+    "category": "other"
+  },
+  "わざマシン１０３": {
+    "ja_name": "わざマシン１０３",
+    "category": "other"
+  },
+  "ウパーのねんえき": {
+    "ja_name": "ウパーのねんえき",
+    "category": "other"
+  },
+  "わざマシン１０２": {
+    "ja_name": "わざマシン１０２",
+    "category": "other"
+  },
+  "わざマシン１０４": {
+    "ja_name": "わざマシン１０４",
+    "category": "other"
+  },
+  "わざマシン１０８": {
+    "ja_name": "わざマシン１０８",
+    "category": "other"
+  },
+  "わざマシン１０７": {
+    "ja_name": "わざマシン１０７",
+    "category": "other"
+  },
+  "わざマシン１０９": {
+    "ja_name": "わざマシン１０９",
+    "category": "other"
+  },
+  "わざマシン１０５": {
+    "ja_name": "わざマシン１０５",
+    "category": "other"
+  },
+  "わざマシン１１１": {
+    "ja_name": "わざマシン１１１",
+    "category": "other"
+  },
+  "わざマシン１１０": {
+    "ja_name": "わざマシン１１０",
+    "category": "other"
+  },
+  "わざマシン１１４": {
+    "ja_name": "わざマシン１１４",
+    "category": "other"
+  },
+  "わざマシン１１３": {
+    "ja_name": "わざマシン１１３",
+    "category": "other"
+  },
+  "わざマシン１１２": {
+    "ja_name": "わざマシン１１２",
+    "category": "other"
+  },
+  "わざマシン１１５": {
+    "ja_name": "わざマシン１１５",
+    "category": "other"
+  },
+  "わざマシン１０６": {
+    "ja_name": "わざマシン１０６",
+    "category": "other"
+  },
+  "わざマシン１１６": {
+    "ja_name": "わざマシン１１６",
+    "category": "other"
+  },
+  "わざマシン１１８": {
+    "ja_name": "わざマシン１１８",
+    "category": "other"
+  },
+  "わざマシン１１９": {
+    "ja_name": "わざマシン１１９",
+    "category": "other"
+  },
+  "わざマシン１１７": {
+    "ja_name": "わざマシン１１７",
+    "category": "other"
+  },
+  "わざマシン１２１": {
+    "ja_name": "わざマシン１２１",
+    "category": "other"
+  },
+  "わざマシン１２０": {
+    "ja_name": "わざマシン１２０",
+    "category": "other"
+  },
+  "わざマシン１２２": {
+    "ja_name": "わざマシン１２２",
+    "category": "other"
+  },
+  "わざマシン１２５": {
+    "ja_name": "わざマシン１２５",
+    "category": "other"
+  },
+  "わざマシン１２３": {
+    "ja_name": "わざマシン１２３",
+    "category": "other"
+  },
+  "わざマシン１２６": {
+    "ja_name": "わざマシン１２６",
+    "category": "other"
+  },
+  "わざマシン１２４": {
+    "ja_name": "わざマシン１２４",
+    "category": "other"
+  },
+  "わざマシン１２８": {
+    "ja_name": "わざマシン１２８",
+    "category": "other"
+  },
+  "わざマシン１２９": {
+    "ja_name": "わざマシン１２９",
+    "category": "other"
+  },
+  "わざマシン１３０": {
+    "ja_name": "わざマシン１３０",
+    "category": "other"
+  },
+  "わざマシン１２７": {
+    "ja_name": "わざマシン１２７",
+    "category": "other"
+  },
+  "わざマシン１３３": {
+    "ja_name": "わざマシン１３３",
+    "category": "other"
+  },
+  "わざマシン１３４": {
+    "ja_name": "わざマシン１３４",
+    "category": "other"
+  },
+  "わざマシン１３８": {
+    "ja_name": "わざマシン１３８",
+    "category": "other"
+  },
+  "わざマシン１３１": {
+    "ja_name": "わざマシン１３１",
+    "category": "other"
+  },
+  "わざマシン１３２": {
+    "ja_name": "わざマシン１３２",
+    "category": "other"
+  },
+  "わざマシン１３６": {
+    "ja_name": "わざマシン１３６",
+    "category": "other"
+  },
+  "わざマシン１３５": {
+    "ja_name": "わざマシン１３５",
+    "category": "other"
+  },
+  "わざマシン１４２": {
+    "ja_name": "わざマシン１４２",
+    "category": "other"
+  },
+  "わざマシン１４１": {
+    "ja_name": "わざマシン１４１",
+    "category": "other"
+  },
+  "わざマシン１３７": {
+    "ja_name": "わざマシン１３７",
+    "category": "other"
+  },
+  "わざマシン１４０": {
+    "ja_name": "わざマシン１４０",
+    "category": "other"
+  },
+  "わざマシン１４３": {
+    "ja_name": "わざマシン１４３",
+    "category": "other"
+  },
+  "わざマシン１３９": {
+    "ja_name": "わざマシン１３９",
+    "category": "other"
+  },
+  "わざマシン１４４": {
+    "ja_name": "わざマシン１４４",
+    "category": "other"
+  },
+  "わざマシン１４６": {
+    "ja_name": "わざマシン１４６",
+    "category": "other"
+  },
+  "わざマシン１４５": {
+    "ja_name": "わざマシン１４５",
+    "category": "other"
+  },
+  "わざマシン１４８": {
+    "ja_name": "わざマシン１４８",
+    "category": "other"
+  },
+  "わざマシン１４７": {
+    "ja_name": "わざマシン１４７",
+    "category": "other"
+  },
+  "わざマシン１５４": {
+    "ja_name": "わざマシン１５４",
+    "category": "other"
+  },
+  "わざマシン１４９": {
+    "ja_name": "わざマシン１４９",
+    "category": "other"
+  },
+  "わざマシン１５３": {
+    "ja_name": "わざマシン１５３",
+    "category": "other"
+  },
+  "わざマシン１５２": {
+    "ja_name": "わざマシン１５２",
+    "category": "other"
+  },
+  "わざマシン１５５": {
+    "ja_name": "わざマシン１５５",
+    "category": "other"
+  },
+  "わざマシン１５６": {
+    "ja_name": "わざマシン１５６",
+    "category": "other"
+  },
+  "わざマシン１５８": {
+    "ja_name": "わざマシン１５８",
+    "category": "other"
+  },
+  "わざマシン１５０": {
+    "ja_name": "わざマシン１５０",
+    "category": "other"
+  },
+  "わざマシン１６２": {
+    "ja_name": "わざマシン１６２",
+    "category": "other"
+  },
+  "わざマシン１５９": {
+    "ja_name": "わざマシン１５９",
+    "category": "other"
+  },
+  "わざマシン１５１": {
+    "ja_name": "わざマシン１５１",
+    "category": "other"
+  },
+  "わざマシン１６１": {
+    "ja_name": "わざマシン１６１",
+    "category": "other"
+  },
+  "わざマシン１６０": {
+    "ja_name": "わざマシン１６０",
+    "category": "other"
+  },
+  "わざマシン１６５": {
+    "ja_name": "わざマシン１６５",
+    "category": "other"
+  },
+  "わざマシン１６６": {
+    "ja_name": "わざマシン１６６",
+    "category": "other"
+  },
+  "わざマシン１６４": {
+    "ja_name": "わざマシン１６４",
+    "category": "other"
+  },
+  "わざマシン１５７": {
+    "ja_name": "わざマシン１５７",
+    "category": "other"
+  },
+  "わざマシン１６３": {
+    "ja_name": "わざマシン１６３",
+    "category": "other"
+  },
+  "わざマシン１６７": {
+    "ja_name": "わざマシン１６７",
+    "category": "other"
+  },
+  "わざマシン１６９": {
+    "ja_name": "わざマシン１６９",
+    "category": "other"
+  },
+  "わざマシン１６８": {
+    "ja_name": "わざマシン１６８",
+    "category": "other"
+  },
+  "ダイヤボトル": {
+    "ja_name": "ダイヤボトル",
+    "category": "other"
+  },
+  "わざマシン１７１": {
+    "ja_name": "わざマシン１７１",
+    "category": "other"
+  },
+  "みずたまボトル": {
+    "ja_name": "みずたまボトル",
+    "category": "other"
+  },
+  "スクールカップ": {
+    "ja_name": "スクールカップ",
+    "category": "other"
+  },
+  "わざマシン１７０": {
+    "ja_name": "わざマシン１７０",
+    "category": "other"
+  },
+  "ストライプボトル": {
+    "ja_name": "ストライプボトル",
+    "category": "other"
+  },
+  "みずたまカップ": {
+    "ja_name": "みずたまカップ",
+    "category": "other"
+  },
+  "スクールボトル": {
+    "ja_name": "スクールボトル",
+    "category": "other"
+  },
+  "フラワーカップ": {
+    "ja_name": "フラワーカップ",
+    "category": "other"
+  },
+  "ネイチャークロス": {
+    "ja_name": "ネイチャークロス",
+    "category": "other"
+  },
+  "うらめしクロス": {
+    "ja_name": "うらめしクロス",
+    "category": "other"
+  },
+  "たてストライプカップ": {
+    "ja_name": "たてストライプカップ",
+    "category": "other"
+  },
+  "スクールボール": {
+    "ja_name": "スクールボール",
+    "category": "other"
+  },
+  "ファンシークロス": {
+    "ja_name": "ファンシークロス",
+    "category": "other"
+  },
+  "スクールクロス": {
+    "ja_name": "スクールクロス",
+    "category": "other"
+  },
+  "マリルボール": {
+    "ja_name": "マリルボール",
+    "category": "other"
+  },
+  "けいとボール": {
+    "ja_name": "けいとボール",
+    "category": "other"
+  },
+  "ピクニックセット": {
+    "ja_name": "ピクニックセット",
+    "category": "other"
+  },
+  "ゲーミングボール": {
+    "ja_name": "ゲーミングボール",
+    "category": "other"
+  },
+  "ゴールドピック": {
+    "ja_name": "ゴールドピック",
+    "category": "other"
+  },
+  "シルバーピック": {
+    "ja_name": "シルバーピック",
+    "category": "other"
+  },
+  "あおいはたピック": {
+    "ja_name": "あおいはたピック",
+    "category": "other"
+  },
+  "パチピカピック": {
+    "ja_name": "パチピカピック",
+    "category": "other"
+  },
+  "ブイブイピック": {
+    "ja_name": "ブイブイピック",
+    "category": "other"
+  },
+  "ニコブイピック": {
+    "ja_name": "ニコブイピック",
+    "category": "other"
+  },
+  "ピカピカピック": {
+    "ja_name": "ピカピカピック",
+    "category": "other"
+  },
+  "かしらのしるし": {
+    "ja_name": "かしらのしるし",
+    "category": "other"
+  },
+  "あかいはたピック": {
+    "ja_name": "あかいはたピック",
+    "category": "other"
+  },
+  "イワイノヨロイ": {
+    "ja_name": "イワイノヨロイ",
+    "category": "other"
+  },
+  "あおボールピック": {
+    "ja_name": "あおボールピック",
+    "category": "other"
+  },
+  "ピンクボトル": {
+    "ja_name": "ピンクボトル",
+    "category": "other"
+  },
+  "イエローボトル": {
+    "ja_name": "イエローボトル",
+    "category": "other"
+  },
+  "ブルーボトル": {
+    "ja_name": "ブルーボトル",
+    "category": "other"
+  },
+  "Yステンレスボトル": {
+    "ja_name": "Yステンレスボトル",
+    "category": "other"
+  },
+  "Rステンレスボトル": {
+    "ja_name": "Rステンレスボトル",
+    "category": "other"
+  },
+  "よこストライプカップ": {
+    "ja_name": "よこストライプカップ",
+    "category": "other"
+  },
+  "Bステンレスボトル": {
+    "ja_name": "Bステンレスボトル",
+    "category": "other"
+  },
+  "シルバーチタンボトル": {
+    "ja_name": "シルバーチタンボトル",
+    "category": "other"
+  },
+  "ピカチュウカップ": {
+    "ja_name": "ピカチュウカップ",
+    "category": "other"
+  },
+  "ダイヤカップ": {
+    "ja_name": "ダイヤカップ",
+    "category": "other"
+  },
+  "イエローカップ": {
+    "ja_name": "イエローカップ",
+    "category": "other"
+  },
+  "ファイヤーカップ": {
+    "ja_name": "ファイヤーカップ",
+    "category": "other"
+  },
+  "イーブイカップ": {
+    "ja_name": "イーブイカップ",
+    "category": "other"
+  },
+  "ブルーカップ": {
+    "ja_name": "ブルーカップ",
+    "category": "other"
+  },
+  "きいろチェッククロス": {
+    "ja_name": "きいろチェッククロス",
+    "category": "other"
+  },
+  "ピンクカップ": {
+    "ja_name": "ピンクカップ",
+    "category": "other"
+  },
+  "ヤドンカップ": {
+    "ja_name": "ヤドンカップ",
+    "category": "other"
+  },
+  "あかチェッククロス": {
+    "ja_name": "あかチェッククロス",
+    "category": "other"
+  },
+  "シルバーチタンカップ": {
+    "ja_name": "シルバーチタンカップ",
+    "category": "other"
+  },
+  "くさむらモノクロス": {
+    "ja_name": "くさむらモノクロス",
+    "category": "other"
+  },
+  "あおチェッククロス": {
+    "ja_name": "あおチェッククロス",
+    "category": "other"
+  },
+  "バランスボール": {
+    "ja_name": "バランスボール",
+    "category": "other"
+  },
+  "しょうぶクロス": {
+    "ja_name": "しょうぶクロス",
+    "category": "other"
+  },
+  "かいじゅうクロス": {
+    "ja_name": "かいじゅうクロス",
+    "category": "other"
+  },
+  "ストライプクロス": {
+    "ja_name": "ストライプクロス",
+    "category": "other"
+  },
+  "みずたまクロス": {
+    "ja_name": "みずたまクロス",
+    "category": "other"
+  },
+  "ダイヤクロス": {
+    "ja_name": "ダイヤクロス",
+    "category": "other"
+  },
+  "パープルクロス": {
+    "ja_name": "パープルクロス",
+    "category": "other"
+  },
+  "ミントクロス": {
+    "ja_name": "ミントクロス",
+    "category": "other"
+  },
+  "ベージュクロス": {
+    "ja_name": "ベージュクロス",
+    "category": "other"
+  },
+  "ブルークロス": {
+    "ja_name": "ブルークロス",
+    "category": "other"
+  },
+  "ゴールドチタンカップ": {
+    "ja_name": "ゴールドチタンカップ",
+    "category": "other"
+  },
+  "ゴールドチタンボトル": {
+    "ja_name": "ゴールドチタンボトル",
+    "category": "other"
+  },
+  "ピンククロス": {
+    "ja_name": "ピンククロス",
+    "category": "other"
+  },
+  "ゆうしゃのけんピック": {
+    "ja_name": "ゆうしゃのけんピック",
+    "category": "other"
+  },
+  "ブロンズチタンボトル": {
+    "ja_name": "ブロンズチタンボトル",
+    "category": "other"
+  },
+  "みどりボールピック": {
+    "ja_name": "みどりボールピック",
+    "category": "other"
+  },
+  "あおぞらおはなピック": {
+    "ja_name": "あおぞらおはなピック",
+    "category": "other"
+  },
+  "イエロークロス": {
+    "ja_name": "イエロークロス",
+    "category": "other"
+  },
+  "マジカルハートピック": {
+    "ja_name": "マジカルハートピック",
+    "category": "other"
+  },
+  "あかボールピック": {
+    "ja_name": "あかボールピック",
+    "category": "other"
+  },
+  "ゆうやけおはなピック": {
+    "ja_name": "ゆうやけおはなピック",
+    "category": "other"
+  },
+  "マジカルスターピック": {
+    "ja_name": "マジカルスターピック",
+    "category": "other"
+  },
+  "パラソルピック": {
+    "ja_name": "パラソルピック",
+    "category": "other"
+  },
+  "ブロンズチタンカップ": {
+    "ja_name": "ブロンズチタンカップ",
+    "category": "other"
+  },
+  "ブループレート": {
+    "ja_name": "ブループレート",
+    "category": "other"
+  },
+  "グリーンプレート": {
+    "ja_name": "グリーンプレート",
+    "category": "other"
+  },
+  "あさやけおはなピック": {
+    "ja_name": "あさやけおはなピック",
+    "category": "other"
+  },
+  "レッドプレート": {
+    "ja_name": "レッドプレート",
+    "category": "other"
+  },
+  "オレンジプレート": {
+    "ja_name": "オレンジプレート",
+    "category": "other"
+  },
+  "おいわいはなびピック": {
+    "ja_name": "おいわいはなびピック",
+    "category": "other"
+  },
+  "イエロープレート": {
+    "ja_name": "イエロープレート",
+    "category": "other"
+  },
+  "ホワイトプレート": {
+    "ja_name": "ホワイトプレート",
+    "category": "other"
+  },
+  "けっしょうのかけら": {
+    "ja_name": "けっしょうのかけら",
+    "category": "other"
+  },
+  "ロトりぼう": {
+    "ja_name": "ロトりぼう",
+    "category": "other"
+  },
+  "きらめくおまもり": {
+    "ja_name": "きらめくおまもり",
+    "category": "other"
+  },
+  "みどりのめん": {
+    "ja_name": "みどりのめん",
+    "category": "other"
+  },
+  "ようせいのハネ": {
+    "ja_name": "ようせいのハネ",
+    "category": "other"
+  },
+  "おしゃれカードみどり": {
+    "ja_name": "おしゃれカードみどり",
+    "category": "other"
+  },
+  "いどのめん": {
+    "ja_name": "いどのめん",
+    "category": "other"
+  },
+  "いしずえのめん": {
+    "ja_name": "いしずえのめん",
+    "category": "other"
+  },
+  "ボンサクのちゃわん": {
+    "ja_name": "ボンサクのちゃわん",
+    "category": "other"
+  },
+  "みついりりんご": {
+    "ja_name": "みついりりんご",
+    "category": "other"
+  },
+  "たいりょくのもち": {
+    "ja_name": "たいりょくのもち",
+    "category": "other"
+  },
+  "ていこうのもち": {
+    "ja_name": "ていこうのもち",
+    "category": "other"
+  },
+  "かまどのめん": {
+    "ja_name": "かまどのめん",
+    "category": "other"
+  },
+  "しゅんぱつのもち": {
+    "ja_name": "しゅんぱつのもち",
+    "category": "other"
+  },
+  "ちりょくのもち": {
+    "ja_name": "ちりょくのもち",
+    "category": "other"
+  },
+  "きんりょくのもち": {
+    "ja_name": "きんりょくのもち",
+    "category": "other"
+  },
+  "まっさらもち": {
+    "ja_name": "まっさらもち",
+    "category": "other"
+  },
+  "せいしんのもち": {
+    "ja_name": "せいしんのもち",
+    "category": "other"
+  },
+  "アーボのきば": {
+    "ja_name": "アーボのきば",
+    "category": "other"
+  },
+  "サンドのツメ": {
+    "ja_name": "サンドのツメ",
+    "category": "other"
+  },
+  "マダツボミのツル": {
+    "ja_name": "マダツボミのツル",
+    "category": "other"
+  },
+  "ニョロモのめんえき": {
+    "ja_name": "ニョロモのめんえき",
+    "category": "other"
+  },
+  "ピィのけ": {
+    "ja_name": "ピィのけ",
+    "category": "other"
+  },
+  "ロコンのけ": {
+    "ja_name": "ロコンのけ",
+    "category": "other"
+  },
+  "イトマルのいと": {
+    "ja_name": "イトマルのいと",
+    "category": "other"
+  },
+  "エイパムのけ": {
+    "ja_name": "エイパムのけ",
+    "category": "other"
+  },
+  "オタチのけ": {
+    "ja_name": "オタチのけ",
+    "category": "other"
+  },
+  "ホーホーのはね": {
+    "ja_name": "ホーホーのはね",
+    "category": "other"
+  },
+  "ゴンベのキバ": {
+    "ja_name": "ゴンベのキバ",
+    "category": "other"
+  },
+  "グライガーのキバ": {
+    "ja_name": "グライガーのキバ",
+    "category": "other"
+  },
+  "ウリムーのけ": {
+    "ja_name": "ウリムーのけ",
+    "category": "other"
+  },
+  "ヤンヤンマのトゲ": {
+    "ja_name": "ヤンヤンマのトゲ",
+    "category": "other"
+  },
+  "ポチエナのキバ": {
+    "ja_name": "ポチエナのキバ",
+    "category": "other"
+  },
+  "ノズパスのかけら": {
+    "ja_name": "ノズパスのかけら",
+    "category": "other"
+  },
+  "イシツブテのかけら": {
+    "ja_name": "イシツブテのかけら",
+    "category": "other"
+  },
+  "マグマッグのようがん": {
+    "ja_name": "マグマッグのようがん",
+    "category": "other"
+  },
+  "タネボーのえだ": {
+    "ja_name": "タネボーのえだ",
+    "category": "other"
+  },
+  "バルビートのしる": {
+    "ja_name": "バルビートのしる",
+    "category": "other"
+  },
+  "ハスボーのはっぱ": {
+    "ja_name": "ハスボーのはっぱ",
+    "category": "other"
+  },
+  "ヒンバスのうろこ": {
+    "ja_name": "ヒンバスのうろこ",
+    "category": "other"
+  },
+  "ヘイガニのから": {
+    "ja_name": "ヘイガニのから",
+    "category": "other"
+  },
+  "リーシャンのかけら": {
+    "ja_name": "リーシャンのかけら",
+    "category": "other"
+  },
+  "イルミーゼのしる": {
+    "ja_name": "イルミーゼのしる",
+    "category": "other"
+  },
+  "クルミルのはっぱ": {
+    "ja_name": "クルミルのはっぱ",
+    "category": "other"
+  },
+  "ヨマワルのかけら": {
+    "ja_name": "ヨマワルのかけら",
+    "category": "other"
+  },
+  "ドッコラーのあせ": {
+    "ja_name": "ドッコラーのあせ",
+    "category": "other"
+  },
+  "バルチャイのはね": {
+    "ja_name": "バルチャイのはね",
+    "category": "other"
+  },
+  "ヒトモシのすす": {
+    "ja_name": "ヒトモシのすす",
+    "category": "other"
+  },
+  "コジョフーのツメ": {
+    "ja_name": "コジョフーのツメ",
+    "category": "other"
+  },
+  "ドガースのガス": {
+    "ja_name": "ドガースのガス",
+    "category": "other"
+  },
+  "コアルヒーのはね": {
+    "ja_name": "コアルヒーのはね",
+    "category": "other"
+  },
+  "ジャラコのウロコ": {
+    "ja_name": "ジャラコのウロコ",
+    "category": "other"
+  },
+  "アブリーのこな": {
+    "ja_name": "アブリーのこな",
+    "category": "other"
+  },
+  "メレシーのほうせき": {
+    "ja_name": "メレシーのほうせき",
+    "category": "other"
+  },
+  "ウッウのうもう": {
+    "ja_name": "ウッウのうもう",
+    "category": "other"
+  },
+  "ボクレーのえだ": {
+    "ja_name": "ボクレーのえだ",
+    "category": "other"
+  },
+  " つながりのヒモ": {
+    "ja_name": " つながりのヒモ",
+    "category": "other"
+  },
+  "アゴジムシのいと": {
+    "ja_name": "アゴジムシのいと",
+    "category": "other"
+  },
+  "チャデスのこな": {
+    "ja_name": "チャデスのこな",
+    "category": "other"
+  },
+  "わざマシン１７４": {
+    "ja_name": "わざマシン１７４",
+    "category": "other"
+  },
+  "モルペコのたね": {
+    "ja_name": "モルペコのたね",
+    "category": "other"
+  },
+  "わざマシン１７２": {
+    "ja_name": "わざマシン１７２",
+    "category": "other"
+  },
+  "わざマシン１７３": {
+    "ja_name": "わざマシン１７３",
+    "category": "other"
+  },
+  "わざマシン１７６": {
+    "ja_name": "わざマシン１７６",
+    "category": "other"
+  },
+  "わざマシン１７７": {
+    "ja_name": "わざマシン１７７",
+    "category": "other"
+  },
+  "わざマシン１７９": {
+    "ja_name": "わざマシン１７９",
+    "category": "other"
+  },
+  "わざマシン１８２": {
+    "ja_name": "わざマシン１８２",
+    "category": "other"
+  },
+  "わざマシン１７８": {
+    "ja_name": "わざマシン１７８",
+    "category": "other"
+  },
+  "わざマシン１７５": {
+    "ja_name": "わざマシン１７５",
+    "category": "other"
+  },
+  "わざマシン１８４": {
+    "ja_name": "わざマシン１８４",
+    "category": "other"
+  },
+  "わざマシン１８３": {
+    "ja_name": "わざマシン１８３",
+    "category": "other"
+  },
+  "わざマシン１８１": {
+    "ja_name": "わざマシン１８１",
+    "category": "other"
+  },
+  "わざマシン１８５": {
+    "ja_name": "わざマシン１８５",
+    "category": "other"
+  },
+  "わざマシン１８６": {
+    "ja_name": "わざマシン１８６",
+    "category": "other"
+  },
+  "わざマシン１８８": {
+    "ja_name": "わざマシン１８８",
+    "category": "other"
+  },
+  "わざマシン１８９": {
+    "ja_name": "わざマシン１８９",
+    "category": "other"
+  },
+  "わざマシン１８７": {
+    "ja_name": "わざマシン１８７",
+    "category": "other"
+  },
+  "わざマシン１９１": {
+    "ja_name": "わざマシン１９１",
+    "category": "other"
+  },
+  "わざマシン１９２": {
+    "ja_name": "わざマシン１９２",
+    "category": "other"
+  },
+  "わざマシン１９０": {
+    "ja_name": "わざマシン１９０",
+    "category": "other"
+  },
+  "わざマシン１９３": {
+    "ja_name": "わざマシン１９３",
+    "category": "other"
+  },
+  "わざマシン１９４": {
+    "ja_name": "わざマシン１９４",
+    "category": "other"
+  },
+  "わざマシン１９５": {
+    "ja_name": "わざマシン１９５",
+    "category": "other"
+  },
+  "わざマシン１９７": {
+    "ja_name": "わざマシン１９７",
+    "category": "other"
+  },
+  "わざマシン１９９": {
+    "ja_name": "わざマシン１９９",
+    "category": "other"
+  },
+  "わざマシン１９６": {
+    "ja_name": "わざマシン１９６",
+    "category": "other"
+  },
+  "わざマシン１８０": {
+    "ja_name": "わざマシン１８０",
+    "category": "other"
+  },
+  "わざマシン１９８": {
+    "ja_name": "わざマシン１９８",
+    "category": "other"
+  },
+  "わざマシン２０２": {
+    "ja_name": "わざマシン２０２",
+    "category": "other"
+  },
+  "わざマシン２００": {
+    "ja_name": "わざマシン２００",
+    "category": "other"
+  },
+  "わざマシン２０１": {
+    "ja_name": "わざマシン２０１",
+    "category": "other"
+  },
+  "わざマシン２０４": {
+    "ja_name": "わざマシン２０４",
+    "category": "other"
+  },
+  "わざマシン２０５": {
+    "ja_name": "わざマシン２０５",
+    "category": "other"
+  },
+  "わざマシン２０３": {
+    "ja_name": "わざマシン２０３",
+    "category": "other"
+  },
+  "わざマシン２１１": {
+    "ja_name": "わざマシン２１１",
+    "category": "other"
+  },
+  "わざマシン２０８": {
+    "ja_name": "わざマシン２０８",
+    "category": "other"
+  },
+  "わざマシン２０９": {
+    "ja_name": "わざマシン２０９",
+    "category": "other"
+  },
+  "わざマシン２１２": {
+    "ja_name": "わざマシン２１２",
+    "category": "other"
+  },
+  "わざマシン２０７": {
+    "ja_name": "わざマシン２０７",
+    "category": "other"
+  },
+  "わざマシン２１０": {
+    "ja_name": "わざマシン２１０",
+    "category": "other"
+  },
+  "わざマシン２１８": {
+    "ja_name": "わざマシン２１８",
+    "category": "other"
+  },
+  "わざマシン２１９": {
+    "ja_name": "わざマシン２１９",
+    "category": "other"
+  },
+  "わざマシン２１３": {
+    "ja_name": "わざマシン２１３",
+    "category": "other"
+  },
+  "わざマシン２１５": {
+    "ja_name": "わざマシン２１５",
+    "category": "other"
+  },
+  "わざマシン２０６": {
+    "ja_name": "わざマシン２０６",
+    "category": "other"
+  },
+  "わざマシン２１４": {
+    "ja_name": "わざマシン２１４",
+    "category": "other"
+  },
+  "わざマシン２２２": {
+    "ja_name": "わざマシン２２２",
+    "category": "other"
+  },
+  "わざマシン２１７": {
+    "ja_name": "わざマシン２１７",
+    "category": "other"
+  },
+  "わざマシン２２０": {
+    "ja_name": "わざマシン２２０",
+    "category": "other"
+  },
+  "わざマシン２２１": {
+    "ja_name": "わざマシン２２１",
+    "category": "other"
+  },
+  "わざマシン２１６": {
+    "ja_name": "わざマシン２１６",
+    "category": "other"
+  },
+  "わざマシン２２３": {
+    "ja_name": "わざマシン２２３",
+    "category": "other"
+  },
+  "わざマシン２２４": {
+    "ja_name": "わざマシン２２４",
+    "category": "other"
+  },
+  "わざマシン２２６": {
+    "ja_name": "わざマシン２２６",
+    "category": "other"
+  },
+  "わざマシン２２９": {
+    "ja_name": "わざマシン２２９",
+    "category": "other"
+  },
+  "わざマシン２２５": {
+    "ja_name": "わざマシン２２５",
+    "category": "other"
+  },
+  "わざマシン２２７": {
+    "ja_name": "わざマシン２２７",
+    "category": "other"
+  },
+  "わざマシン２２８": {
+    "ja_name": "わざマシン２２８",
+    "category": "other"
+  }
+}

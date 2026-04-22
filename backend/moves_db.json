@@ -1,0 +1,6309 @@
+{
+  "からてチョップ": {
+    "ja_name": "からてチョップ",
+    "power": 50,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "メガトンパンチ": {
+    "ja_name": "メガトンパンチ",
+    "power": 80,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "おうふくビンタ": {
+    "ja_name": "おうふくビンタ",
+    "power": 15,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "はたく": {
+    "ja_name": "はたく",
+    "power": 40,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "いあいぎり": {
+    "ja_name": "いあいぎり",
+    "power": 50,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "つばさでうつ": {
+    "ja_name": "つばさでうつ",
+    "power": 60,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "つるぎのまい": {
+    "ja_name": "つるぎのまい",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "かまいたち": {
+    "ja_name": "かまいたち",
+    "power": 80,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "れいとうパンチ": {
+    "ja_name": "れいとうパンチ",
+    "power": 75,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ネコにこばん": {
+    "ja_name": "ネコにこばん",
+    "power": 40,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "かぜおこし": {
+    "ja_name": "かぜおこし",
+    "power": 40,
+    "type": "flying",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "れんぞくパンチ": {
+    "ja_name": "れんぞくパンチ",
+    "power": 18,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "ほのおのパンチ": {
+    "ja_name": "ほのおのパンチ",
+    "power": 75,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ふきとばし": {
+    "ja_name": "ふきとばし",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ハサミギロチン": {
+    "ja_name": "ハサミギロチン",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 30
+  },
+  "そらをとぶ": {
+    "ja_name": "そらをとぶ",
+    "power": 90,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "しめつける": {
+    "ja_name": "しめつける",
+    "power": 15,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "かみなりパンチ": {
+    "ja_name": "かみなりパンチ",
+    "power": 75,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "たたきつける": {
+    "ja_name": "たたきつける",
+    "power": 80,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 75
+  },
+  "ふみつけ": {
+    "ja_name": "ふみつけ",
+    "power": 65,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "メガトンキック": {
+    "ja_name": "メガトンキック",
+    "power": 120,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 75
+  },
+  "まわしげり": {
+    "ja_name": "まわしげり",
+    "power": 60,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "にどげり": {
+    "ja_name": "にどげり",
+    "power": 30,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ずつき": {
+    "ja_name": "ずつき",
+    "power": 70,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "みだれづき": {
+    "ja_name": "みだれづき",
+    "power": 15,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "とびげり": {
+    "ja_name": "とびげり",
+    "power": 100,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "すなかけ": {
+    "ja_name": "すなかけ",
+    "power": null,
+    "type": "ground",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "すてみタックル": {
+    "ja_name": "すてみタックル",
+    "power": 120,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "とっしん": {
+    "ja_name": "とっしん",
+    "power": 90,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "たいあたり": {
+    "ja_name": "たいあたり",
+    "power": 40,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "のしかかり": {
+    "ja_name": "のしかかり",
+    "power": 85,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "つるのムチ": {
+    "ja_name": "つるのムチ",
+    "power": 45,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "つのドリル": {
+    "ja_name": "つのドリル",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 30
+  },
+  "つのでつく": {
+    "ja_name": "つのでつく",
+    "power": 65,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ダブルニードル": {
+    "ja_name": "ダブルニードル",
+    "power": 25,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "どくばり": {
+    "ja_name": "どくばり",
+    "power": 15,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "かみつく": {
+    "ja_name": "かみつく",
+    "power": 60,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ほえる": {
+    "ja_name": "ほえる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "にらみつける": {
+    "ja_name": "にらみつける",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ちょうおんぱ": {
+    "ja_name": "ちょうおんぱ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 55
+  },
+  "なきごえ": {
+    "ja_name": "なきごえ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ようかいえき": {
+    "ja_name": "ようかいえき",
+    "power": 40,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ソニックブーム": {
+    "ja_name": "ソニックブーム",
+    "power": null,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "しろいきり": {
+    "ja_name": "しろいきり",
+    "power": null,
+    "type": "ice",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "かえんほうしゃ": {
+    "ja_name": "かえんほうしゃ",
+    "power": 90,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "れいとうビーム": {
+    "ja_name": "れいとうビーム",
+    "power": 90,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "サイケこうせん": {
+    "ja_name": "サイケこうせん",
+    "power": 65,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ハイドロポンプ": {
+    "ja_name": "ハイドロポンプ",
+    "power": 110,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 80
+  },
+  "ふぶき": {
+    "ja_name": "ふぶき",
+    "power": 110,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 70
+  },
+  "つつく": {
+    "ja_name": "つつく",
+    "power": 35,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "オーロラビーム": {
+    "ja_name": "オーロラビーム",
+    "power": 65,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "じごくぐるま": {
+    "ja_name": "じごくぐるま",
+    "power": 80,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 80
+  },
+  "はかいこうせん": {
+    "ja_name": "はかいこうせん",
+    "power": 150,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "けたぐり": {
+    "ja_name": "けたぐり",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ちきゅうなげ": {
+    "ja_name": "ちきゅうなげ",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "カウンター": {
+    "ja_name": "カウンター",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "かいりき": {
+    "ja_name": "かいりき",
+    "power": 80,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "すいとる": {
+    "ja_name": "すいとる",
+    "power": 20,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "せいちょう": {
+    "ja_name": "せいちょう",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "あばれる": {
+    "ja_name": "あばれる",
+    "power": 120,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "やどりぎのタネ": {
+    "ja_name": "やどりぎのタネ",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": 90
+  },
+  "メガドレイン": {
+    "ja_name": "メガドレイン",
+    "power": 40,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "はさむ": {
+    "ja_name": "はさむ",
+    "power": 55,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "まきつく": {
+    "ja_name": "まきつく",
+    "power": 15,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "はっぱカッター": {
+    "ja_name": "はっぱカッター",
+    "power": 55,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "ミサイルばり": {
+    "ja_name": "ミサイルばり",
+    "power": 25,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "はなびらのまい": {
+    "ja_name": "はなびらのまい",
+    "power": 120,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "うたう": {
+    "ja_name": "うたう",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 55
+  },
+  "どくのこな": {
+    "ja_name": "どくのこな",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": 75
+  },
+  "りゅうのいかり": {
+    "ja_name": "りゅうのいかり",
+    "power": null,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ねむりごな": {
+    "ja_name": "ねむりごな",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": 75
+  },
+  "ほのおのうず": {
+    "ja_name": "ほのおのうず",
+    "power": 35,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "でんきショック": {
+    "ja_name": "でんきショック",
+    "power": 40,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "かみなり": {
+    "ja_name": "かみなり",
+    "power": 110,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 70
+  },
+  "でんじは": {
+    "ja_name": "でんじは",
+    "power": null,
+    "type": "electric",
+    "damage_class": "status",
+    "accuracy": 90
+  },
+  "どくどく": {
+    "ja_name": "どくどく",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": 90
+  },
+  "じわれ": {
+    "ja_name": "じわれ",
+    "power": null,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 30
+  },
+  "じしん": {
+    "ja_name": "じしん",
+    "power": 100,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "バブルこうせん": {
+    "ja_name": "バブルこうせん",
+    "power": 65,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "いわおとし": {
+    "ja_name": "いわおとし",
+    "power": 50,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "みずでっぽう": {
+    "ja_name": "みずでっぽう",
+    "power": 40,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "しっぽをふる": {
+    "ja_name": "しっぽをふる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ひのこ": {
+    "ja_name": "ひのこ",
+    "power": 40,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "こうそくいどう": {
+    "ja_name": "こうそくいどう",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ドリルくちばし": {
+    "ja_name": "ドリルくちばし",
+    "power": 80,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "いかり": {
+    "ja_name": "いかり",
+    "power": 20,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ヨガのポーズ": {
+    "ja_name": "ヨガのポーズ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "なみのり": {
+    "ja_name": "なみのり",
+    "power": 90,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ねんりき": {
+    "ja_name": "ねんりき",
+    "power": 50,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ナイトヘッド": {
+    "ja_name": "ナイトヘッド",
+    "power": null,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "でんこうせっか": {
+    "ja_name": "でんこうせっか",
+    "power": 40,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ものまね": {
+    "ja_name": "ものまね",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "いやなおと": {
+    "ja_name": "いやなおと",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 85
+  },
+  "あやしいひかり": {
+    "ja_name": "あやしいひかり",
+    "power": null,
+    "type": "ghost",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "かげぶんしん": {
+    "ja_name": "かげぶんしん",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "かたくなる": {
+    "ja_name": "かたくなる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ちいさくなる": {
+    "ja_name": "ちいさくなる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "バリアー": {
+    "ja_name": "バリアー",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ソーラービーム": {
+    "ja_name": "ソーラービーム",
+    "power": 120,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "いとをはく": {
+    "ja_name": "いとをはく",
+    "power": null,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": 95
+  },
+  "しびれごな": {
+    "ja_name": "しびれごな",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": 75
+  },
+  "きあいだめ": {
+    "ja_name": "きあいだめ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "からにこもる": {
+    "ja_name": "からにこもる",
+    "power": null,
+    "type": "water",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ひかりのかべ": {
+    "ja_name": "ひかりのかべ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "くろいきり": {
+    "ja_name": "くろいきり",
+    "power": null,
+    "type": "ice",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ひっかく": {
+    "ja_name": "ひっかく",
+    "power": 40,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "オウムがえし": {
+    "ja_name": "オウムがえし",
+    "power": null,
+    "type": "flying",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "がまん": {
+    "ja_name": "がまん",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "１０まんボルト": {
+    "ja_name": "１０まんボルト",
+    "power": 90,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "タマゴばくだん": {
+    "ja_name": "タマゴばくだん",
+    "power": 100,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 75
+  },
+  "ヘドロこうげき": {
+    "ja_name": "ヘドロこうげき",
+    "power": 65,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ホネこんぼう": {
+    "ja_name": "ホネこんぼう",
+    "power": 65,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "スモッグ": {
+    "ja_name": "スモッグ",
+    "power": 30,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 70
+  },
+  "したでなめる": {
+    "ja_name": "したでなめる",
+    "power": 30,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "だいもんじ": {
+    "ja_name": "だいもんじ",
+    "power": 110,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "あなをほる": {
+    "ja_name": "あなをほる",
+    "power": 80,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "スピードスター": {
+    "ja_name": "スピードスター",
+    "power": 60,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ロケットずつき": {
+    "ja_name": "ロケットずつき",
+    "power": 130,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "からではさむ": {
+    "ja_name": "からではさむ",
+    "power": 35,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "ドわすれ": {
+    "ja_name": "ドわすれ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "たきのぼり": {
+    "ja_name": "たきのぼり",
+    "power": 80,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "とげキャノン": {
+    "ja_name": "とげキャノン",
+    "power": 20,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "からみつく": {
+    "ja_name": "からみつく",
+    "power": 10,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "タマゴうみ": {
+    "ja_name": "タマゴうみ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "たまなげ": {
+    "ja_name": "たまなげ",
+    "power": 15,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "じこさいせい": {
+    "ja_name": "じこさいせい",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "あくまのキッス": {
+    "ja_name": "あくまのキッス",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 75
+  },
+  "へんしん": {
+    "ja_name": "へんしん",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "さいみんじゅつ": {
+    "ja_name": "さいみんじゅつ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": 60
+  },
+  "ピヨピヨパンチ": {
+    "ja_name": "ピヨピヨパンチ",
+    "power": 70,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "リフレクター": {
+    "ja_name": "リフレクター",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "えんまく": {
+    "ja_name": "えんまく",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "かなしばり": {
+    "ja_name": "かなしばり",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "キノコのほうし": {
+    "ja_name": "キノコのほうし",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "フラッシュ": {
+    "ja_name": "フラッシュ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "テレポート": {
+    "ja_name": "テレポート",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "はねる": {
+    "ja_name": "はねる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ゆびをふる": {
+    "ja_name": "ゆびをふる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "まるくなる": {
+    "ja_name": "まるくなる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "サイコウェーブ": {
+    "ja_name": "サイコウェーブ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "だいばくはつ": {
+    "ja_name": "だいばくはつ",
+    "power": 250,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ホネブーメラン": {
+    "ja_name": "ホネブーメラン",
+    "power": 50,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "じばく": {
+    "ja_name": "じばく",
+    "power": 200,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "クラブハンマー": {
+    "ja_name": "クラブハンマー",
+    "power": 100,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "かくばる": {
+    "ja_name": "かくばる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ねむる": {
+    "ja_name": "ねむる",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "テクスチャー": {
+    "ja_name": "テクスチャー",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "いわなだれ": {
+    "ja_name": "いわなだれ",
+    "power": 75,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ひっさつまえば": {
+    "ja_name": "ひっさつまえば",
+    "power": 80,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "トライアタック": {
+    "ja_name": "トライアタック",
+    "power": 80,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "いかりのまえば": {
+    "ja_name": "いかりのまえば",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "スプーンまげ": {
+    "ja_name": "スプーンまげ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": 80
+  },
+  "きりさく": {
+    "ja_name": "きりさく",
+    "power": 70,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "とびひざげり": {
+    "ja_name": "とびひざげり",
+    "power": 130,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "どくガス": {
+    "ja_name": "どくガス",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": 90
+  },
+  "わるあがき": {
+    "ja_name": "わるあがき",
+    "power": 50,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "みがわり": {
+    "ja_name": "みがわり",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "トリプルキック": {
+    "ja_name": "トリプルキック",
+    "power": 10,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "クモのす": {
+    "ja_name": "クモのす",
+    "power": null,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "スケッチ": {
+    "ja_name": "スケッチ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "こころのめ": {
+    "ja_name": "こころのめ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "かえんぐるま": {
+    "ja_name": "かえんぐるま",
+    "power": 60,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "あくむ": {
+    "ja_name": "あくむ",
+    "power": null,
+    "type": "ghost",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "どろぼう": {
+    "ja_name": "どろぼう",
+    "power": 60,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ゆめくい": {
+    "ja_name": "ゆめくい",
+    "power": 100,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "じたばた": {
+    "ja_name": "じたばた",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "いびき": {
+    "ja_name": "いびき",
+    "power": 50,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "エアロブラスト": {
+    "ja_name": "エアロブラスト",
+    "power": 100,
+    "type": "flying",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "ゴッドバード": {
+    "ja_name": "ゴッドバード",
+    "power": 140,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "のろい": {
+    "ja_name": "のろい",
+    "power": null,
+    "type": "ghost",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "テクスチャー２": {
+    "ja_name": "テクスチャー２",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "へびにらみ": {
+    "ja_name": "へびにらみ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "まもる": {
+    "ja_name": "まもる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "マッハパンチ": {
+    "ja_name": "マッハパンチ",
+    "power": 40,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "きしかいせい": {
+    "ja_name": "きしかいせい",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "だましうち": {
+    "ja_name": "だましうち",
+    "power": 60,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "こなゆき": {
+    "ja_name": "こなゆき",
+    "power": 40,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ヘドロばくだん": {
+    "ja_name": "ヘドロばくだん",
+    "power": 90,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "こわいかお": {
+    "ja_name": "こわいかお",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "オクタンほう": {
+    "ja_name": "オクタンほう",
+    "power": 65,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "てんしのキッス": {
+    "ja_name": "てんしのキッス",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": 75
+  },
+  "まきびし": {
+    "ja_name": "まきびし",
+    "power": null,
+    "type": "ground",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "どろかけ": {
+    "ja_name": "どろかけ",
+    "power": 20,
+    "type": "ground",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "でんじほう": {
+    "ja_name": "でんじほう",
+    "power": 120,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 50
+  },
+  "みやぶる": {
+    "ja_name": "みやぶる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "きゅうけつ": {
+    "ja_name": "きゅうけつ",
+    "power": 80,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "あわ": {
+    "ja_name": "あわ",
+    "power": 40,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "みきり": {
+    "ja_name": "みきり",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "とける": {
+    "ja_name": "とける",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ロックオン": {
+    "ja_name": "ロックオン",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "こらえる": {
+    "ja_name": "こらえる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ボーンラッシュ": {
+    "ja_name": "ボーンラッシュ",
+    "power": 25,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "いばる": {
+    "ja_name": "いばる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 85
+  },
+  "すなあらし": {
+    "ja_name": "すなあらし",
+    "power": null,
+    "type": "rock",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ギガドレイン": {
+    "ja_name": "ギガドレイン",
+    "power": 75,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "サイコキネシス": {
+    "ja_name": "サイコキネシス",
+    "power": 90,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ミルクのみ": {
+    "ja_name": "ミルクのみ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "あまえる": {
+    "ja_name": "あまえる",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "れんぞくぎり": {
+    "ja_name": "れんぞくぎり",
+    "power": 40,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "メロメロ": {
+    "ja_name": "メロメロ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "はがねのつばさ": {
+    "ja_name": "はがねのつばさ",
+    "power": 70,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ねごと": {
+    "ja_name": "ねごと",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "おんがえし": {
+    "ja_name": "おんがえし",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "いやしのすず": {
+    "ja_name": "いやしのすず",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "やつあたり": {
+    "ja_name": "やつあたり",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "わたほうし": {
+    "ja_name": "わたほうし",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "しんぴのまもり": {
+    "ja_name": "しんぴのまもり",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "うらみ": {
+    "ja_name": "うらみ",
+    "power": null,
+    "type": "ghost",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "マグニチュード": {
+    "ja_name": "マグニチュード",
+    "power": null,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "せいなるほのお": {
+    "ja_name": "せいなるほのお",
+    "power": 100,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "メガホーン": {
+    "ja_name": "メガホーン",
+    "power": 120,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "りゅうのいぶき": {
+    "ja_name": "りゅうのいぶき",
+    "power": 60,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "いたみわけ": {
+    "ja_name": "いたみわけ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "あまいかおり": {
+    "ja_name": "あまいかおり",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "おいうち": {
+    "ja_name": "おいうち",
+    "power": 40,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "みちづれ": {
+    "ja_name": "みちづれ",
+    "power": null,
+    "type": "ghost",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "はらだいこ": {
+    "ja_name": "はらだいこ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "アンコール": {
+    "ja_name": "アンコール",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "げきりん": {
+    "ja_name": "げきりん",
+    "power": 120,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "こうそくスピン": {
+    "ja_name": "こうそくスピン",
+    "power": 50,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "アイアンテール": {
+    "ja_name": "アイアンテール",
+    "power": 100,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 75
+  },
+  "こごえるかぜ": {
+    "ja_name": "こごえるかぜ",
+    "power": 55,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "みだれひっかき": {
+    "ja_name": "みだれひっかき",
+    "power": 18,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 80
+  },
+  "ころがる": {
+    "ja_name": "ころがる",
+    "power": 30,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "めざめるパワー": {
+    "ja_name": "めざめるパワー",
+    "power": 60,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "こうごうせい": {
+    "ja_name": "こうごうせい",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "かみくだく": {
+    "ja_name": "かみくだく",
+    "power": 80,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "あまごい": {
+    "ja_name": "あまごい",
+    "power": null,
+    "type": "water",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "じこあんじ": {
+    "ja_name": "じこあんじ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "にほんばれ": {
+    "ja_name": "にほんばれ",
+    "power": null,
+    "type": "fire",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "スパーク": {
+    "ja_name": "スパーク",
+    "power": 65,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ほろびのうた": {
+    "ja_name": "ほろびのうた",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "たつまき": {
+    "ja_name": "たつまき",
+    "power": 40,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "げんしのちから": {
+    "ja_name": "げんしのちから",
+    "power": 60,
+    "type": "rock",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "しんそく": {
+    "ja_name": "しんそく",
+    "power": 80,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "うずしお": {
+    "ja_name": "うずしお",
+    "power": 35,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "いわくだき": {
+    "ja_name": "いわくだき",
+    "power": 40,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "くろいまなざし": {
+    "ja_name": "くろいまなざし",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "プレゼント": {
+    "ja_name": "プレゼント",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "さわぐ": {
+    "ja_name": "さわぐ",
+    "power": 90,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "みねうち": {
+    "ja_name": "みねうち",
+    "power": 40,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "たくわえる": {
+    "ja_name": "たくわえる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "のみこむ": {
+    "ja_name": "のみこむ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "バトンタッチ": {
+    "ja_name": "バトンタッチ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "あられ": {
+    "ja_name": "あられ",
+    "power": null,
+    "type": "ice",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "あさのひざし": {
+    "ja_name": "あさのひざし",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "いちゃもん": {
+    "ja_name": "いちゃもん",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "おきみやげ": {
+    "ja_name": "おきみやげ",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "あてみなげ": {
+    "ja_name": "あてみなげ",
+    "power": 70,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "きつけ": {
+    "ja_name": "きつけ",
+    "power": 70,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "このゆびとまれ": {
+    "ja_name": "このゆびとまれ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "からげんき": {
+    "ja_name": "からげんき",
+    "power": 70,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "きあいパンチ": {
+    "ja_name": "きあいパンチ",
+    "power": 150,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "つきのひかり": {
+    "ja_name": "つきのひかり",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ミラーコート": {
+    "ja_name": "ミラーコート",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "しぜんのちから": {
+    "ja_name": "しぜんのちから",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ちょうはつ": {
+    "ja_name": "ちょうはつ",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "てだすけ": {
+    "ja_name": "てだすけ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "トリック": {
+    "ja_name": "トリック",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ねこのて": {
+    "ja_name": "ねこのて",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "クロスチョップ": {
+    "ja_name": "クロスチョップ",
+    "power": 100,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 80
+  },
+  "なりきり": {
+    "ja_name": "なりきり",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ふくろだたき": {
+    "ja_name": "ふくろだたき",
+    "power": null,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ねをはる": {
+    "ja_name": "ねをはる",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "みらいよち": {
+    "ja_name": "みらいよち",
+    "power": 120,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "シャドーボール": {
+    "ja_name": "シャドーボール",
+    "power": 80,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "マジックコート": {
+    "ja_name": "マジックコート",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "はたきおとす": {
+    "ja_name": "はたきおとす",
+    "power": 65,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ばくれつパンチ": {
+    "ja_name": "ばくれつパンチ",
+    "power": 100,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 50
+  },
+  "ねこだまし": {
+    "ja_name": "ねこだまし",
+    "power": 40,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "スキルスワップ": {
+    "ja_name": "スキルスワップ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ふういん": {
+    "ja_name": "ふういん",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "メタルクロー": {
+    "ja_name": "メタルクロー",
+    "power": 50,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "リフレッシュ": {
+    "ja_name": "リフレッシュ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ひみつのちから": {
+    "ja_name": "ひみつのちから",
+    "power": 70,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ダイビング": {
+    "ja_name": "ダイビング",
+    "power": 80,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "よこどり": {
+    "ja_name": "よこどり",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ねっぷう": {
+    "ja_name": "ねっぷう",
+    "power": 95,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "おだてる": {
+    "ja_name": "おだてる",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ほごしょく": {
+    "ja_name": "ほごしょく",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ほたるび": {
+    "ja_name": "ほたるび",
+    "power": null,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "はきだす": {
+    "ja_name": "はきだす",
+    "power": null,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ブレイズキック": {
+    "ja_name": "ブレイズキック",
+    "power": 85,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ラスターパージ": {
+    "ja_name": "ラスターパージ",
+    "power": 95,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ばかぢから": {
+    "ja_name": "ばかぢから",
+    "power": 120,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "どろあそび": {
+    "ja_name": "どろあそび",
+    "power": null,
+    "type": "ground",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ミストボール": {
+    "ja_name": "ミストボール",
+    "power": 95,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ハイパーボイス": {
+    "ja_name": "ハイパーボイス",
+    "power": 90,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "アイスボール": {
+    "ja_name": "アイスボール",
+    "power": 30,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "じゅうでん": {
+    "ja_name": "じゅうでん",
+    "power": null,
+    "type": "electric",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ねがいごと": {
+    "ja_name": "ねがいごと",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ニードルアーム": {
+    "ja_name": "ニードルアーム",
+    "power": 60,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "おにび": {
+    "ja_name": "おにび",
+    "power": null,
+    "type": "fire",
+    "damage_class": "status",
+    "accuracy": 85
+  },
+  "ブラストバーン": {
+    "ja_name": "ブラストバーン",
+    "power": 150,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "どくどくのキバ": {
+    "ja_name": "どくどくのキバ",
+    "power": 50,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ウェザーボール": {
+    "ja_name": "ウェザーボール",
+    "power": 50,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "リベンジ": {
+    "ja_name": "リベンジ",
+    "power": 60,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ハイドロカノン": {
+    "ja_name": "ハイドロカノン",
+    "power": 150,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "リサイクル": {
+    "ja_name": "リサイクル",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "かわらわり": {
+    "ja_name": "かわらわり",
+    "power": 75,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "うそなき": {
+    "ja_name": "うそなき",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "コメットパンチ": {
+    "ja_name": "コメットパンチ",
+    "power": 90,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ふんか": {
+    "ja_name": "ふんか",
+    "power": 150,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "つっぱり": {
+    "ja_name": "つっぱり",
+    "power": 15,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "おんねん": {
+    "ja_name": "おんねん",
+    "power": null,
+    "type": "ghost",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "あくび": {
+    "ja_name": "あくび",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "がむしゃら": {
+    "ja_name": "がむしゃら",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "かぎわける": {
+    "ja_name": "かぎわける",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "がんせきふうじ": {
+    "ja_name": "がんせきふうじ",
+    "power": 60,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "ぎんいろのかぜ": {
+    "ja_name": "ぎんいろのかぜ",
+    "power": 60,
+    "type": "bug",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "エアカッター": {
+    "ja_name": "エアカッター",
+    "power": 60,
+    "type": "flying",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "くさぶえ": {
+    "ja_name": "くさぶえ",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": 55
+  },
+  "フェザーダンス": {
+    "ja_name": "フェザーダンス",
+    "power": null,
+    "type": "flying",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "シグナルビーム": {
+    "ja_name": "シグナルビーム",
+    "power": 75,
+    "type": "bug",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "スカイアッパー": {
+    "ja_name": "スカイアッパー",
+    "power": 85,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "しおふき": {
+    "ja_name": "しおふき",
+    "power": 150,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ぜったいれいど": {
+    "ja_name": "ぜったいれいど",
+    "power": null,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 30
+  },
+  "フラフラダンス": {
+    "ja_name": "フラフラダンス",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "シャドーパンチ": {
+    "ja_name": "シャドーパンチ",
+    "power": 60,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "じんつうりき": {
+    "ja_name": "じんつうりき",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "つららばり": {
+    "ja_name": "つららばり",
+    "power": 25,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "つばめがえし": {
+    "ja_name": "つばめがえし",
+    "power": 60,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "とおせんぼう": {
+    "ja_name": "とおせんぼう",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "とびはねる": {
+    "ja_name": "とびはねる",
+    "power": 85,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "おどろかす": {
+    "ja_name": "おどろかす",
+    "power": 30,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "なまける": {
+    "ja_name": "なまける",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ビルドアップ": {
+    "ja_name": "ビルドアップ",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ドラゴンクロー": {
+    "ja_name": "ドラゴンクロー",
+    "power": 80,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ブレイククロー": {
+    "ja_name": "ブレイククロー",
+    "power": 75,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "ポイズンテール": {
+    "ja_name": "ポイズンテール",
+    "power": 50,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ボルテッカー": {
+    "ja_name": "ボルテッカー",
+    "power": 120,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "リーフブレード": {
+    "ja_name": "リーフブレード",
+    "power": 90,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "みずあそび": {
+    "ja_name": "みずあそび",
+    "power": null,
+    "type": "water",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "りゅうのまい": {
+    "ja_name": "りゅうのまい",
+    "power": null,
+    "type": "dragon",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "アロマセラピー": {
+    "ja_name": "アロマセラピー",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "めいそう": {
+    "ja_name": "めいそう",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "はめつのねがい": {
+    "ja_name": "はめつのねがい",
+    "power": 140,
+    "type": "steel",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "オーバーヒート": {
+    "ja_name": "オーバーヒート",
+    "power": 130,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "じゅうりょく": {
+    "ja_name": "じゅうりょく",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "みずのはどう": {
+    "ja_name": "みずのはどう",
+    "power": 60,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "サイコブースト": {
+    "ja_name": "サイコブースト",
+    "power": 140,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "きんぞくおん": {
+    "ja_name": "きんぞくおん",
+    "power": null,
+    "type": "steel",
+    "damage_class": "status",
+    "accuracy": 85
+  },
+  "ミラクルアイ": {
+    "ja_name": "ミラクルアイ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "すなじごく": {
+    "ja_name": "すなじごく",
+    "power": 35,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "くすぐる": {
+    "ja_name": "くすぐる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "アームハンマー": {
+    "ja_name": "アームハンマー",
+    "power": 100,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "めざましビンタ": {
+    "ja_name": "めざましビンタ",
+    "power": 70,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "コスモパワー": {
+    "ja_name": "コスモパワー",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "だくりゅう": {
+    "ja_name": "だくりゅう",
+    "power": 90,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "しぜんのめぐみ": {
+    "ja_name": "しぜんのめぐみ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "しおみず": {
+    "ja_name": "しおみず",
+    "power": 65,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "てっぺき": {
+    "ja_name": "てっぺき",
+    "power": null,
+    "type": "steel",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "フェイント": {
+    "ja_name": "フェイント",
+    "power": 30,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "とおぼえ": {
+    "ja_name": "とおぼえ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "タネマシンガン": {
+    "ja_name": "タネマシンガン",
+    "power": 25,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ついばむ": {
+    "ja_name": "ついばむ",
+    "power": 60,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "つぼをつく": {
+    "ja_name": "つぼをつく",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ほしがる": {
+    "ja_name": "ほしがる",
+    "power": 60,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "メタルバースト": {
+    "ja_name": "メタルバースト",
+    "power": null,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "きりふだ": {
+    "ja_name": "きりふだ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ダメおし": {
+    "ja_name": "ダメおし",
+    "power": 60,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "しっぺがえし": {
+    "ja_name": "しっぺがえし",
+    "power": 50,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "サイコシフト": {
+    "ja_name": "サイコシフト",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "とんぼがえり": {
+    "ja_name": "とんぼがえり",
+    "power": 70,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "なげつける": {
+    "ja_name": "なげつける",
+    "power": null,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "さしおさえ": {
+    "ja_name": "さしおさえ",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ハードプラント": {
+    "ja_name": "ハードプラント",
+    "power": 150,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "インファイト": {
+    "ja_name": "インファイト",
+    "power": 120,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ロックブラスト": {
+    "ja_name": "ロックブラスト",
+    "power": 25,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "しぼりとる": {
+    "ja_name": "しぼりとる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "さきどり": {
+    "ja_name": "さきどり",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "マジカルリーフ": {
+    "ja_name": "マジカルリーフ",
+    "power": 60,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "おまじない": {
+    "ja_name": "おまじない",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "まねっこ": {
+    "ja_name": "まねっこ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "パワートリック": {
+    "ja_name": "パワートリック",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "パワースワップ": {
+    "ja_name": "パワースワップ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "かいふくふうじ": {
+    "ja_name": "かいふくふうじ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "おしおき": {
+    "ja_name": "おしおき",
+    "power": null,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "はねやすめ": {
+    "ja_name": "はねやすめ",
+    "power": null,
+    "type": "flying",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "マッドショット": {
+    "ja_name": "マッドショット",
+    "power": 55,
+    "type": "ground",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "でんげきは": {
+    "ja_name": "でんげきは",
+    "power": 60,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "とっておき": {
+    "ja_name": "とっておき",
+    "power": 140,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ガードスワップ": {
+    "ja_name": "ガードスワップ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "でんじふゆう": {
+    "ja_name": "でんじふゆう",
+    "power": null,
+    "type": "electric",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ハートスワップ": {
+    "ja_name": "ハートスワップ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "はどうだん": {
+    "ja_name": "はどうだん",
+    "power": 80,
+    "type": "fighting",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ふいうち": {
+    "ja_name": "ふいうち",
+    "power": 70,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ジャイロボール": {
+    "ja_name": "ジャイロボール",
+    "power": null,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ロックカット": {
+    "ja_name": "ロックカット",
+    "power": null,
+    "type": "rock",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "あくのはどう": {
+    "ja_name": "あくのはどう",
+    "power": 80,
+    "type": "dark",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "アクアテール": {
+    "ja_name": "アクアテール",
+    "power": 90,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "どくづき": {
+    "ja_name": "どくづき",
+    "power": 80,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "おいかぜ": {
+    "ja_name": "おいかぜ",
+    "power": null,
+    "type": "flying",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "エアスラッシュ": {
+    "ja_name": "エアスラッシュ",
+    "power": 75,
+    "type": "flying",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "いやしのねがい": {
+    "ja_name": "いやしのねがい",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "りゅうのはどう": {
+    "ja_name": "りゅうのはどう",
+    "power": 85,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ドラゴンダイブ": {
+    "ja_name": "ドラゴンダイブ",
+    "power": 100,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 75
+  },
+  "タネばくだん": {
+    "ja_name": "タネばくだん",
+    "power": 80,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ドレインパンチ": {
+    "ja_name": "ドレインパンチ",
+    "power": 75,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "パワージェム": {
+    "ja_name": "パワージェム",
+    "power": 80,
+    "type": "rock",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "きあいだま": {
+    "ja_name": "きあいだま",
+    "power": 120,
+    "type": "fighting",
+    "damage_class": "special",
+    "accuracy": 70
+  },
+  "だいちのちから": {
+    "ja_name": "だいちのちから",
+    "power": 90,
+    "type": "ground",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ブレイブバード": {
+    "ja_name": "ブレイブバード",
+    "power": 120,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "エナジーボール": {
+    "ja_name": "エナジーボール",
+    "power": 90,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "いえき": {
+    "ja_name": "いえき",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "バレットパンチ": {
+    "ja_name": "バレットパンチ",
+    "power": 40,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ギガインパクト": {
+    "ja_name": "ギガインパクト",
+    "power": 150,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "こおりのつぶて": {
+    "ja_name": "こおりのつぶて",
+    "power": 40,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "わるだくみ": {
+    "ja_name": "わるだくみ",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ゆきなだれ": {
+    "ja_name": "ゆきなだれ",
+    "power": 60,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "こおりのキバ": {
+    "ja_name": "こおりのキバ",
+    "power": 65,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "シャドークロー": {
+    "ja_name": "シャドークロー",
+    "power": 70,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "かみなりのキバ": {
+    "ja_name": "かみなりのキバ",
+    "power": 65,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "かげうち": {
+    "ja_name": "かげうち",
+    "power": 40,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "はっけい": {
+    "ja_name": "はっけい",
+    "power": 60,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ミラーショット": {
+    "ja_name": "ミラーショット",
+    "power": 65,
+    "type": "steel",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "しねんのずつき": {
+    "ja_name": "しねんのずつき",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "きりばらい": {
+    "ja_name": "きりばらい",
+    "power": null,
+    "type": "flying",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "つじぎり": {
+    "ja_name": "つじぎり",
+    "power": 70,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "アクアリング": {
+    "ja_name": "アクアリング",
+    "power": null,
+    "type": "water",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "りゅうせいぐん": {
+    "ja_name": "りゅうせいぐん",
+    "power": 130,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "なやみのタネ": {
+    "ja_name": "なやみのタネ",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ロッククライム": {
+    "ja_name": "ロッククライム",
+    "power": 90,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "リーフストーム": {
+    "ja_name": "リーフストーム",
+    "power": 130,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "どくびし": {
+    "ja_name": "どくびし",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "クロスポイズン": {
+    "ja_name": "クロスポイズン",
+    "power": 70,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "むしのさざめき": {
+    "ja_name": "むしのさざめき",
+    "power": 90,
+    "type": "bug",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "がんせきほう": {
+    "ja_name": "がんせきほう",
+    "power": 150,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "シザークロス": {
+    "ja_name": "シザークロス",
+    "power": 80,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "フレアドライブ": {
+    "ja_name": "フレアドライブ",
+    "power": 120,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "アイアンヘッド": {
+    "ja_name": "アイアンヘッド",
+    "power": 80,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ゆうわく": {
+    "ja_name": "ゆうわく",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "すりかえ": {
+    "ja_name": "すりかえ",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "マグネットボム": {
+    "ja_name": "マグネットボム",
+    "power": 60,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "くさむすび": {
+    "ja_name": "くさむすび",
+    "power": null,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "しんくうは": {
+    "ja_name": "しんくうは",
+    "power": 40,
+    "type": "fighting",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "おしゃべり": {
+    "ja_name": "おしゃべり",
+    "power": 65,
+    "type": "flying",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "さばきのつぶて": {
+    "ja_name": "さばきのつぶて",
+    "power": 100,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ウッドハンマー": {
+    "ja_name": "ウッドハンマー",
+    "power": 120,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "どろばくだん": {
+    "ja_name": "どろばくだん",
+    "power": 65,
+    "type": "ground",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "こうげきしれい": {
+    "ja_name": "こうげきしれい",
+    "power": 90,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "かいふくしれい": {
+    "ja_name": "かいふくしれい",
+    "power": null,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ダブルアタック": {
+    "ja_name": "ダブルアタック",
+    "power": 35,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ラスターカノン": {
+    "ja_name": "ラスターカノン",
+    "power": 80,
+    "type": "steel",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ときのほうこう": {
+    "ja_name": "ときのほうこう",
+    "power": 150,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "ぼうぎょしれい": {
+    "ja_name": "ぼうぎょしれい",
+    "power": null,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "サイコカッター": {
+    "ja_name": "サイコカッター",
+    "power": 70,
+    "type": "psychic",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "みかづきのまい": {
+    "ja_name": "みかづきのまい",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ほうでん": {
+    "ja_name": "ほうでん",
+    "power": 80,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ほのおのキバ": {
+    "ja_name": "ほのおのキバ",
+    "power": 65,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "あくうせつだん": {
+    "ja_name": "あくうせつだん",
+    "power": 100,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "ふんえん": {
+    "ja_name": "ふんえん",
+    "power": 80,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ダークホール": {
+    "ja_name": "ダークホール",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 50
+  },
+  "マグマストーム": {
+    "ja_name": "マグマストーム",
+    "power": 100,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 75
+  },
+  "にぎりつぶす": {
+    "ja_name": "にぎりつぶす",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "シャドーダイブ": {
+    "ja_name": "シャドーダイブ",
+    "power": 120,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "シードフレア": {
+    "ja_name": "シードフレア",
+    "power": 120,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "ガードシェア": {
+    "ja_name": "ガードシェア",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "つめとぎ": {
+    "ja_name": "つめとぎ",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "パワーウィップ": {
+    "ja_name": "パワーウィップ",
+    "power": 120,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "サイコショック": {
+    "ja_name": "サイコショック",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "いかりのこな": {
+    "ja_name": "いかりのこな",
+    "power": null,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "テレキネシス": {
+    "ja_name": "テレキネシス",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ダストシュート": {
+    "ja_name": "ダストシュート",
+    "power": 120,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 80
+  },
+  "ベノムショック": {
+    "ja_name": "ベノムショック",
+    "power": 65,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "マジックルーム": {
+    "ja_name": "マジックルーム",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ストーンエッジ": {
+    "ja_name": "ストーンエッジ",
+    "power": 100,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 80
+  },
+  "チャージビーム": {
+    "ja_name": "チャージビーム",
+    "power": 50,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "はじけるほのお": {
+    "ja_name": "はじけるほのお",
+    "power": 70,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "やまあらし": {
+    "ja_name": "やまあらし",
+    "power": 60,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ステルスロック": {
+    "ja_name": "ステルスロック",
+    "power": null,
+    "type": "rock",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ヘドロウェーブ": {
+    "ja_name": "ヘドロウェーブ",
+    "power": 95,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "シンクロノイズ": {
+    "ja_name": "シンクロノイズ",
+    "power": 120,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "むしくい": {
+    "ja_name": "むしくい",
+    "power": 60,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "アクアジェット": {
+    "ja_name": "アクアジェット",
+    "power": 40,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ローキック": {
+    "ja_name": "ローキック",
+    "power": 65,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ニトロチャージ": {
+    "ja_name": "ニトロチャージ",
+    "power": 50,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "とぐろをまく": {
+    "ja_name": "とぐろをまく",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "おさきにどうぞ": {
+    "ja_name": "おさきにどうぞ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "なしくずし": {
+    "ja_name": "なしくずし",
+    "power": 70,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "あやしいかぜ": {
+    "ja_name": "あやしいかぜ",
+    "power": 60,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "トリックルーム": {
+    "ja_name": "トリックルーム",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "りんしょう": {
+    "ja_name": "りんしょう",
+    "power": 60,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "エコーボイス": {
+    "ja_name": "エコーボイス",
+    "power": 40,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "もろはのずつき": {
+    "ja_name": "もろはのずつき",
+    "power": 150,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 80
+  },
+  "アシストパワー": {
+    "ja_name": "アシストパワー",
+    "power": 20,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ワンダールーム": {
+    "ja_name": "ワンダールーム",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ファストガード": {
+    "ja_name": "ファストガード",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ねっとう": {
+    "ja_name": "ねっとう",
+    "power": 80,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "クリアスモッグ": {
+    "ja_name": "クリアスモッグ",
+    "power": 50,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "からをやぶる": {
+    "ja_name": "からをやぶる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "パワーシェア": {
+    "ja_name": "パワーシェア",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "フリーフォール": {
+    "ja_name": "フリーフォール",
+    "power": 60,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ギアチェンジ": {
+    "ja_name": "ギアチェンジ",
+    "power": null,
+    "type": "steel",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ちょうのまい": {
+    "ja_name": "ちょうのまい",
+    "power": null,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ボディパージ": {
+    "ja_name": "ボディパージ",
+    "power": null,
+    "type": "steel",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "たたりめ": {
+    "ja_name": "たたりめ",
+    "power": 65,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "アクロバット": {
+    "ja_name": "アクロバット",
+    "power": 55,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ミラータイプ": {
+    "ja_name": "ミラータイプ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "うちおとす": {
+    "ja_name": "うちおとす",
+    "power": 50,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ギフトパス": {
+    "ja_name": "ギフトパス",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "やきつくす": {
+    "ja_name": "やきつくす",
+    "power": 60,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "かたきうち": {
+    "ja_name": "かたきうち",
+    "power": 70,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "れんごく": {
+    "ja_name": "れんごく",
+    "power": 100,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 50
+  },
+  "ヘビーボンバー": {
+    "ja_name": "ヘビーボンバー",
+    "power": null,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "みずびたし": {
+    "ja_name": "みずびたし",
+    "power": null,
+    "type": "water",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "エレキボール": {
+    "ja_name": "エレキボール",
+    "power": null,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ワイドガード": {
+    "ja_name": "ワイドガード",
+    "power": null,
+    "type": "rock",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "くさのちかい": {
+    "ja_name": "くさのちかい",
+    "power": 80,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ほのおのちかい": {
+    "ja_name": "ほのおのちかい",
+    "power": 80,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ボルトチェンジ": {
+    "ja_name": "ボルトチェンジ",
+    "power": 70,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ドラゴンテール": {
+    "ja_name": "ドラゴンテール",
+    "power": 60,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "アシッドボム": {
+    "ja_name": "アシッドボム",
+    "power": 40,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "エレキネット": {
+    "ja_name": "エレキネット",
+    "power": 55,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "ふるいたてる": {
+    "ja_name": "ふるいたてる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "じならし": {
+    "ja_name": "じならし",
+    "power": 60,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "シンプルビーム": {
+    "ja_name": "シンプルビーム",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "いやしのはどう": {
+    "ja_name": "いやしのはどう",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ドリルライナー": {
+    "ja_name": "ドリルライナー",
+    "power": 80,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "サイドチェンジ": {
+    "ja_name": "サイドチェンジ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ハートスタンプ": {
+    "ja_name": "ハートスタンプ",
+    "power": 60,
+    "type": "psychic",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "イカサマ": {
+    "ja_name": "イカサマ",
+    "power": 95,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ダブルチョップ": {
+    "ja_name": "ダブルチョップ",
+    "power": 40,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ウッドホーン": {
+    "ja_name": "ウッドホーン",
+    "power": 75,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "せいなるつるぎ": {
+    "ja_name": "せいなるつるぎ",
+    "power": 90,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "サイコブレイク": {
+    "ja_name": "サイコブレイク",
+    "power": 100,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "アフロブレイク": {
+    "ja_name": "アフロブレイク",
+    "power": 120,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ハードローラー": {
+    "ja_name": "ハードローラー",
+    "power": 65,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ぼうふう": {
+    "ja_name": "ぼうふう",
+    "power": 110,
+    "type": "flying",
+    "damage_class": "special",
+    "accuracy": 70
+  },
+  "グラスミキサー": {
+    "ja_name": "グラスミキサー",
+    "power": 65,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "シェルブレード": {
+    "ja_name": "シェルブレード",
+    "power": 75,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "ヒートスタンプ": {
+    "ja_name": "ヒートスタンプ",
+    "power": null,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "さきおくり": {
+    "ja_name": "さきおくり",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "スイープビンタ": {
+    "ja_name": "スイープビンタ",
+    "power": 25,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "なかまづくり": {
+    "ja_name": "なかまづくり",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "テクノバスター": {
+    "ja_name": "テクノバスター",
+    "power": 120,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "かえんだん": {
+    "ja_name": "かえんだん",
+    "power": 100,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ギアソーサー": {
+    "ja_name": "ギアソーサー",
+    "power": 50,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "ともえなげ": {
+    "ja_name": "ともえなげ",
+    "power": 60,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "しんぴのつるぎ": {
+    "ja_name": "しんぴのつるぎ",
+    "power": 85,
+    "type": "fighting",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "あおいほのお": {
+    "ja_name": "あおいほのお",
+    "power": 130,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "らいげき": {
+    "ja_name": "らいげき",
+    "power": 130,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "いにしえのうた": {
+    "ja_name": "いにしえのうた",
+    "power": 75,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "いのちがけ": {
+    "ja_name": "いのちがけ",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "こごえるせかい": {
+    "ja_name": "こごえるせかい",
+    "power": 65,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "みずのちかい": {
+    "ja_name": "みずのちかい",
+    "power": 80,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "フリーズボルト": {
+    "ja_name": "フリーズボルト",
+    "power": 140,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "コールドフレア": {
+    "ja_name": "コールドフレア",
+    "power": 140,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "バークアウト": {
+    "ja_name": "バークアウト",
+    "power": 55,
+    "type": "dark",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "ほのおのまい": {
+    "ja_name": "ほのおのまい",
+    "power": 80,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "Ｖジェネレート": {
+    "ja_name": "Ｖジェネレート",
+    "power": 180,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "むしのていこう": {
+    "ja_name": "むしのていこう",
+    "power": 50,
+    "type": "bug",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "クロスフレイム": {
+    "ja_name": "クロスフレイム",
+    "power": 100,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "クロスサンダー": {
+    "ja_name": "クロスサンダー",
+    "power": 100,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ゲップ": {
+    "ja_name": "ゲップ",
+    "power": 120,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "たたみがえし": {
+    "ja_name": "たたみがえし",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "フライングプレス": {
+    "ja_name": "フライングプレス",
+    "power": 100,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "たがやす": {
+    "ja_name": "たがやす",
+    "power": null,
+    "type": "ground",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ハロウィン": {
+    "ja_name": "ハロウィン",
+    "power": null,
+    "type": "ghost",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "おたけび": {
+    "ja_name": "おたけび",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "プラズマシャワー": {
+    "ja_name": "プラズマシャワー",
+    "power": null,
+    "type": "electric",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "こおりのいぶき": {
+    "ja_name": "こおりのいぶき",
+    "power": 60,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "チャームボイス": {
+    "ja_name": "チャームボイス",
+    "power": 40,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "フリーズドライ": {
+    "ja_name": "フリーズドライ",
+    "power": 70,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ひっくりかえす": {
+    "ja_name": "ひっくりかえす",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "すてゼリフ": {
+    "ja_name": "すてゼリフ",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "はなふぶき": {
+    "ja_name": "はなふぶき",
+    "power": 90,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "グラスフィールド": {
+    "ja_name": "グラスフィールド",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "そうでん": {
+    "ja_name": "そうでん",
+    "power": null,
+    "type": "electric",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "トリックガード": {
+    "ja_name": "トリックガード",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ワイルドボルト": {
+    "ja_name": "ワイルドボルト",
+    "power": 90,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "フラワーガード": {
+    "ja_name": "フラワーガード",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ばくおんぱ": {
+    "ja_name": "ばくおんぱ",
+    "power": 140,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ないしょばなし": {
+    "ja_name": "ないしょばなし",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "キングシールド": {
+    "ja_name": "キングシールド",
+    "power": null,
+    "type": "steel",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ダイヤストーム": {
+    "ja_name": "ダイヤストーム",
+    "power": 100,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "コットンガード": {
+    "ja_name": "コットンガード",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "スチームバースト": {
+    "ja_name": "スチームバースト",
+    "power": 110,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "つららおとし": {
+    "ja_name": "つららおとし",
+    "power": 85,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "いじげんホール": {
+    "ja_name": "いじげんホール",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ナイトバースト": {
+    "ja_name": "ナイトバースト",
+    "power": 85,
+    "type": "dark",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "みずしゅりけん": {
+    "ja_name": "みずしゅりけん",
+    "power": 15,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "アロマミスト": {
+    "ja_name": "アロマミスト",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "マジカルフレイム": {
+    "ja_name": "マジカルフレイム",
+    "power": 75,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ニードルガード": {
+    "ja_name": "ニードルガード",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ベノムトラップ": {
+    "ja_name": "ベノムトラップ",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ふんじん": {
+    "ja_name": "ふんじん",
+    "power": null,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ジオコントロール": {
+    "ja_name": "ジオコントロール",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ハッピータイム": {
+    "ja_name": "ハッピータイム",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ゴーストダイブ": {
+    "ja_name": "ゴーストダイブ",
+    "power": 90,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "とどめばり": {
+    "ja_name": "とどめばり",
+    "power": 50,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "おいわい": {
+    "ja_name": "おいわい",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ドレインキッス": {
+    "ja_name": "ドレインキッス",
+    "power": 50,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ねばねばネット": {
+    "ja_name": "ねばねばネット",
+    "power": null,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "つぶらなひとみ": {
+    "ja_name": "つぶらなひとみ",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "てをつなぐ": {
+    "ja_name": "てをつなぐ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "エレキフィールド": {
+    "ja_name": "エレキフィールド",
+    "power": null,
+    "type": "electric",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "じばそうさ": {
+    "ja_name": "じばそうさ",
+    "power": null,
+    "type": "electric",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "マジカルシャイン": {
+    "ja_name": "マジカルシャイン",
+    "power": 80,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "てかげん": {
+    "ja_name": "てかげん",
+    "power": 40,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "デスウイング": {
+    "ja_name": "デスウイング",
+    "power": 80,
+    "type": "flying",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "サウザンアロー": {
+    "ja_name": "サウザンアロー",
+    "power": 90,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "グロウパンチ": {
+    "ja_name": "グロウパンチ",
+    "power": 40,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "はめつのひかり": {
+    "ja_name": "はめつのひかり",
+    "power": 140,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "サウザンウェーブ": {
+    "ja_name": "サウザンウェーブ",
+    "power": 90,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "グランドフォース": {
+    "ja_name": "グランドフォース",
+    "power": 90,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "もりののろい": {
+    "ja_name": "もりののろい",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ムーンフォース": {
+    "ja_name": "ムーンフォース",
+    "power": 95,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ガリョウテンセイ": {
+    "ja_name": "ガリョウテンセイ",
+    "power": 120,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ようせいのかぜ": {
+    "ja_name": "ようせいのかぜ",
+    "power": 40,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "こんげんのはどう": {
+    "ja_name": "こんげんのはどう",
+    "power": 110,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "ミストフィールド": {
+    "ja_name": "ミストフィールド",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "じゃれつく": {
+    "ja_name": "じゃれつく",
+    "power": 90,
+    "type": "fairy",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ウルトラダッシュアタック": {
+    "ja_name": "ウルトラダッシュアタック",
+    "power": null,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ぜんりょくむそうげきれつけん": {
+    "ja_name": "ぜんりょくむそうげきれつけん",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "いじげんラッシュ": {
+    "ja_name": "いじげんラッシュ",
+    "power": 100,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ファイナルダイブクラッシュ": {
+    "ja_name": "ファイナルダイブクラッシュ",
+    "power": null,
+    "type": "flying",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "だんがいのつるぎ": {
+    "ja_name": "だんがいのつるぎ",
+    "power": 120,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "アシッドポイズンデリート": {
+    "ja_name": "アシッドポイズンデリート",
+    "power": null,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ライジングランドオーバー": {
+    "ja_name": "ライジングランドオーバー",
+    "power": null,
+    "type": "ground",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "フェアリーロック": {
+    "ja_name": "フェアリーロック",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "なかよくする": {
+    "ja_name": "なかよくする",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ぜったいほしょくかいてんざん": {
+    "ja_name": "ぜったいほしょくかいてんざん",
+    "power": null,
+    "type": "bug",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ワールズエンドフォール": {
+    "ja_name": "ワールズエンドフォール",
+    "power": null,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "むげんあんやへのいざない": {
+    "ja_name": "むげんあんやへのいざない",
+    "power": null,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ちょうぜつらせんれんげき": {
+    "ja_name": "ちょうぜつらせんれんげき",
+    "power": null,
+    "type": "steel",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ダイナミックフルフレイム": {
+    "ja_name": "ダイナミックフルフレイム",
+    "power": null,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "パラボラチャージ": {
+    "ja_name": "パラボラチャージ",
+    "power": 65,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ブルームシャインエクストラ": {
+    "ja_name": "ブルームシャインエクストラ",
+    "power": null,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "スーパーアクアトルネード": {
+    "ja_name": "スーパーアクアトルネード",
+    "power": null,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "スパーキングギガボルト": {
+    "ja_name": "スパーキングギガボルト",
+    "power": null,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "マキシマムサイブレイカー": {
+    "ja_name": "マキシマムサイブレイカー",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ブラックホールイクリプス": {
+    "ja_name": "ブラックホールイクリプス",
+    "power": null,
+    "type": "dark",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "アルティメットドラゴンバーン": {
+    "ja_name": "アルティメットドラゴンバーン",
+    "power": null,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ラブリースターインパクト": {
+    "ja_name": "ラブリースターインパクト",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "レイジングジオフリーズ": {
+    "ja_name": "レイジングジオフリーズ",
+    "power": null,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "すなあつめ": {
+    "ja_name": "すなあつめ",
+    "power": null,
+    "type": "ground",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "であいがしら": {
+    "ja_name": "であいがしら",
+    "power": 90,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "かいでんぱ": {
+    "ja_name": "かいでんぱ",
+    "power": null,
+    "type": "electric",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ひっさつのピカチュート": {
+    "ja_name": "ひっさつのピカチュート",
+    "power": 210,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "かげぬい": {
+    "ja_name": "かげぬい",
+    "power": 80,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "フラワーヒール": {
+    "ja_name": "フラワーヒール",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "１０まんばりき": {
+    "ja_name": "１０まんばりき",
+    "power": 95,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "ちからをすいとる": {
+    "ja_name": "ちからをすいとる",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ＤＤラリアット": {
+    "ja_name": "ＤＤラリアット",
+    "power": 85,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "スポットライト": {
+    "ja_name": "スポットライト",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "アシストギア": {
+    "ja_name": "アシストギア",
+    "power": null,
+    "type": "steel",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "どくのいと": {
+    "ja_name": "どくのいと",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "かふんだんご": {
+    "ja_name": "かふんだんご",
+    "power": 90,
+    "type": "bug",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "アンカーショット": {
+    "ja_name": "アンカーショット",
+    "power": 80,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ほっぺすりすり": {
+    "ja_name": "ほっぺすりすり",
+    "power": 20,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "このは": {
+    "ja_name": "このは",
+    "power": 40,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "とぎすます": {
+    "ja_name": "とぎすます",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "まとわりつく": {
+    "ja_name": "まとわりつく",
+    "power": 20,
+    "type": "bug",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "サイコフィールド": {
+    "ja_name": "サイコフィールド",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "じょうか": {
+    "ja_name": "じょうか",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ほのおのムチ": {
+    "ja_name": "ほのおのムチ",
+    "power": 80,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "もえつきる": {
+    "ja_name": "もえつきる",
+    "power": 130,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "つけあがる": {
+    "ja_name": "つけあがる",
+    "power": 20,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "コアパニッシャー": {
+    "ja_name": "コアパニッシャー",
+    "power": 100,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "スピードスワップ": {
+    "ja_name": "スピードスワップ",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "さいはい": {
+    "ja_name": "さいはい",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "めざめるダンス": {
+    "ja_name": "めざめるダンス",
+    "power": 90,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "シャドーアローズストライク": {
+    "ja_name": "シャドーアローズストライク",
+    "power": 180,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "くちばしキャノン": {
+    "ja_name": "くちばしキャノン",
+    "power": 100,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ガーディアン・デ・アローラ": {
+    "ja_name": "ガーディアン・デ・アローラ",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ハイパーダーククラッシャー": {
+    "ja_name": "ハイパーダーククラッシャー",
+    "power": 180,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "オーロラベール": {
+    "ja_name": "オーロラベール",
+    "power": null,
+    "type": "ice",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "わだつみのシンフォニア": {
+    "ja_name": "わだつみのシンフォニア",
+    "power": 195,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ライトニングサーフライド": {
+    "ja_name": "ライトニングサーフライド",
+    "power": 175,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ドラゴンハンマー": {
+    "ja_name": "ドラゴンハンマー",
+    "power": 90,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ほんきをだす　こうげき": {
+    "ja_name": "ほんきをだす　こうげき",
+    "power": 210,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "しちせいだっこんたい": {
+    "ja_name": "しちせいだっこんたい",
+    "power": 195,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "オリジンズスーパーノヴァ": {
+    "ja_name": "オリジンズスーパーノヴァ",
+    "power": 185,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ナインエボルブースト": {
+    "ja_name": "ナインエボルブースト",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "トラップシェル": {
+    "ja_name": "トラップシェル",
+    "power": 150,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "フルールカノン": {
+    "ja_name": "フルールカノン",
+    "power": 130,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "シャドーボーン": {
+    "ja_name": "シャドーボーン",
+    "power": 85,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "サイコファング": {
+    "ja_name": "サイコファング",
+    "power": 85,
+    "type": "psychic",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "じだんだ": {
+    "ja_name": "じだんだ",
+    "power": 75,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "プリズムレーザー": {
+    "ja_name": "プリズムレーザー",
+    "power": 160,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ソーラーブレード": {
+    "ja_name": "ソーラーブレード",
+    "power": 125,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "シャドーレイ": {
+    "ja_name": "シャドーレイ",
+    "power": 100,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "シャドースチール": {
+    "ja_name": "シャドースチール",
+    "power": 90,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "メテオドライブ": {
+    "ja_name": "メテオドライブ",
+    "power": 100,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "びりびりちくちく": {
+    "ja_name": "びりびりちくちく",
+    "power": 80,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "アクアブレイク": {
+    "ja_name": "アクアブレイク",
+    "power": 85,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "しぜんのいかり": {
+    "ja_name": "しぜんのいかり",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "トーチカ": {
+    "ja_name": "トーチカ",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "マルチアタック": {
+    "ja_name": "マルチアタック",
+    "power": 120,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "じごくづき": {
+    "ja_name": "じごくづき",
+    "power": 80,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "１０００まんボルト": {
+    "ja_name": "１０００まんボルト",
+    "power": 195,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "うたかたのアリア": {
+    "ja_name": "うたかたのアリア",
+    "power": 90,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "フォトンゲイザー": {
+    "ja_name": "フォトンゲイザー",
+    "power": 100,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ビックリヘッド": {
+    "ja_name": "ビックリヘッド",
+    "power": 150,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "てんこがすめつぼうのひかり": {
+    "ja_name": "てんこがすめつぼうのひかり",
+    "power": 200,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "プラズマフィスト": {
+    "ja_name": "プラズマフィスト",
+    "power": 100,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "サンシャインスマッシャー": {
+    "ja_name": "サンシャインスマッシャー",
+    "power": 200,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ぽかぼかフレンドタイム": {
+    "ja_name": "ぽかぼかフレンドタイム",
+    "power": 190,
+    "type": "fairy",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ムーンライトブラスター": {
+    "ja_name": "ムーンライトブラスター",
+    "power": 200,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ラジアルエッジストーム": {
+    "ja_name": "ラジアルエッジストーム",
+    "power": 190,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ブレイジングソウルビート": {
+    "ja_name": "ブレイジングソウルビート",
+    "power": 185,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ばちばちアクセル": {
+    "ja_name": "ばちばちアクセル",
+    "power": 80,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ざぶざぶサーフ": {
+    "ja_name": "ざぶざぶサーフ",
+    "power": 90,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "トロピカルキック": {
+    "ja_name": "トロピカルキック",
+    "power": 70,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ピカピカサンダー": {
+    "ja_name": "ピカピカサンダー",
+    "power": null,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": null
+  },
+  "ぶんまわす": {
+    "ja_name": "ぶんまわす",
+    "power": 60,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "いきいきバブル": {
+    "ja_name": "いきいきバブル",
+    "power": 60,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ふわふわフォール": {
+    "ja_name": "ふわふわフォール",
+    "power": 90,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "どばどばオーラ": {
+    "ja_name": "どばどばオーラ",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "わるわるゾーン": {
+    "ja_name": "わるわるゾーン",
+    "power": 80,
+    "type": "dark",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "とびかかる": {
+    "ja_name": "とびかかる",
+    "power": 80,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "すくすくボンバー": {
+    "ja_name": "すくすくボンバー",
+    "power": 100,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "めらめらバーン": {
+    "ja_name": "めらめらバーン",
+    "power": 60,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "びりびりエレキ": {
+    "ja_name": "びりびりエレキ",
+    "power": 60,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "こちこちフロスト": {
+    "ja_name": "こちこちフロスト",
+    "power": 100,
+    "type": "ice",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "ダブルパンツァー": {
+    "ja_name": "ダブルパンツァー",
+    "power": 60,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ダイウォール": {
+    "ja_name": "ダイウォール",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ブイブイブレイク": {
+    "ja_name": "ブイブイブレイク",
+    "power": null,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "アイスハンマー": {
+    "ja_name": "アイスハンマー",
+    "power": 100,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "きらきらストーム": {
+    "ja_name": "きらきらストーム",
+    "power": 120,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "ねらいうち": {
+    "ja_name": "ねらいうち",
+    "power": 80,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "スケイルノイズ": {
+    "ja_name": "スケイルノイズ",
+    "power": 110,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ダイマックスほう": {
+    "ja_name": "ダイマックスほう",
+    "power": 100,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "くらいつく": {
+    "ja_name": "くらいつく",
+    "power": 80,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "はいすいのじん": {
+    "ja_name": "はいすいのじん",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "まほうのこな": {
+    "ja_name": "まほうのこな",
+    "power": null,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ほおばる": {
+    "ja_name": "ほおばる",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "タールショット": {
+    "ja_name": "タールショット",
+    "power": null,
+    "type": "rock",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "たこがため": {
+    "ja_name": "たこがため",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "ドラゴンアロー": {
+    "ja_name": "ドラゴンアロー",
+    "power": 50,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ダイバーン": {
+    "ja_name": "ダイバーン",
+    "power": 100,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "おちゃかい": {
+    "ja_name": "おちゃかい",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ダイサンダー": {
+    "ja_name": "ダイサンダー",
+    "power": 10,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイワーム": {
+    "ja_name": "ダイワーム",
+    "power": 10,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイアタック": {
+    "ja_name": "ダイアタック",
+    "power": 10,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "コートチェンジ": {
+    "ja_name": "コートチェンジ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "エラがみ": {
+    "ja_name": "エラがみ",
+    "power": 85,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "でんげきくちばし": {
+    "ja_name": "でんげきくちばし",
+    "power": 85,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ダイホロウ": {
+    "ja_name": "ダイホロウ",
+    "power": 10,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイナックル": {
+    "ja_name": "ダイナックル",
+    "power": 10,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイストリーム": {
+    "ja_name": "ダイストリーム",
+    "power": 10,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイジェット": {
+    "ja_name": "ダイジェット",
+    "power": 10,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイアイス": {
+    "ja_name": "ダイアイス",
+    "power": 10,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイフェアリー": {
+    "ja_name": "ダイフェアリー",
+    "power": 10,
+    "type": "fairy",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイサイコ": {
+    "ja_name": "ダイサイコ",
+    "power": 10,
+    "type": "psychic",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイアース": {
+    "ja_name": "ダイアース",
+    "power": 10,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイアシッド": {
+    "ja_name": "ダイアシッド",
+    "power": 10,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイロック": {
+    "ja_name": "ダイロック",
+    "power": 10,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイドラグーン": {
+    "ja_name": "ダイドラグーン",
+    "power": 10,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイソウゲン": {
+    "ja_name": "ダイソウゲン",
+    "power": 10,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ダイアーク": {
+    "ja_name": "ダイアーク",
+    "power": 10,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "アクセルロック": {
+    "ja_name": "アクセルロック",
+    "power": 40,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ボディプレス": {
+    "ja_name": "ボディプレス",
+    "power": 80,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ドラムアタック": {
+    "ja_name": "ドラムアタック",
+    "power": 80,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "デコレーション": {
+    "ja_name": "デコレーション",
+    "power": null,
+    "type": "fairy",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ダイスチル": {
+    "ja_name": "ダイスチル",
+    "power": 10,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "かえんボール": {
+    "ja_name": "かえんボール",
+    "power": 120,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "トラバサミ": {
+    "ja_name": "トラバサミ",
+    "power": 35,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "きょじゅうだん": {
+    "ja_name": "きょじゅうだん",
+    "power": 100,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "きょじゅうざん": {
+    "ja_name": "きょじゅうざん",
+    "power": 100,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "オーバードライブ": {
+    "ja_name": "オーバードライブ",
+    "power": 80,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ソウルクラッシュ": {
+    "ja_name": "ソウルクラッシュ",
+    "power": 75,
+    "type": "fairy",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "いのちのしずく": {
+    "ja_name": "いのちのしずく",
+    "power": null,
+    "type": "water",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ワンダースチーム": {
+    "ja_name": "ワンダースチーム",
+    "power": 90,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "スターアサルト": {
+    "ja_name": "スターアサルト",
+    "power": 150,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "スマートホーン": {
+    "ja_name": "スマートホーン",
+    "power": 70,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "どげざつき": {
+    "ja_name": "どげざつき",
+    "power": 80,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "ワイドブレイカー": {
+    "ja_name": "ワイドブレイカー",
+    "power": 60,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ブロッキング": {
+    "ja_name": "ブロッキング",
+    "power": null,
+    "type": "dark",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "てっていこうせん": {
+    "ja_name": "てっていこうせん",
+    "power": 140,
+    "type": "steel",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "ムゲンダイビーム": {
+    "ja_name": "ムゲンダイビーム",
+    "power": 160,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "ワイドフォース": {
+    "ja_name": "ワイドフォース",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "スケイルショット": {
+    "ja_name": "スケイルショット",
+    "power": 25,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "シェルアームズ": {
+    "ja_name": "シェルアームズ",
+    "power": 90,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ミストバースト": {
+    "ja_name": "ミストバースト",
+    "power": 100,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "うっぷんばらし": {
+    "ja_name": "うっぷんばらし",
+    "power": 75,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "しっとのほのお": {
+    "ja_name": "しっとのほのお",
+    "power": 70,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "なみだめ": {
+    "ja_name": "なみだめ",
+    "power": null,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ポルターガイスト": {
+    "ja_name": "ポルターガイスト",
+    "power": 110,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ふしょくガス": {
+    "ja_name": "ふしょくガス",
+    "power": null,
+    "type": "poison",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "コーチング": {
+    "ja_name": "コーチング",
+    "power": null,
+    "type": "fighting",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "クイックターン": {
+    "ja_name": "クイックターン",
+    "power": 60,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "はいよるいちげき": {
+    "ja_name": "はいよるいちげき",
+    "power": 70,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "あんこくきょうだ": {
+    "ja_name": "あんこくきょうだ",
+    "power": 75,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ねっさのだいち": {
+    "ja_name": "ねっさのだいち",
+    "power": 70,
+    "type": "ground",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ジャングルヒール": {
+    "ja_name": "ジャングルヒール",
+    "power": null,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "サンダープリズン": {
+    "ja_name": "サンダープリズン",
+    "power": 80,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "すいりゅうれんだ": {
+    "ja_name": "すいりゅうれんだ",
+    "power": 25,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "いてつくしせん": {
+    "ja_name": "いてつくしせん",
+    "power": 90,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ドラゴンエナジー": {
+    "ja_name": "ドラゴンエナジー",
+    "power": 150,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "もえあがるいかり": {
+    "ja_name": "もえあがるいかり",
+    "power": 90,
+    "type": "dark",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "らいめいげり": {
+    "ja_name": "らいめいげり",
+    "power": 90,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ぶきみなじゅもん": {
+    "ja_name": "ぶきみなじゅもん",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "アストラルビット": {
+    "ja_name": "アストラルビット",
+    "power": 120,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ブリザードランス": {
+    "ja_name": "ブリザードランス",
+    "power": 120,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "パワーシフト": {
+    "ja_name": "パワーシフト",
+    "power": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ソウルビート": {
+    "ja_name": "ソウルビート",
+    "power": null,
+    "type": "dragon",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "はるのあらし": {
+    "ja_name": "はるのあらし",
+    "power": 100,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 80
+  },
+  "がんせきアックス": {
+    "ja_name": "がんせきアックス",
+    "power": 65,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "Ｇのちから": {
+    "ja_name": "Ｇのちから",
+    "power": 80,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "しんぴのちから": {
+    "ja_name": "しんぴのちから",
+    "power": 70,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "オーラぐるま": {
+    "ja_name": "オーラぐるま",
+    "power": 110,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "クロロブラスト": {
+    "ja_name": "クロロブラスト",
+    "power": 150,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 95
+  },
+  "ウェーブタックル": {
+    "ja_name": "ウェーブタックル",
+    "power": 120,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "どくばりセンボン": {
+    "ja_name": "どくばりセンボン",
+    "power": 60,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ひょうざんおろし": {
+    "ja_name": "ひょうざんおろし",
+    "power": 100,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 85
+  },
+  "メテオビーム": {
+    "ja_name": "メテオビーム",
+    "power": 120,
+    "type": "rock",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "しょうりのまい": {
+    "ja_name": "しょうりのまい",
+    "power": 0,
+    "type": "fighting",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "グラススライダー": {
+    "ja_name": "グラススライダー",
+    "power": 55,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "オーラウイング": {
+    "ja_name": "オーラウイング",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ぶちかまし": {
+    "ja_name": "ぶちかまし",
+    "power": 120,
+    "type": "ground",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "アイアンローラー": {
+    "ja_name": "アイアンローラー",
+    "power": 130,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "たてこもる": {
+    "ja_name": "たてこもる",
+    "power": 0,
+    "type": "steel",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "うらみつらみ": {
+    "ja_name": "うらみつらみ",
+    "power": 75,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "３ぼんのや": {
+    "ja_name": "３ぼんのや",
+    "power": 90,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ひけん・ちえなみ": {
+    "ja_name": "ひけん・ちえなみ",
+    "power": 65,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "かみなりあらし": {
+    "ja_name": "かみなりあらし",
+    "power": 100,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 80
+  },
+  "こがらしあらし": {
+    "ja_name": "こがらしあらし",
+    "power": 100,
+    "type": "flying",
+    "damage_class": "special",
+    "accuracy": 80
+  },
+  "ひゃっきやこう": {
+    "ja_name": "ひゃっきやこう",
+    "power": 60,
+    "type": "ghost",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ブレイブチャージ": {
+    "ja_name": "ブレイブチャージ",
+    "power": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "りんごさん": {
+    "ja_name": "りんごさん",
+    "power": 80,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "テラバースト": {
+    "ja_name": "テラバースト",
+    "power": 80,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "みかづきのいのり": {
+    "ja_name": "みかづきのいのり",
+    "power": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ライジングボルト": {
+    "ja_name": "ライジングボルト",
+    "power": 70,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "だいちのはどう": {
+    "ja_name": "だいちのはどう",
+    "power": 50,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ねっさのあらし": {
+    "ja_name": "ねっさのあらし",
+    "power": 100,
+    "type": "ground",
+    "damage_class": "special",
+    "accuracy": 80
+  },
+  "スレッドトラップ": {
+    "ja_name": "スレッドトラップ",
+    "power": 0,
+    "type": "bug",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "おはかまいり": {
+    "ja_name": "おはかまいり",
+    "power": 50,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "いっちょうあがり": {
+    "ja_name": "いっちょうあがり",
+    "power": 80,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ホイールスピン": {
+    "ja_name": "ホイールスピン",
+    "power": 100,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ジェットパンチ": {
+    "ja_name": "ジェットパンチ",
+    "power": 60,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "トリプルアクセル": {
+    "ja_name": "トリプルアクセル",
+    "power": 20,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ダブルウイング": {
+    "ja_name": "ダブルウイング",
+    "power": 40,
+    "type": "flying",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ルミナコリジョン": {
+    "ja_name": "ルミナコリジョン",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "きょけんとつげき": {
+    "ja_name": "きょけんとつげき",
+    "power": 120,
+    "type": "dragon",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "さいきのいのり": {
+    "ja_name": "さいきのいのり",
+    "power": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "うつしえ": {
+    "ja_name": "うつしえ",
+    "power": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": 100
+  },
+  "フェイタルクロー": {
+    "ja_name": "フェイタルクロー",
+    "power": 80,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "みをけずる": {
+    "ja_name": "みをけずる",
+    "power": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "バリアーラッシュ": {
+    "ja_name": "バリアーラッシュ",
+    "power": 70,
+    "type": "psychic",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "ドゲザン": {
+    "ja_name": "ドゲザン",
+    "power": 85,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "トリプルダイブ": {
+    "ja_name": "トリプルダイブ",
+    "power": 30,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "キラースピン": {
+    "ja_name": "キラースピン",
+    "power": 30,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ゴールドラッシュ": {
+    "ja_name": "ゴールドラッシュ",
+    "power": 120,
+    "type": "steel",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "アクアステップ": {
+    "ja_name": "アクアステップ",
+    "power": 80,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "サイコブレイド ": {
+    "ja_name": "サイコブレイド ",
+    "power": 80,
+    "type": "psychic",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "えだづき": {
+    "ja_name": "えだづき",
+    "power": 40,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "カタストロフィ": {
+    "ja_name": "カタストロフィ",
+    "power": 1,
+    "type": "dark",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "アクセルブレイク": {
+    "ja_name": "アクセルブレイク",
+    "power": 100,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "イナズマドライブ": {
+    "ja_name": "イナズマドライブ",
+    "power": 100,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ハイドロスチーム": {
+    "ja_name": "ハイドロスチーム",
+    "power": 80,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "しっぽきり": {
+    "ja_name": "しっぽきり",
+    "power": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "ゆきげしき": {
+    "ja_name": "ゆきげしき",
+    "power": 0,
+    "type": "ice",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "さむいギャグ": {
+    "ja_name": "さむいギャグ",
+    "power": 0,
+    "type": "ice",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "くさわけ": {
+    "ja_name": "くさわけ",
+    "power": 50,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ひやみず": {
+    "ja_name": "ひやみず",
+    "power": 50,
+    "type": "water",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ふんどのこぶし": {
+    "ja_name": "ふんどのこぶし",
+    "power": 50,
+    "type": "ghost",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ハイパードリル": {
+    "ja_name": "ハイパードリル",
+    "power": 100,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "だいふんげき": {
+    "ja_name": "だいふんげき",
+    "power": 120,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "アーマーキャノン": {
+    "ja_name": "アーマーキャノン",
+    "power": 120,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "でんこうそうげき": {
+    "ja_name": "でんこうそうげき",
+    "power": 120,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ほうふく": {
+    "ja_name": "ほうふく",
+    "power": 1,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "バーンアクセル": {
+    "ja_name": "バーンアクセル",
+    "power": 80,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "アクアカッター": {
+    "ja_name": "アクアカッター",
+    "power": 70,
+    "type": "water",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ポイズンアクセル": {
+    "ja_name": "ポイズンアクセル",
+    "power": 100,
+    "type": "poison",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ダークアクセル": {
+    "ja_name": "ダークアクセル",
+    "power": 80,
+    "type": "dark",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ネズミざん": {
+    "ja_name": "ネズミざん",
+    "power": 20,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "マジカルアクセル": {
+    "ja_name": "マジカルアクセル",
+    "power": 100,
+    "type": "fairy",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ブラッドムーン": {
+    "ja_name": "ブラッドムーン",
+    "power": 140,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ファイトアクセル": {
+    "ja_name": "ファイトアクセル",
+    "power": 100,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "しおづけ": {
+    "ja_name": "しおづけ",
+    "power": 40,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "みずあめボム": {
+    "ja_name": "みずあめボム",
+    "power": 60,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 85
+  },
+  "ツタこんぼう": {
+    "ja_name": "ツタこんぼう",
+    "power": 100,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ハバネロエキス": {
+    "ja_name": "ハバネロエキス",
+    "power": 0,
+    "type": "grass",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "テラクラスター": {
+    "ja_name": "テラクラスター",
+    "power": 120,
+    "type": "normal",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "トリックフラワー": {
+    "ja_name": "トリックフラワー",
+    "power": 70,
+    "type": "grass",
+    "damage_class": "physical",
+    "accuracy": null
+  },
+  "かえんのまもり": {
+    "ja_name": "かえんのまもり",
+    "power": 0,
+    "type": "fire",
+    "damage_class": "status",
+    "accuracy": 0
+  },
+  "タキオンカッター": {
+    "ja_name": "タキオンカッター",
+    "power": 50,
+    "type": "steel",
+    "damage_class": "special",
+    "accuracy": 0
+  },
+  "アイススピナー": {
+    "ja_name": "アイススピナー",
+    "power": 80,
+    "type": "ice",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "じんらい": {
+    "ja_name": "じんらい",
+    "power": 70,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "パワフルエッジ": {
+    "ja_name": "パワフルエッジ",
+    "power": 95,
+    "type": "rock",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "ハードプレス": {
+    "ja_name": "ハードプレス",
+    "power": 0,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "フレアソング": {
+    "ja_name": "フレアソング",
+    "power": 80,
+    "type": "fire",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "かかとおとし": {
+    "ja_name": "かかとおとし",
+    "power": 120,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 90
+  },
+  "とびつく": {
+    "ja_name": "とびつく",
+    "power": 50,
+    "type": "bug",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "サンダーダイブ": {
+    "ja_name": "サンダーダイブ",
+    "power": 100,
+    "type": "electric",
+    "damage_class": "physical",
+    "accuracy": 95
+  },
+  "じゃどくのくさり": {
+    "ja_name": "じゃどくのくさり",
+    "power": 100,
+    "type": "poison",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "サイコノイズ": {
+    "ja_name": "サイコノイズ",
+    "power": 75,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "おかたづけ": {
+    "ja_name": "おかたづけ",
+    "power": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "accuracy": null
+  },
+  "レイジングブル": {
+    "ja_name": "レイジングブル",
+    "power": 90,
+    "type": "normal",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "はやてがえし": {
+    "ja_name": "はやてがえし",
+    "power": 65,
+    "type": "fighting",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "デカハンマー": {
+    "ja_name": "デカハンマー",
+    "power": 160,
+    "type": "steel",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "むねんのつるぎ": {
+    "ja_name": "むねんのつるぎ",
+    "power": 90,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "シャカシャカほう": {
+    "ja_name": "シャカシャカほう",
+    "power": 80,
+    "type": "grass",
+    "damage_class": "special",
+    "accuracy": 90
+  },
+  "エレクトロビーム": {
+    "ja_name": "エレクトロビーム",
+    "power": 130,
+    "type": "electric",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "きまぐレーザー": {
+    "ja_name": "きまぐレーザー",
+    "power": 80,
+    "type": "dragon",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "やけっぱち": {
+    "ja_name": "やけっぱち",
+    "power": 75,
+    "type": "fire",
+    "damage_class": "physical",
+    "accuracy": 100
+  },
+  "みわくのボイス": {
+    "ja_name": "みわくのボイス",
+    "power": 80,
+    "type": "fairy",
+    "damage_class": "special",
+    "accuracy": 100
+  },
+  "ドラゴンエール": {
+    "ja_name": "ドラゴンエール",
+    "power": 0,
+    "type": "dragon",
+    "damage_class": "status",
+    "accuracy": 0
+  },
+  "ツインビーム": {
+    "ja_name": "ツインビーム",
+    "power": 40,
+    "type": "psychic",
+    "damage_class": "special",
+    "accuracy": 100
+  }
+}
